@@ -133,7 +133,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: I Slept on 42 Sofas # blog_name will be displayed in your blog page
+blog_name: I Slept on 40 Sofas # blog_name will be displayed in your blog page
 blog_description: 我，睡了，42个人的沙发。A Couchsurfer's Story
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
