@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Paper accepted: Demi Zhang, Bushi Xiao, Chao Gao, Sangpil Youm, Bonnie J Dorr, Modeling Bilingual Sentence Processing: [Evaluating RNN and Transformer Architectures for Cross-Language Structural Priming](https://arxiv.org/abs/2405.09508), Proceedings of the 4th Workshop on Multi-lingual Representation Learning (MRL)

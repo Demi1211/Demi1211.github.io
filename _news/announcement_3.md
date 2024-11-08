@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-11-16 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Presented work at the 4th Multilingual Representation Learning ([MRL](https://sigtyp.github.io/ws2024-mrl.html)) Workshop, co-located with EMNLP in Miami, Floria. 
