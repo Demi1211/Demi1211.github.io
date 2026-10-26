@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Service and outreach
-description: Department service, conference volunteering, reviewing, and public-facing language science outreach.
+title: "Service and outreach"
+description: "Department service, conference volunteering, reviewing, and public-facing language science outreach."
 img: assets/img/news/anyang-lecture-2026.jpg
 importance: 1
 category: service

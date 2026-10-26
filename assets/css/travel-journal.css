@@ -31,3 +31,4 @@
 .photo-row { grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); }
 .photo-row .journal-photo img { width: 100%; height: 320px; max-height: none; object-fit: cover; }
 @media (max-width: 700px) { .photo-row .journal-photo img { height: auto; } }
+.photo-caption { text-align: center; font-size: .88rem; color: var(--global-text-color-light); margin: -.8rem 0 1.5rem; }

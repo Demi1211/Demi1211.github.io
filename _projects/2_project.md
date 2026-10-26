@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Moral and semantic violations
-description: EEG/ERP work comparing brain responses to moral and semantic anomalies.
-img: assets/img/publication_preview/wave-mechanics.gif
+title: "Moral and semantic violations"
+description: "EEG/ERP study (2023–2026) comparing brain responses to moral and semantic violations. Published in Brain Sciences."
+img: assets/img/projects/moral-erp.jpg
 importance: 2
-category: research
+category: past research
 related_publications: true
 ---
 

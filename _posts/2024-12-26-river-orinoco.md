@@ -244,8 +244,8 @@ thumbnail: /assets/img/travel/orinoco/orinoco-04.jpg
 <section class="journal-day" id="day-4">
   <header>
     <span class="day-label">第四天 Resguardo 原住民自治区</span>
-    <h2>Day 4 · An Indigenous reserve (resguardo)</h2>
-    <div class="day-meta"><i class="fa-solid fa-calendar"></i> December 21, 2024 &nbsp;·&nbsp; <i class="fa-solid fa-location-dot"></i> An Indigenous resguardo on the river</div>
+    <h2>Day 4 · Cumaribo</h2>
+    <div class="day-meta"><i class="fa-solid fa-calendar"></i> December 21, 2024 &nbsp;·&nbsp; <i class="fa-solid fa-location-dot"></i> Cumaribo, Vichada</div>
   </header>
 
 <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-36.jpg' | relative_url }}" alt="River Orinoco, day photo 36" loading="lazy"></figure>

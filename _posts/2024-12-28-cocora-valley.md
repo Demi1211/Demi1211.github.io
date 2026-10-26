@@ -2,7 +2,7 @@
 layout: post
 title: "Cócora Valley 科科拉山谷"
 date: 2024-12-28
-description: Wax palms, a barbed-wire palm line, and a coffee farm. Written by two of us: Juan in English, Demi in Chinese.
+description: "Wax palms, a barbed-wire palm line, and a coffee farm. Written by two of us: Juan in English, Demi in Chinese."
 tags: travel
 categories: travel
 ---
