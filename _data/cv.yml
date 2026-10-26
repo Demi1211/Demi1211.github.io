@@ -2,96 +2,134 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Demi Zhang
+    - name: Email
+      value: <a href="mailto:zhang.yidan@ufl.edu">zhang.yidan@ufl.edu</a>
+    - name: Location
+      value: Gainesville, Florida
+    - name: Research Areas
+      value: Psycholinguistics, bilingualism, code-switching, ERP/EEG, computational linguistics, multilingual NLP
     - name: Languages
-      value: English, German
+      value: Mandarin Chinese, English, conversational Spanish and French
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Linguistics
+      institution: University of Florida, Gainesville, FL
+      year: 2023 - expected 2028
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Advisor: Dr. Edith Kaan, Brain Language and Bilingualism Lab.
+        - Ph.D. minor in Computer Science with Dr. Bonnie Dorr, NLP & Culture Lab.
+        - GPA 3.96/4.0; 80 credits completed as of January 2026.
+    - title: M.Ed. in English Language Learners
+      institution: Vanderbilt University, Nashville, TN
+      year: 2021 - 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Language Studies & Development track; advisor Dr. James Booth.
+        - GPA 3.966/4.0.
+    - title: B.A. in English
+      institution: Nanjing Agricultural University, Nanjing, China
+      year: 2016 - 2020
+      description:
+        - GPA 88.86/100, top 5%.
 
-- title: Experience
+- title: Publications
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Comparing Brain Responses to Moral and Semantic Violations
+      institution: Brain Sciences, 16(4), 375
+      year: 2026
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Jian Meng, Demi Zhang, Yuling Zhong, Xiaodong Xu, and Edith Kaan.
+        - <a href="https://doi.org/10.3390/brainsci16040375">doi:10.3390/brainsci16040375</a>
+    - title: FIDELITY
+      institution: Findings of NAACL 2025
+      year: 2025
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Fine-grained Interpretable Distillation for Effective Language Insights and Topic Yielding.
+        - Divyansh Singh, Brodie Mather, Demi Zhang, Patrick Lehman, Justin Ho, and Bonnie J. Dorr.
+    - title: PANDA
+      institution: First Workshop on Multilingual Counterspeech Generation
+      year: 2025
       description:
+        - Paired Anti-hate Narratives Dataset from Asia.
+    - title: Modeling Bilingual Sentence Processing
+      institution: Fourth Workshop on Multilingual Representation Learning
+      year: 2024
+      description:
+        - Evaluating RNN and Transformer Architectures for Cross-Language Structural Priming.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Research Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Code-switching Production and Cognitive Control
+      institution: Brain Language and Bilingualism Lab, University of Florida
+      year: 2024 - present
+      description:
+        - Lead a study on how code-switching production shapes cognitive control and conflict adaptation.
+        - Designed E-Prime tasks, verbal fluency measures, bilingual profile questionnaires, coding schemes, and statistical analysis workflow.
+        - Manage IRB materials and mentor two undergraduate research assistants.
+    - title: Moral Judgment and Semantic Violation Project
+      institution: Brain Language and Bilingualism Lab, University of Florida
+      year: 2023 - present
+      description:
+        - Designed experimental sentences and materials for an EEG study of moral and semantic violations.
+        - Collect EEG data and model N400/P600 ERP responses using language-model surprisal measures.
+    - title: Morphological Language Transfer Project
+      institution: Brain Development Lab, Vanderbilt University
+      year: 2021 - 2023
+      description:
+        - Recruited participants and collected behavioral and fMRI data on artificial-language learning and derivational morphology.
+        - Analyzed response accuracy, reaction time, and individual differences in learning outcomes.
 
-- title: Honors and Awards
+- title: Presentations
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - "Producing code-switches: Adaptation of cognitive control in code-switching. AMLaP 2025, Prague, Czechia."
+        - "FIDELITY: Fine-grained Interpretable Distillation for Effective Language Insights and Topic Yielding. NAACL 2025, Albuquerque, NM."
+        - "Comparing brain responses to moral and semantic violations. Human Sentence Processing 2025, University of Maryland."
+        - "Producing code-switches: Adaptation of cognitive control in code-switching. Florida Psycholinguistics Meeting, Tallahassee, FL."
 
-- title: Academic Interests
-  type: nested_list
+- title: Teaching
+  type: time_table
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Instructor of Record and Writing Coach
+      institution: University of Florida
+      year: 2023 - 2025
+      description:
+        - Taught ENC 1101 Expository and Argumentative Writing across four semesters, reaching 200+ undergraduate students.
+        - Served as writing coach/instructor for professional writing courses and grader for LIN 1140 Language and Emotion.
+        - Maintained strong teaching evaluations, including an average 4.72/5 in ENC 1101.
+    - title: ACT, AP, and IELTS Instructor
+      institution: New Channel International Education Group, Nanjing, China
+      year: 2020 - 2021
+      description:
+        - Taught ACT Science, AP Calculus, AP Physics, and IELTS Reading with 1200+ cumulative teaching hours.
 
-- title: Other Interests
+- title: Service and Outreach
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - GLS Seminar Coordinator, Spring 2025; organized seminars and a Jolof cook-off.
+    - Reviewer for Journal of Neuroscience and ACL Rolling Review.
+    - Volunteer for NAACL 2025, UF language science outreach at Cade Museum, and Brain Awareness Week at Glen Springs Elementary.
+    - Guest lecture, "Introduction to Linguistics," Anyang Normal University, May 2025.
+
+- title: Grants and Awards
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - Linguistics Department Travel Grant, $450.
+        - CLAS Summer Travel Award, $400.
+        - GSC International Travel Grant, $500.
+
+- title: Skills
+  type: list
+  contents:
+    - "Programming and tools: Python, R, SQL, E-Prime, HTML, Apache Superset."
+    - "Data analysis: exploratory data analysis, statistical modeling, visualization, pandas, NumPy, ggplot2."
+    - "NLP and machine learning: text preprocessing, topic modeling, named entity recognition, sentiment analysis, NLTK, BERT, Hugging Face Transformers, TensorFlow, PyTorch."
+    - "Certificate: NVIDIA Deep Learning Institute Certificate."

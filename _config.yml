@@ -2,17 +2,16 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Demi Zhang # the website title (if blank, full name will be used instead)
 first_name: Demi
 middle_name: 
 last_name: Zhang
 email: zhang.yidan@ufl.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Demi Zhang's personal website. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Demi Zhang's personal website.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords:  # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: capy.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -81,7 +80,7 @@ flickr_id: # your flickr id
 github_username: demi1211 # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id: 1010907 # Inspire HEP author ID
+inspirehep_id: # Inspire HEP author ID
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
@@ -168,13 +167,7 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+external_sources: []
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -261,7 +254,6 @@ plugins:
   - jekyll-imagemagick
   - jekyll-jupyter-notebook
   - jekyll-link-attributes
-  - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll-regex-replace
   - jekyll/scholar
@@ -286,6 +278,10 @@ sass:
 # -----------------------------------------------------------------------------
 
 jekyll-minifier:
+  compress_html: false
+  compress_css: false
+  compress_javascript: false
+  compress_json: false
   exclude: ["robots.txt", "assets/js/search/*.js"]
   uglifier_args:
     harmony: true
@@ -305,16 +301,16 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+display_tags: ["travel", "cycling", "field notes"] # these tags will be displayed on the front page of your blog
+display_categories: ["travel"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Zhang]
+  first_name: [Demi]
 
   style: apa
   locale: en

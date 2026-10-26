@@ -1,0 +1,33 @@
+/* Shared layout for bilingual travel journal posts */
+.journal { max-width: 860px; margin: 0 auto; }
+.journal-intro { font-size: 1.02rem; line-height: 1.75; margin-bottom: 2rem; }
+.journal-day { margin: 3rem 0; padding-top: 1.25rem; border-top: 1px solid var(--global-divider-color); }
+.journal-day > header { margin-bottom: 1.25rem; }
+.journal-day .day-label { display: block; font-size: .8rem; letter-spacing: .08em; text-transform: uppercase; color: var(--global-text-color-light); }
+.journal-day h2 { margin: .2rem 0 .3rem; font-size: 1.45rem; }
+.journal-day .day-meta { font-size: .92rem; color: var(--global-text-color-light); }
+.journal-day .day-meta i { margin-right: .3rem; }
+.journal h3.subplace { margin: 2rem 0 1rem; font-size: 1.1rem; }
+/* each Chinese paragraph sits next to its English translation */
+.pair { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin: 0 0 1.1rem; }
+.pair p { margin: 0; line-height: 1.8; font-size: .97rem; }
+.pair .en { color: var(--global-text-color-light); }
+.pair.solo { grid-template-columns: 1fr; }
+.voice { font-size: .78rem; font-weight: 600; letter-spacing: .05em; text-transform: uppercase; color: var(--global-theme-color); display: block; margin-bottom: .2rem; }
+.journal-photo { margin: 1.5rem 0; }
+.journal-photo img { width: 100%; border-radius: 6px; box-shadow: 0 4px 14px rgba(0,0,0,.12); }
+.journal-photo figcaption { font-size: .85rem; color: var(--global-text-color-light); margin-top: .4rem; text-align: center; }
+.photo-row { display: grid; grid-template-columns: 1fr 1fr; gap: .75rem; margin: 1.5rem 0; }
+.photo-row .journal-photo { margin: 0; }
+.notes-list { margin: .5rem 0 1.2rem; padding-left: 1.2rem; line-height: 1.7; font-size: .95rem; }
+@media (max-width: 700px) {
+  .pair { grid-template-columns: 1fr; gap: .4rem; }
+  .photo-row { grid-template-columns: 1fr; }
+}
+.day-index { margin: 1rem 0 2rem; font-size: .92rem; }
+.day-index a { white-space: nowrap; }
+/* single photos: keep portraits from taking over the screen */
+.journal-photo img { display: block; width: auto; max-width: 100%; max-height: 620px; margin: 0 auto; }
+.photo-row { grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); }
+.photo-row .journal-photo img { width: 100%; height: 320px; max-height: none; object-fit: cover; }
+@media (max-width: 700px) { .photo-row .journal-photo img { height: auto; } }

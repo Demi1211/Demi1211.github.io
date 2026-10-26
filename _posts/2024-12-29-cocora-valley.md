@@ -1,0 +1,134 @@
+---
+layout: post
+title: "Cócora Valley 科科拉山谷"
+date: 2024-12-29
+description: Wax palms, a barbed-wire palm line, and a coffee farm. Written by two of us: Juan in English, Demi in Chinese.
+tags: travel
+categories: travel
+published: false # TODO: confirm the date (and rename this file to match), add photos, then delete this line
+---
+
+<link rel="stylesheet" href="{{ '/assets/css/travel-journal.css' | relative_url }}">
+
+<div class="journal">
+
+<p class="journal-intro">A co-written entry: <strong>Juan</strong> wrote in English and <strong>Demi</strong> wrote in Chinese (with an English translation alongside).</p>
+
+<section class="journal-day">
+  <header>
+    <span class="day-label">Journal</span>
+    <h2>Cócora Valley day</h2>
+    <div class="day-meta"><i class="fa-solid fa-calendar"></i> [DATE] &nbsp;·&nbsp; <i class="fa-solid fa-location-dot"></i> Salento &amp; Cócora Valley, Quindío, Colombia</div>
+  </header>
+
+  <div class="pair solo"><p><span class="voice">Juan</span>The day started off with us rushing to Salento to meet up with our tour guide at 9 am sharp. I was excited but also anxious because we traveled 12+ hours to the area for the tour, so I really hoped everything would go well. We were also getting there without eating breakfast or a plan for where to store our bags, since we had already checked out of our hotel for the day. Thankfully the hotel told us about a very nice lady who runs a coffee shop nearby and could hold our stuff at her place. All I had to find her was a piece of paper with the address and phone number, so I tried to find it quickly so that I wouldn't delay our tour further.</p></div>
+
+  {% include journal-photo.liquid src="assets/img/travel/cocora/cocora-01.jpg" %}
+
+  <div class="pair solo"><p><span class="voice">Juan</span>The tour guide was also very nice in adjusting her plans for us by adding a stop for breakfast before the tour of the park.</p></div>
+
+  {% include journal-photo.liquid src="assets/img/travel/cocora/cocora-02.jpg" caption="Looking out the window" %}
+
+  <div class="pair">
+    <p lang="zh"><span class="voice">Demi</span>纵深的深绿色山谷，云雾环绕，好像魔戒世界。</p>
+    <p lang="en" class="en"><span class="voice">&nbsp;</span>Deep green valleys stretching into the distance, wrapped in mist—like a world out of <em>The Lord of the Rings</em>.</p>
+  </div>
+
+  <div class="pair solo"><p><span class="voice">Juan</span>I go in and right away notice their unique palm trees. They are tall and perfectly straight like needles. There is also a thick fog in the sky not too far from the ground.</p></div>
+
+  <div class="pair solo"><p><span class="voice">Juan</span>Throughout the tour we take many photos of ourselves and our surroundings. The park was a bit crowded, but thankfully our guide knew a few spots off the trail where we could enjoy the landscape around us.</p></div>
+
+  {% include journal-photo.liquid src="assets/img/travel/cocora/cocora-03.jpg" %}
+
+  <div class="pair">
+    <p lang="zh"><span class="voice">Demi</span>Cócora valley有毛茸茸的温柔的小山丘，像抹茶雪域蛋糕撒了浓浓的抹茶粉。瘦瘦高高的棕榈树是插在蛋糕上的百奇饼干，上面是大朵的白色cotton candy。草地湿漉漉的，不然好想闭上眼睛躺下，把一切吸进肺里。</p>
+    <p lang="en" class="en"><span class="voice">&nbsp;</span>Cócora Valley has soft, fuzzy little hills, like a matcha snow cake dusted with thick matcha powder. The tall, skinny palms are Pocky sticks stuck into the cake, topped with big white puffs of cotton candy. The grass was wet—otherwise I would have loved to close my eyes, lie down, and breathe it all in.</p>
+  </div>
+
+  {% include journal-photo.liquid src="assets/img/travel/cocora/cocora-04.jpg" caption="A baby palm tree" %}
+
+  <div class="pair">
+    <p lang="zh"><span class="voice">Demi</span>一颗宝宝棕榈树。让我们祝愿她不被马吃掉，茁壮成长80年，变成大树。</p>
+    <p lang="en" class="en"><span class="voice">&nbsp;</span>A baby palm tree. Let's wish that no horse eats her, and that she grows strong for eighty years into a big tree.</p>
+  </div>
+
+  <div class="photo-row">
+    {% include journal-photo.liquid src="assets/img/travel/cocora/cocora-05.jpg" %}
+    {% include journal-photo.liquid src="assets/img/travel/cocora/cocora-06.jpg" %}
+  </div>
+
+  <div class="pair">
+    <p lang="zh"><span class="voice">Demi</span>小马驹儿小羊羔收拾得干干净净，吃草吃得香。</p>
+    <p lang="en" class="en"><span class="voice">&nbsp;</span>The foals and lambs were neat and clean, munching happily on the grass.</p>
+  </div>
+
+  <div class="pair solo"><p><span class="voice">Juan</span>Anyways, on our trek back the ground was only slightly slippery, yet I still fell, and in that moment I thought I had broken a bone (which would have totally ruined the tour we spent so much time and money on)! In reality I was able to get back up after 2–3 minutes.</p></div>
+
+  <div class="pair">
+    <p lang="zh"><span class="voice">Demi</span>黄冈摔倒了，拍拍屁股又站了起来。</p>
+    <p lang="en" class="en"><span class="voice">&nbsp;</span>Juan fell down and stood up super quickly—dusted himself off and carried on.</p>
+  </div>
+
+  {% include journal-photo.liquid src="assets/img/travel/cocora/cocora-07.jpg" %}
+
+  <div class="pair solo"><p><span class="voice">Juan</span>But then I fell again and instinctively grabbed the first surface I could, which was, very conveniently, a piece of barbed wire. The tour guide came to the rescue with her first-aid kit and put a bandage on my wound. I was actually pretty upset about being the only one who fell and now having to deal with this wound for the rest of the trip, but at that point it is what it is, so I just smiled the pain away and thought about the story I could now tell others about my visit to Colombia.</p></div>
+
+  <div class="pair">
+    <p lang="zh"><span class="voice">Demi</span>黄冈再次摔倒，并眼疾手快扶上了旁边带刺的铁丝网，人工拉出一条财富掌纹。让我们祝他2025发大财。</p>
+    <p lang="en" class="en"><span class="voice">&nbsp;</span>Juan fell again, quick-handedly grabbed the barbed wire beside him, and carved himself a man-made wealth line across his palm. Let's wish him a prosperous 2025.</p>
+  </div>
+
+  <div class="pair solo"><p><span class="voice">Juan</span>Moving along, we left the park with the tour guide along a muddy, bumpy road that I would never want to drive myself, out of fear of ruining my car or hitting another car on the narrow roads. It was a little fun, but it got too crazy once the car lost control and got stuck on the way up to the coffee plantation. Had we done this tour ourselves with a rented car, we would have been sooooo screwed. But we didn't! So the only thing I had to worry about was not slipping again and taking care of my wound.</p></div>
+
+  {% include journal-photo.liquid src="assets/img/travel/cocora/cocora-08.jpg" caption="A smoky car" %}
+
+  <div class="pair">
+    <p lang="zh"><span class="voice">Demi</span>Coffee tour，小轿车不自量力上大坡，被卡住了。</p>
+    <p lang="en" class="en"><span class="voice">&nbsp;</span>On the way to the coffee tour, our little car overestimated itself on a steep hill and got stuck.</p>
+  </div>
+
+  <h3 class="subplace"><i class="fa-solid fa-mug-hot"></i> The coffee farm</h3>
+
+  <div class="pair solo"><p><span class="voice">Juan</span>At the plantation we got to try some of their black coffee. Back home, the thought of drinking coffee straight with no sweeteners or sugar would never cross my mind, but this sample was totally enjoyable; in fact, I ended up having Demi's leftover sample. We went on the tour, they showed us how coffee is made, and at the end we each had our very own sample of coffee that we helped prepare.</p></div>
+
+  <div class="pair">
+    <p lang="zh"><span class="voice">Demi</span>先来一杯苦咖啡！</p>
+    <p lang="en" class="en"><span class="voice">&nbsp;</span>First, a cup of black coffee!</p>
+  </div>
+
+  {% include journal-photo.liquid src="assets/img/travel/cocora/cocora-09.jpg" %}
+
+  <div class="pair solo"><div><span class="voice">Demi's notes from the tour</span>
+    <ul class="notes-list">
+      <li>The skin around the bean is called the <em>parchment</em>; underneath are the green coffee beans.</li>
+      <li>A coffee plant's life: "butterfly" seedling at 2 months, little tree at 4 months, adult at 2 years, best quality at 6 years, retired at 18 years.</li>
+      <li>The cherry pulp becomes natural fertilizer.</li>
+      <li>Honey process: the slime is kept for a sweeter taste (4 months). Washed: the slime is removed (2 months). Natural: the whole cherry is dried (8 months), the sweetest and most expensive.</li>
+      <li>Roasting: the beans turn darker and darker. 颜色变化：越来越黑。</li>
+      <li>Pickers are paid 1,000 pesos per kilo.</li>
+      <li>Lunch: arepa, patacón, and hogao, a yummy sauce.</li>
+    </ul>
+  </div></div>
+
+  <div class="photo-row">
+    {% include journal-photo.liquid src="assets/img/travel/cocora/cocora-10.jpg" %}
+    {% include journal-photo.liquid src="assets/img/travel/cocora/cocora-11.jpg" %}
+    {% include journal-photo.liquid src="assets/img/travel/cocora/cocora-12.jpg" %}
+    {% include journal-photo.liquid src="assets/img/travel/cocora/cocora-13.jpg" %}
+  </div>
+
+  <div class="pair solo"><p><span class="voice">Juan</span><strong>How coffee was discovered.</strong> According to the guide at the coffee farm, it was discovered by someone who grew frustrated trying to make a tasty drink out of the coffee seeds (if I remember correctly, lol). He threw the seeds into the fireplace and discovered the aroma of the roasting seeds, and from there coffee was born!</p></div>
+
+  <h3 class="subplace"><i class="fa-solid fa-location-dot"></i> Bonus: Salento after the tour</h3>
+
+  <div class="pair solo"><p><span class="voice">Juan</span>After the tour we had lunch back in Salento and had over 3 hours to explore the tiny town with all of our belongings on our backs. The first hour was simple: we walked the streets lined with vendors to see what they were selling. Once all the sightseeing was exhausted, we found ourselves curiously looking at what a small Colombian grocery store offers the locals. Demi found a type of yogurt that isn't sold in the US, and I bought rubbing alcohol to clean my wound again. We spent the last few minutes in the town center taking turns enjoying the yogurt, while Xinya and Demi poured alcohol over my hand and fanned it dry (still in the town center, very much in public, but none of us cared). Then we walked to the empty bus station and hopped on the bus to Medellín.</p></div>
+
+  <div class="pair">
+    <p lang="zh"><span class="voice">Demi</span>车站有两只非常黏人的小狗，争着要抱抱。</p>
+    <p lang="en" class="en"><span class="voice">&nbsp;</span>There were two very clingy dogs at the bus station who fought for hugs.</p>
+  </div>
+
+  {% include journal-photo.liquid src="assets/img/travel/cocora/cocora-14.jpg" %}
+</section>
+
+</div>

@@ -1,0 +1,12 @@
+{% comment %}
+  Renders a photo only if the file exists, so a missing photo never shows as a broken image.
+  Usage: {% include journal-photo.liquid src="assets/img/travel/medellin/window-day.jpg" caption="..." %}
+{% endcomment %}
+{% assign jp_path = include.src | prepend: '/' %}
+{% assign jp_found = site.static_files | where: 'path', jp_path %}
+{% if jp_found.size > 0 %}
+<figure class="journal-photo{% if include.half %} half{% endif %}">
+  <img src="{{ include.src | relative_url }}" alt="{{ include.caption | default: 'Travel photo' | escape }}" loading="lazy">
+  {% if include.caption %}<figcaption>{{ include.caption }}</figcaption>{% endif %}
+</figure>
+{% endif %}

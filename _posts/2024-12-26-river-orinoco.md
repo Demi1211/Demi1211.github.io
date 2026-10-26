@@ -1,0 +1,576 @@
+---
+layout: post
+title: "River Orinoco 奥里诺科河"
+date: 2024-12-18
+description: Eight days on the Orinoco River, from Puerto Carreño to Inírida. A bilingual journal.
+tags: travel
+categories: travel
+thumbnail: /assets/img/travel/orinoco/orinoco-04.jpg
+---
+
+<link rel="stylesheet" href="{{ '/assets/css/travel-journal.css' | relative_url }}">
+
+<div class="journal">
+
+<div class="pair">
+  <p lang="zh">2024年12月，我在奥里诺科河上度过了八天（12月18日–25日）。这是那段旅程的日记。</p>
+  <p lang="en" class="en">In December 2024 I spent eight days on the Orinoco River (December 18–25). This is my journal from that part of the trip.</p>
+</div>
+
+<nav class="day-index"><a href="#day-1">Day 1</a> · <a href="#day-2">Day 2</a> · <a href="#day-3">Day 3</a> · <a href="#day-4">Day 4</a> · <a href="#day-5">Day 5</a> · <a href="#day-6">Day 6</a> · <a href="#day-7">Day 7</a></nav>
+
+
+<section class="journal-day" id="day-1">
+  <header>
+    <span class="day-label">第一天</span>
+    <h2>Day 1</h2>
+    <div class="day-meta"><i class="fa-solid fa-calendar"></i> December 18, 2024 &nbsp;·&nbsp; <i class="fa-solid fa-location-dot"></i> Puerto Carreño, Vichada</div>
+  </header>
+
+<div class="photo-row">
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-01.jpg' | relative_url }}" alt="River Orinoco, day photo 1" loading="lazy"></figure>
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-02.jpg' | relative_url }}" alt="River Orinoco, day photo 2" loading="lazy"></figure>
+</div>
+<div class="pair">
+  <p lang="zh">Puerto Carreño 有我见过最小的机场。仿佛一个灰狗巴士客运站。一个旅行团七个人。除了我都是哥伦比亚人，其中有一家四口。离开机场，我们坐上了突突车。</p>
+  <p lang="en" class="en">Puerto Carreño has the smallest airport I've ever seen—it felt more like a Greyhound bus station. There were seven of us in the tour group, all Colombian except me, including a family of four. Out of the airport, we piled into tuk-tuks.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-03.jpg' | relative_url }}" alt="River Orinoco, day photo 3" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">委内瑞拉和哥伦比亚边境草原的树</p>
+  <p lang="en" class="en">Trees on the savanna along the Venezuela–Colombia border</p>
+</div>
+<div class="photo-row">
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-04.jpg' | relative_url }}" alt="River Orinoco, day photo 4" loading="lazy"></figure>
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-05.jpg' | relative_url }}" alt="River Orinoco, day photo 5" loading="lazy"></figure>
+</div>
+<div class="pair">
+  <p lang="zh">我凝视着那些树，有的像插满蜡烛的巨大烛台，有的像带刺的竹子。树林后面是广袤的草原。我想到他们几百年来一直安静地生活在这里，我不来找他们的话，他们不会来看我。我来到这里看他们的路是个很长的故事，充满巧合。我想到地球上还有几千几万种我没有见过也永远不会见到的可爱的安静的树。但我很开心，巧合和周折把我带到这里，和巨大的地球上的角落里的可爱的他们打个招呼。</p>
+  <p lang="en" class="en">I gazed at the trees. Some looked like giant candelabras crowded with candles; others like thorny bamboo. Behind them stretched a vast savanna. I thought about how they had lived here quietly for hundreds of years—if I hadn't come looking for them, they would never have come to see me. The road that brought me here is a long story, full of coincidences. I thought of the tens of thousands of lovely, quiet trees on this planet that I have never seen and never will. But I was happy that coincidences and detours had brought me here, to say hello to these lovely beings in one corner of this enormous Earth.</p>
+</div>
+<div class="pair">
+  <p lang="zh">我听到他们说，很高兴见到你，中国的女孩。</p>
+  <p lang="en" class="en">I heard them say: nice to meet you, girl from China.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-06.jpg' | relative_url }}" alt="River Orinoco, day photo 6" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">河滩很高，狂风扑面，泥沙俱下，我闭上眼睛想象自己在飞行。</p>
+  <p lang="en" class="en">The riverbank was high. The wind hit my face, sand and grit flying with it, and I closed my eyes and imagined I was flying.</p>
+</div>
+<div class="photo-row">
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-07.jpg' | relative_url }}" alt="River Orinoco, day photo 7" loading="lazy"></figure>
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-08.jpg' | relative_url }}" alt="River Orinoco, day photo 8" loading="lazy"></figure>
+</div>
+<div class="pair">
+  <p lang="zh">两个当地小女孩在玩耍，两只旱冰鞋一人用左脚一人用右脚。蹲着，重心放在旱冰鞋那只脚上，一遍遍滑下土坡。我怀念这种把一个动作重复1000遍，依然获得快乐的感觉。</p>
+  <p lang="en" class="en">Two local girls were sharing one pair of roller skates—one wore the left skate, the other the right. Crouching low, weight on the skating foot, they slid down the dirt slope again and again. I miss that feeling: doing the same thing a thousand times and still finding joy in it.</p>
+</div>
+</section>
+
+<section class="journal-day" id="day-2">
+  <header>
+    <span class="day-label">第二天</span>
+    <h2>Day 2</h2>
+    <div class="day-meta"><i class="fa-solid fa-calendar"></i> December 19, 2024 &nbsp;·&nbsp; <i class="fa-solid fa-location-dot"></i> Casuarito, on the Orinoco River</div>
+  </header>
+
+<div class="pair">
+  <p lang="zh">6:30集合，突突车把我们带到奥里诺科河边昨天的码头。天光很亮，大河很宽阔。码头的人把我们的行李绑到船顶，我们轮流钻进窄小的船舱。</p>
+  <p lang="en" class="en">We met at 6:30, and the tuk-tuks took us back to yesterday's dock on the Orinoco. The light was bright and the river was wide. The dock workers tied our luggage to the roof of the boat, and one by one we squeezed into the narrow cabin.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-09.jpg' | relative_url }}" alt="River Orinoco, day photo 9" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">穿上救生衣，我获得了一个靠窗的座位。敞开的空间，只看到岸上来来往往的腿，我在浓重的汽油味、引擎声中翘首以待开船。</p>
+  <p lang="en" class="en">In my life jacket, I got a window seat. Through the open side I could see only legs coming and going on the shore. In the thick smell of gasoline and the roar of the engine, I waited eagerly for us to set off.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-10.jpg' | relative_url }}" alt="River Orinoco, day photo 10" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">一个半小时的路程，船开得飞起，两边的浪形成高高的白墙包裹我的窗户，却不溅进来一点。窗户开得很低，睡意袭来，我把包和帽子系好，头和身体靠向里侧，以防我的个人物品或者我自己睡着睡着倒进了大浪里。</p>
+  <p lang="en" class="en">For an hour and a half the boat flew. Waves rose on both sides like tall white walls around my window, yet not a drop splashed in. The window sat very low, so when drowsiness hit, I tied down my bag and hat and leaned my head and body inward, so that neither my things nor I would tip into the waves in my sleep.</p>
+</div>
+<h3 class="subplace"><i class="fa-solid fa-location-dot"></i> Casuarito</h3>
+<div class="pair">
+  <p lang="zh">醒来的时候船停靠了一个村庄，村里的人是哥伦比亚版石板岩乡老农民，黝黑跛皱爱笑。小卖铺是铁皮房搭的。我向早餐店老板家两岁的小黑妞伸出手，她也伸出手，我成功完成了一个西班牙语自我介绍。</p>
+  <p lang="en" class="en">When I woke up, the boat had docked at a village. The villagers were a Colombian version of the old farmers in Shibanyan back home: sun-darkened and wrinkled, some walking with a limp, all quick to laugh. The village shop was a tin shack. I held out my hand to the breakfast-shop owner's two-year-old daughter; she held out hers, and I successfully delivered my Spanish self-introduction.</p>
+</div>
+<div class="photo-row">
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-11.jpg' | relative_url }}" alt="River Orinoco, day photo 11" loading="lazy"></figure>
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-12.jpg' | relative_url }}" alt="River Orinoco, day photo 12" loading="lazy"></figure>
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-13.jpg' | relative_url }}" alt="River Orinoco, day photo 13" loading="lazy"></figure>
+</div>
+<div class="pair">
+  <p lang="zh">点名表扬美味的，花很漂亮的Lulo</p>
+  <p lang="en" class="en">A special shout-out to lulo: delicious, and with beautiful flowers.</p>
+</div>
+<div class="photo-row">
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-14.jpg' | relative_url }}" alt="River Orinoco, day photo 14" loading="lazy"></figure>
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-15.jpg' | relative_url }}" alt="River Orinoco, day photo 15" loading="lazy"></figure>
+</div>
+<div class="pair">
+  <p lang="zh">沙滩潮湿细腻，我钻进了浑浊的大河。我仰身漂起来，感受着把我朝远方带去的大河和刺眼的阳光。</p>
+  <p lang="en" class="en">The sand was damp and fine. I waded into the muddy river and floated on my back, feeling the great river carry me toward the distance under the glaring sun.</p>
+</div>
+<div class="photo-row">
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-16.jpg' | relative_url }}" alt="River Orinoco, day photo 16" loading="lazy"></figure>
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-17.jpg' | relative_url }}" alt="River Orinoco, day photo 17" loading="lazy"></figure>
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-18.jpg' | relative_url }}" alt="River Orinoco, day photo 18" loading="lazy"></figure>
+</div>
+<div class="pair">
+  <p lang="zh">不知道是不是谷歌翻译的问题，营地并不是帐篷，而是一间一间木板房。每间屋都没顶，每间有一个象征性的锁，像连在一起厕所隔间。不过幸好有蚊帐。</p>
+  <p lang="en" class="en">Maybe Google Translate was to blame, but our "campsite" turned out not to be tents at all—just a row of wooden rooms. None had a ceiling, and each had a purely symbolic lock, like a row of bathroom stalls. Luckily, there were mosquito nets.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-19.jpg' | relative_url }}" alt="River Orinoco, day photo 19" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">午餐 又是鱼和香蕉片，炸得酥脆挺好吃</p>
+  <p lang="en" class="en">Lunch: fish and plantain chips again, fried crisp and pretty tasty.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-20.jpg' | relative_url }}" alt="River Orinoco, day photo 20" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">午餐过后，突然发现大家都拿起牙刷在刷牙，还以为马上要断水。麦德林哥Juan嘎说这是哥伦比亚人的习惯，每顿饭后都要刷牙，并自豪地介绍自己前两天刚去了牙科诊所，两年以来第一次去，医生说他的牙很完美。我有点被说动了。</p>
+  <p lang="en" class="en">After lunch, everyone suddenly grabbed a toothbrush, and I assumed the water was about to be cut off. Juan from Medellín explained that Colombians brush their teeth after every meal. He proudly added that he had just been to the dentist—his first visit in two years—and the dentist said his teeth were perfect. I was a little persuaded.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-21.jpg' | relative_url }}" alt="River Orinoco, day photo 21" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">晚餐。这次是剁碎的鱼和压扁的香蕉。</p>
+  <p lang="en" class="en">Dinner: this time, minced fish and smashed plantains.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-22.jpg' | relative_url }}" alt="River Orinoco, day photo 22" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">两个手机，中美哥三张卡，一个信号也没有，像被送进了网瘾戒断中心。我带着水杯和kindle 美滋滋钻进蚊帐，跟着Humboldt 把白天路过的景色在书里再看一遍。（感谢樊老师七年前考试要考这本书）</p>
+  <p lang="en" class="en">Two phones, three SIM cards—Chinese, American, and Colombian—and not a single bar of signal. It felt like being sent to internet-addiction rehab. I happily crawled under my mosquito net with my water bottle and my Kindle and followed Humboldt, revisiting in his book the landscapes we had passed that day. (Thanks to Professor Fan, who put this book on an exam seven years ago.)</p>
+</div>
+</section>
+
+<section class="journal-day" id="day-3">
+  <header>
+    <span class="day-label">第三天</span>
+    <h2>Day 3</h2>
+    <div class="day-meta"><i class="fa-solid fa-calendar"></i> December 20, 2024 &nbsp;·&nbsp; <i class="fa-solid fa-location-dot"></i> Casuarito and the Atures Rapids</div>
+  </header>
+
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-23.jpg' | relative_url }}" alt="River Orinoco, day photo 23" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">闹钟提早了一个小时，到了约定的早饭时间六点，挎着包出门四下无人，只听得周围房间呼噜声，才发现手机又自己跳到了委内瑞拉时区。索性在奥里诺科河边看日出。星星还没褪去，河风、天光温柔。一艘小渔船正在河滩睡觉。</p>
+  <p lang="en" class="en">My alarm went off an hour early. At six, our agreed breakfast time, I walked out with my bag to find no one around—only snoring from the neighboring rooms. Then I realized my phone had switched itself to Venezuelan time again. So I watched the sunrise by the Orinoco instead. The stars hadn't faded yet; the breeze and the light were gentle. A small fishing boat lay asleep on the shore.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-24.jpg' | relative_url }}" alt="River Orinoco, day photo 24" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">早饭后坐了很久的船到了国家公园。我听到大家在笑，麦德林奶奶笑着凑过来跟我说我们在委内瑞拉了，河对面才是哥伦比亚，我现在是非法移民了。我内心一颤。</p>
+  <p lang="en" class="en">After breakfast, a long boat ride took us to a national park. Everyone was laughing; the grandma from Medellín leaned over, grinning, and told me we were now in Venezuela—Colombia was across the river—so I was officially an illegal immigrant. My heart skipped a beat.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-25.jpg' | relative_url }}" alt="River Orinoco, day photo 25" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">湍急的河水。Juan臭叔说这是十九世纪德国探险家Alexander von Humboldt认定的八大奇迹之一。我旋即想起这两天正在看的Alain de Botton的The Art of Travel。Alain说羡慕Humboldt，他来南美的时候和我们来南美的时候不是一个心态。Humboldt激动自豪地来替欧洲人探索新世界，二百年后我们要看什么已经被贴心安排好了，比如米其林三星，比如世界八大奇迹。如果你看世界八大奇迹的时候心灵没有感受到颤动，你就是内心麻木不仁。我不想承认自己内心麻木不仁，伸长了脖子瞪大了眼睛看远处那个泉眼，默念上有六龙回日之高标下有冲波逆折之回川，试图将自己强制唤醒。</p>
+  <p lang="en" class="en">Rushing water. Juancho told us that the nineteenth-century German explorer Alexander von Humboldt called this the "eighth wonder of the world." It reminded me of the book I'd been reading, Alain de Botton's <em>The Art of Travel</em>. De Botton envies Humboldt, who came to South America with a completely different mindset from ours. Humboldt arrived thrilled and proud to explore a new world on Europe's behalf; two hundred years later, what we should see has already been thoughtfully arranged for us—three-Michelin-star restaurants, the wonders of the world. If your heart doesn't stir before a wonder of the world, you must be numb inside. Not wanting to admit I was numb, I craned my neck, stared hard at the rapids in the distance, and silently recited Li Bai—"above, a peak so tall the sun's six dragons turn back; below, a river crashing, twisting, and churning back on itself"—trying to force myself awake.</p>
+</div>
+<div class="pair">
+  <p lang="zh">注：昨天我问大家，如果所有人（团里三位男士两个叫Juan）都叫Juan，老师在班里怎么叫学生。大家说会在Juan后面加上姓的前一两个音节变成nickname，比如这个叔叫Juan臭，我也不知道臭咋拼。</p>
+  <p lang="en" class="en">A note: yesterday I asked everyone how a teacher would call on students if every boy in class were named Juan (two of the three men in our group were). They said you add the first syllable or two of the surname to make a nickname—like this uncle, Juancho. (In Chinese I wrote it Juan臭, "stinky Juan," because I didn't know how to spell "cho.")</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-26.jpg' | relative_url }}" alt="River Orinoco, day photo 26" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">哪个远古小可爱留的壁画</p>
+  <p lang="en" class="en">Rock art left by some adorable ancient soul</p>
+</div>
+<div class="pair">
+  <p lang="zh">麦德林奶奶说这种花的种子会随风飞得很远。</p>
+  <p lang="en" class="en">The grandma from Medellín said this flower's seeds can fly far on the wind.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-27.jpg' | relative_url }}" alt="River Orinoco, day photo 27" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">午餐后在船上休息，有的人又泡回河里了。Kindle 被麦德林叔Juan臭拿走看了，看的时候无比专注嘴里振振有词，几次三番抬头以为他要跟我讲话。想起来小时候我妈说我看书也喜欢念叨。</p>
+  <p lang="en" class="en">After lunch we rested on the boat; some people went back into the river. Juancho borrowed my Kindle and read with intense focus, muttering to himself; several times he looked up and I thought he was about to say something to me. It reminded me that, when I was little, my mom said I mumbled when I read, too.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-28.jpg' | relative_url }}" alt="River Orinoco, day photo 28" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">午休时间，躲在座位下面。</p>
+  <p lang="en" class="en">Nap time, hiding under the seat.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-29.jpg' | relative_url }}" alt="River Orinoco, day photo 29" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">近处的Humboldt “八大奇迹”。 这两天白天气温在35度。一天的炙烤+暴雨大火收汁后我开始怀疑人生，开始质疑为什么Colombia Oculta没有把这条重要信息写在这个行程的介绍里（Orinoco 河两岸终年这个温度），开始反思为什么我从北半球来避寒要避得这么极端。</p>
+  <p lang="en" class="en">Humboldt's "wonder" up close. Daytime temperatures these two days were around 35°C (95°F). After a full day of roasting, finished off by a downpour like a sauce reduced over high heat, I started questioning my life choices: why hadn't Colombia Oculta mentioned this crucial detail in the tour description (it's this hot on the Orinoco all year round)? And why, escaping the northern winter, did I have to go to such an extreme?</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-30.jpg' | relative_url }}" alt="River Orinoco, day photo 30" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">雨点噼里啪啦落下，却一点也不凉爽，闷热的空气凝固住了，没有一丝风，我徒劳无功地躲在一块不肯给予一丝阴凉大石头下面，感觉自己像东北铁锅上焙的饼子。</p>
+  <p lang="en" class="en">The rain came pattering down but brought no relief. The muggy air stood still, without a breath of wind. I hid uselessly under a big rock that refused to give me any shade, feeling like a cornbread cake baking on the side of a northeastern Chinese iron wok.</p>
+</div>
+<div class="pair">
+  <p lang="zh">玻利瓦尔2D大头。</p>
+  <p lang="en" class="en">Bolívar's big flat head.</p>
+</div>
+<div class="pair">
+  <p lang="zh">下船，导游带我们绕路来到一个神父一八年在这个偏远小岛创办的戒毒所。因为没有足够的资金，戒毒所已经荒废，偌大的操场、教室破败不堪，像时间定格在了上世纪。玻璃窗都不见了，铁门从门框脱离摇摇欲坠。我们登上教学楼的二楼，导游提醒我们不要靠近围栏，因为推一下就可能整片掉下来。只有一家当地人盘踞了一个教室生活了下来。</p>
+  <p lang="en" class="en">We got off the boat, and the guide took us on a detour to a drug rehabilitation center that a priest founded on this remote island in 2018. It ran out of money and has been abandoned. The huge sports field and the classrooms are falling apart, as if time had stopped in the last century. The window glass is gone, and iron doors hang loose from their frames. We climbed to the second floor of the school building, and the guide warned us to stay away from the railings—one push and a whole section might fall. Only one local family has settled into a classroom and lives there.</p>
+</div>
+<div class="photo-row">
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-31.jpg' | relative_url }}" alt="River Orinoco, day photo 31" loading="lazy"></figure>
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-32.jpg' | relative_url }}" alt="River Orinoco, day photo 32" loading="lazy"></figure>
+</div>
+<div class="pair">
+  <p lang="zh">二楼楼梯入口处有片毛茸茸的东西，等他抬起头原来是只…是只什么呢。他很不满我们打扰了他休息，钻进铁管里继续睡去了。</p>
+  <p lang="en" class="en">At the top of the stairs lay something fuzzy. When it raised its head, it turned out to be a… what, exactly? Annoyed that we had disturbed its rest, it crawled into a metal pipe and went back to sleep.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-33.jpg' | relative_url }}" alt="River Orinoco, day photo 33" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">学校里有很多果树，没人看管反而生长得旺盛。有超大号脆芒果和腰果树（存疑）。我咬了一口这个红果果，超级多汁但甜中带着苦涩，吃一口要喝一大口水。他们说这个果子有助于清理血管。下面那个不就是腰果吗？</p>
+  <p lang="en" class="en">The school grounds were full of fruit trees that, left untended, had grown all the more lush: huge crunchy mangoes and, I think, cashew trees. I bit into this red fruit—super juicy, sweet but bitter and astringent, so every bite needed a big gulp of water. They said it helps clean your blood vessels. And isn't that a cashew nut hanging underneath?</p>
+</div>
+<div class="pair">
+  <p lang="zh">Marañón</p>
+  <p lang="en" class="en">Marañón (cashew apple)</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-34.jpg' | relative_url }}" alt="River Orinoco, day photo 34" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">晚餐：Payara</p>
+  <p lang="en" class="en">Dinner: payara</p>
+</div>
+<div class="pair">
+  <p lang="zh">这次是大家分一条超大号的鱼和椒盐香蕉片。鱼被我们充分利用了。我在撕碎的鱼肉上挤上浓浓的青柠汁，配上混着蔬菜碎的米饭。我帮大家嗦掉了鱼头；三天以来最大的美餐。</p>
+  <p lang="en" class="en">This time we all shared one enormous fish, with salt-and-pepper plantain chips, and we made full use of that fish. I squeezed plenty of lime over the shredded meat and ate it with rice mixed with chopped vegetables. I also helped everyone by sucking the fish head clean. The best meal in three days.</p>
+</div>
+<div class="pair">
+  <p lang="zh">我感激每餐都提供的装在大玻璃罐里的新鲜冰果汁（超稀释版），并开始礼貌拒绝哥伦比亚苦咖啡。这种咖啡装在大暖瓶里，24小时不间断冒出，大家只要坐下就来一杯，盛在迷你小陶杯里，经常不加糖不加奶味道类似苦中药（Juanes说他爸不一样，爱好加一大堆糖，咖啡味如糖浆），是我心里的邪恶力量。</p>
+  <p lang="en" class="en">I was grateful for the fresh iced juice (heavily diluted) served in a big glass jar at every meal, and I began politely declining the bitter Colombian coffee. It sits in big thermoses, flowing around the clock; whenever anyone sits down, they pour a cup into a tiny clay mug. Usually without sugar or milk, it tastes like bitter Chinese herbal medicine. (Juanes said his dad is the exception—he adds a mountain of sugar, so his coffee tastes like syrup.) To me, it is a force of evil.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-35.jpg' | relative_url }}" alt="River Orinoco, day photo 35" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">走过哥伦比亚不同城市的另一个发现：他们每餐经常同时配好几种饮料：橘子汁、苦咖啡、水冲热可可一起上。</p>
+  <p lang="en" class="en">Another discovery from traveling through Colombian cities: a meal often comes with several drinks at once—orange juice, black coffee, and hot cocoa made with water, all served together.</p>
+</div>
+</section>
+
+<section class="journal-day" id="day-4">
+  <header>
+    <span class="day-label">第四天 Resguardo 原住民自治区</span>
+    <h2>Day 4 · An Indigenous reserve (resguardo)</h2>
+    <div class="day-meta"><i class="fa-solid fa-calendar"></i> December 21, 2024 &nbsp;·&nbsp; <i class="fa-solid fa-location-dot"></i> An Indigenous resguardo on the river</div>
+  </header>
+
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-36.jpg' | relative_url }}" alt="River Orinoco, day photo 36" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">早饭，竟然有排骨！早饭后和Casuarito村说再见，坐回了我们的绿皮小船。</p>
+  <p lang="en" class="en">Breakfast came with pork ribs—what a surprise! Afterward we said goodbye to Casuarito and climbed back into our little green boat.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-37.jpg' | relative_url }}" alt="River Orinoco, day photo 37" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">也和肥嘟嘟的绿鹦鹉说再见</p>
+  <p lang="en" class="en">And goodbye to the chubby green parrot.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-38.jpg' | relative_url }}" alt="River Orinoco, day photo 38" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">一段水路过后，Armenia 姐姐的行程提前结束了，我把绿帽子还给了她，祝她返程一路顺风。</p>
+  <p lang="en" class="en">After a stretch on the water, the trip ended early for our friend from Armenia. I gave her back her green hat and wished her a safe journey home.</p>
+</div>
+<div class="pair">
+  <p lang="zh">水路换陆路。大家站在货车后面，扒着摇晃的、铁锁相连的木栏杆，跟着货车剧烈地上下颠簸。视野开阔，大风扑面，植物的气息浓烈，一瞬间仿佛穿越到了非洲大草原。导游说这里的树是神圣的，死去的人就埋在下面。唯一的路是两条车辙印。</p>
+  <p lang="en" class="en">We switched from water to land. Everyone stood in the back of a truck, gripping the swaying wooden rails held together with iron chains, bouncing hard with every bump. The view opened wide, the wind blasted our faces, the smell of plants was thick, and for a moment it felt as if we had been transported to the African savanna. The guide said the trees here are sacred; the dead are buried beneath them. The only road was a pair of tire tracks.</p>
+</div>
+<div class="photo-row">
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-39.jpg' | relative_url }}" alt="River Orinoco, day photo 39" loading="lazy"></figure>
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-40.jpg' | relative_url }}" alt="River Orinoco, day photo 40" loading="lazy"></figure>
+</div>
+<div class="pair">
+  <p lang="zh">十几分钟后小货车完成了使命，陆路后又换回了水路，这次是蓝色的小船。</p>
+  <p lang="en" class="en">Fifteen minutes or so later the truck had done its job, and we switched back to water—this time a little blue boat.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-41.jpg' | relative_url }}" alt="River Orinoco, day photo 41" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">我们把河水抹在额头上，以获得大河的接纳和庇佑。</p>
+  <p lang="en" class="en">We dabbed river water on our foreheads, asking the great river to welcome and protect us.</p>
+</div>
+<div class="pair">
+  <p lang="zh">小蓝船航行了两个小时，船长开始减速，我知道有趣的事要开始发生了。</p>
+  <p lang="en" class="en">The little blue boat traveled for two hours. When the captain began to slow down, I knew something interesting was about to happen.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-42.jpg' | relative_url }}" alt="River Orinoco, day photo 42" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">还没靠岸，远远看到小朋友在自己划船。</p>
+  <p lang="en" class="en">Before we even reached the shore, I could see children in the distance paddling their own boats.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-43.jpg' | relative_url }}" alt="River Orinoco, day photo 43" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">另一个小朋友站在河岸上迎接我们，好奇地望着新来的一船陌生面孔。</p>
+  <p lang="en" class="en">Another child stood on the bank to greet us, gazing curiously at a boatful of strange new faces.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-44.jpg' | relative_url }}" alt="River Orinoco, day photo 44" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">大家和部落负责人挨个握手，几个青少年好奇地盯着我的亚洲脸笑着，互相说着什么，大家和他们说我是中国人。</p>
+  <p lang="en" class="en">We shook hands with the community leader one by one. A few teenagers stared at my Asian face, smiling and whispering to each other, and the others told them I was Chinese.</p>
+</div>
+<div class="photo-row">
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-45.jpg' | relative_url }}" alt="River Orinoco, day photo 45" loading="lazy"></figure>
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-46.jpg' | relative_url }}" alt="River Orinoco, day photo 46" loading="lazy"></figure>
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-47.jpg' | relative_url }}" alt="River Orinoco, day photo 47" loading="lazy"></figure>
+</div>
+<div class="pair">
+  <p lang="zh">Guamita 絮状，超甜，里面有大种子</p>
+  <p lang="en" class="en">Guamita: fluffy, very sweet, with big seeds inside.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-48.jpg' | relative_url }}" alt="River Orinoco, day photo 48" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">Lulo 果肉是黄色的，脆，巨酸，麦德林团伙说他们也是第一次生吃，说平时只用来做饮料喝。</p>
+  <p lang="en" class="en">Lulo: the flesh is yellow, crunchy, and extremely sour. The Medellín crew said it was their first time eating it raw too; usually they only drink it as juice.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-49.jpg' | relative_url }}" alt="River Orinoco, day photo 49" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">午餐：Bocachico</p>
+  <p lang="en" class="en">Lunch: bocachico</p>
+</div>
+<div class="pair">
+  <p lang="zh">村庄里的小朋友光脚踢球，男孩女孩一起</p>
+  <p lang="en" class="en">The village kids played soccer barefoot, boys and girls together.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-50.jpg' | relative_url }}" alt="River Orinoco, day photo 50" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">不通电的村庄，摸黑吃鱼：Pavón（发音很像西班牙语的火鸡🦃）</p>
+  <p lang="en" class="en">No electricity in the village, so we ate fish in the dark: pavón (it sounds a lot like <em>pavo</em>, Spanish for turkey 🦃).</p>
+</div>
+<div class="pair">
+  <p lang="zh">晚上大家一起搬了椅子在院子里看满天星星，有流星飞过。</p>
+  <p lang="en" class="en">At night we all carried chairs out to the yard to look at a sky full of stars. A shooting star flew by.</p>
+</div>
+</section>
+
+<section class="journal-day" id="day-5">
+  <header>
+    <span class="day-label">第五天</span>
+    <h2>Day 5</h2>
+    <div class="day-meta"><i class="fa-solid fa-calendar"></i> December 22, 2024 &nbsp;·&nbsp; <i class="fa-solid fa-location-dot"></i> Nine hours upriver</div>
+  </header>
+
+<div class="pair">
+  <p lang="zh">凌晨三点被此起彼伏的大公鸡交响乐吵醒，心理斗争了很久决定起来上厕所，当饿了一晚的蚊子们的第一顿早饭。刚出门一抬头，嚯，树上盘踞了数十只大公鸡正在引吭高歌，心想怪不得听得这么清，就在我窗户口喔喔喔。</p>
+  <p lang="en" class="en">At 3 a.m. I was woken by a symphony of roosters crowing over one another. After a long internal struggle, I got up to use the bathroom—and to serve as breakfast for mosquitoes that had gone hungry all night. As soon as I stepped out and looked up—whoa: dozens of roosters were perched in the tree, crowing at full volume. No wonder it sounded so clear; they were cock-a-doodle-dooing right outside my window.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-51.jpg' | relative_url }}" alt="River Orinoco, day photo 51" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">图是第四天下午拍的。不知道这里的村民是不是比美国人过得幸福，反正这里的鸡比美国鸡幸福。</p>
+  <p lang="en" class="en">(This photo was taken on the afternoon of day four.) I don't know whether the villagers here are happier than Americans, but the chickens are definitely happier than American chickens.</p>
+</div>
+<div class="pair">
+  <p lang="zh">一只常年窝在厕所角落的安静小母鸡。</p>
+  <p lang="en" class="en">A quiet little hen who lives in a corner of the bathroom year-round.</p>
+</div>
+<div class="photo-row">
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-52.jpg' | relative_url }}" alt="River Orinoco, day photo 52" loading="lazy"></figure>
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-53.jpg' | relative_url }}" alt="River Orinoco, day photo 53" loading="lazy"></figure>
+</div>
+<div class="pair">
+  <p lang="zh">早餐，热巧克力就抗疟药</p>
+  <p lang="en" class="en">Breakfast: hot chocolate, with antimalarials on the side.</p>
+</div>
+<div class="pair">
+  <p lang="zh">晚餐时间，到岸，大家围桌坐下，端起装着苦咖啡的小瓷杯谈笑风生的时候，我想，为什么没人发疯，为什么疯意渐起的只有我一个。</p>
+  <p lang="en" class="en">At dinnertime we finally landed. As everyone sat around the table, chatting and laughing over tiny cups of bitter coffee, I wondered: why isn't anyone going crazy? Why am I the only one who feels the madness creeping in?</p>
+</div>
+<div class="pair">
+  <p lang="zh">从早上七点到晚上五点，除了午饭靠岸的一个小时，别的九个小时都在船上航行。蓝色的小船窄小拥挤，船头坐一个向导，船尾是开船的人，中间坐着我们六个，两两并排刚好塞下。衣服已经两天没干，晒不干的衣服又已再次上阵，身上一件白色半拉链薄上衣散发出难以名状的浓烈野生动物味道。我们把衣服系在船顶，试图让大风和太阳带走衣服里的水汽。</p>
+  <p lang="en" class="en">From 7 a.m. to 5 p.m., apart from one hour ashore for lunch, we spent nine hours on the boat. The little blue boat was narrow and crowded: a guide in the bow, the driver in the stern, and the six of us in between, two by two, just barely fitting. My clothes hadn't dried in two days, and the still-damp ones went back into service; my thin white half-zip top gave off an indescribably strong wild-animal smell. We tied our clothes to the roof of the boat, hoping the wind and sun would carry the moisture away.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-54.jpg' | relative_url }}" alt="River Orinoco, day photo 54" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">翻转寻找了二十个姿势试图入睡。船沿很低，齐着长凳，不是给想入睡的人安全感的布局，放在长凳上的包都要在手上绕两圈才可内心宁静。大风在脸上猛烈的拍，阳光灼热，我试图找到一个怪异的姿势把自己身体的每一部分掖进船的这一块或那一块阴影里。我最终选择躺着窝在船舱里，脸躲在前排人的座位下面。我感激救生衣当我的床垫，也感激前排的Juanes和麦德林奶奶对座位下的脑袋见怪不怪。</p>
+  <p lang="en" class="en">I tried twenty different positions to fall asleep. The side of the boat was low, level with the bench—not a layout that gives a would-be sleeper any sense of security. Even my bag on the bench had to be wrapped twice around my hand before I could feel at peace. The wind slapped my face and the sun burned. I tried to twist into some strange position that would tuck every part of my body into one patch of shade or another. In the end I curled up on the floor of the boat, my face hidden under the seat in front of me. I was grateful to my life jacket for serving as a mattress, and to Juanes and the Medellín grandma in the front row for not finding a head under their seats the least bit strange.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-55.jpg' | relative_url }}" alt="River Orinoco, day photo 55" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">前四分之一的人生如自己憧憬的，坐过很多很长的交通工具：坐两天卧铺去拉萨，多次十余小时的站票，自驾八个小时去迈阿密，汽车倒飞机倒飞机倒高铁倒汽车四天时间从甘村回家…… 但这样长时间暴露在阳光下，和大自然猛烈相拥的长途交通工具，这是第一次。骑行是个例外，22年八月某天从水牛城到罗切斯特十小时骑了90mile。可骑行是不同的，我掌握着自己的身体自己的方向，控制着自己的节奏，清楚地知道目的地和剩余的时间，骄傲地接受周围呼啸而过的汽车的注目礼，感觉自己勇敢而孤独，想象驮着行李独自骑行的自己是马路上最凶猛的动物。</p>
+  <p lang="en" class="en">In the first quarter of my life, just as I'd dreamed, I've taken many long journeys: two days on a sleeper train to Lhasa; more than one standing-room-only ride of over ten hours; an eight-hour drive to Miami; four days of bus, plane, plane, high-speed train, and bus to get home from Gainesville… But a long ride this exposed to the sun, locked in such a fierce embrace with nature—this was a first. Cycling is the exception: one day in August 2022, I rode 90 miles in ten hours from Buffalo to Rochester. But cycling is different. I am in charge of my own body, my direction, my pace; I know exactly where I'm going and how much time is left. I proudly accept the stares of the cars whizzing past, feeling brave and alone, imagining that I—riding solo, loaded with bags—am the fiercest animal on the road.</p>
+</div>
+<div class="pair">
+  <p lang="zh">水路不同，三小时变五小时，五小时变八小时，没有网络没有行程讯息，目的地遥遥无期。两岸美丽的湖光山色开始变得千篇一律。</p>
+  <p lang="en" class="en">The river is different. Three hours become five, five become eight. No internet, no schedule, and the destination always somewhere far off. The beautiful scenery on both banks begins to look all the same.</p>
+</div>
+<div class="pair">
+  <p lang="zh">进入自己木板间的第一件事，是放下行李，第二件事，是脱下长棉袜恣意抓挠小腿，释放自己被亚马逊蚊子诅咒的灵魂。这里的蚊子和家乡的不同，除了鼓包外会在针眼处留下一个血点，且痒感持久厚重，仿佛直达肌组织。数天后蚊子包以红点为中心慢慢缩小，直到变成一个实心小痦子，依然无时不刻提醒着你它的存在。</p>
+  <p lang="en" class="en">The first thing I did on entering my wooden room was put down my bags. The second was to peel off my long cotton socks and scratch my calves with abandon, freeing my soul from the curse of the Amazon mosquitoes. They are different from the ones back home: besides the bump, they leave a dot of blood where they bite, and the itch is deep and lasting, as if it reached right into the muscle. Days later, the bite slowly shrinks around the red dot until it becomes a small, hard bump like a mole—still reminding you of its existence every moment.</p>
+</div>
+<div class="photo-row">
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-56.jpg' | relative_url }}" alt="River Orinoco, day photo 56" loading="lazy"></figure>
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-57.jpg' | relative_url }}" alt="River Orinoco, day photo 57" loading="lazy"></figure>
+</div>
+<div class="pair">
+  <p lang="zh">走遍秘鲁库斯科和奥利诺科河沿岸村落的厕所，共同点是1.坐便 2.坐便没有马桶圈。我和数个朋友讨论过如何拉屎这个问题，有的用亚洲蹲，但技术不好有一脚踏进去的风险，有的悬空扎马步，有的（Rosa）必须要坐下，所以每次如厕前要仔细清洁马桶表面。我在几次实践后确定的方法是，先在附近地上蹲一会，蹲到感觉要来，然后迅速换至马步，否则腿很快就酸了。</p>
+  <p lang="en" class="en">From Cusco in Peru to the villages along the Orinoco, every toilet I've used has two things in common: (1) it's a sit-down toilet, and (2) it has no seat. I've discussed the logistics with several friends. Some squat Asian-style on the rim, though with poor technique you risk stepping right in; some hover in a horse stance; and some (Rosa) must sit, so they carefully clean the rim every time. After a few trials, my method is to squat on the ground nearby until I feel it coming, then quickly switch to the horse stance—otherwise my legs get tired fast.</p>
+</div>
+<div class="pair">
+  <p lang="zh">关上门，八仙过海各显神通。</p>
+  <p lang="en" class="en">Behind closed doors, like the Eight Immortals crossing the sea, everyone has their own tricks.</p>
+</div>
+</section>
+
+<section class="journal-day" id="day-6">
+  <header>
+    <span class="day-label">第六天</span>
+    <h2>Day 6</h2>
+    <div class="day-meta"><i class="fa-solid fa-calendar"></i> December 23, 2024 &nbsp;·&nbsp; <i class="fa-solid fa-location-dot"></i> Mavicure, Guainía</div>
+  </header>
+
+<div class="pair">
+  <p lang="zh">午休，手表12:10振了起来，闷热中挣扎起床，听得天雷滚滚，风声、树声中传来清脆的钟声。只见得人们纷纷抱了容器朝一个大凉亭走去—棕榈叶的顶，四周低低的木栅栏浅浅围起来。</p>
+  <p lang="en" class="en">Nap time. My watch buzzed at 12:10. As I struggled out of bed in the muggy heat, thunder rolled, and through the wind and the rustling trees came the clear ring of a bell. People were carrying containers toward a big open-air pavilion—a palm-leaf roof, ringed by a low wooden fence.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-58.jpg' | relative_url }}" alt="River Orinoco, day photo 58" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">见我在外面探头探脑，大家纷纷笑着喊“sega sega”, 一会儿Rosa 来了，跟我说这是叫我过去加入的意思。其中一个年轻人和Rosa 说，村民每周末会在敲钟时候带自家的饭来这里和大家分享。一个小妞妞自己抱了一个铁盆吃的正香，脸颊上沾满米粒儿。我进去坐下，盛了一盘百家饭。</p>
+  <p lang="en" class="en">Seeing me peeking in from outside, everyone laughed and called out, "sega, sega." Soon Rosa came over and told me it meant I should come join them. One of the young men told Rosa that every weekend, when the bell rings, villagers bring food from home to share with everyone. A little girl was hugging a metal bowl all to herself, eating happily, her cheeks covered in rice. I went in, sat down, and filled a plate with food from every household.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-59.jpg' | relative_url }}" alt="River Orinoco, day photo 59" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">在最近的两个村落里我看到了远方另一种生活的可能性：这里没有WiFi ，信号很弱，十点停电，没有人抱着手机刷短视频。这里路不拾遗，夜不闭户，小孩小鸡小狗满村溜达，每个人认识每个人。他们的世界比我小。</p>
+  <p lang="en" class="en">In these last two villages I saw the possibility of a different kind of life, far away: no Wi-Fi, a weak signal, power off at ten, no one glued to a phone scrolling short videos. No one takes what isn't theirs, and no one locks their door at night. Kids, chickens, and dogs wander all over the village, and everyone knows everyone. Their world is smaller than mine.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-60.jpg' | relative_url }}" alt="River Orinoco, day photo 60" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">很厚实，单手举不起来的铁条钟</p>
+  <p lang="en" class="en">The bell: a thick iron bar, too heavy to lift with one hand.</p>
+</div>
+<div class="pair">
+  <p lang="zh">下午在红色的河水里游泳</p>
+  <p lang="en" class="en">In the afternoon, we swam in the red river.</p>
+</div>
+<div class="photo-row">
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-61.jpg' | relative_url }}" alt="River Orinoco, day photo 61" loading="lazy"></figure>
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-62.jpg' | relative_url }}" alt="River Orinoco, day photo 62" loading="lazy"></figure>
+</div>
+<div class="pair">
+  <p lang="zh">晚饭前向导Sergio要带我们去村里溜达一圈，夜色渐深，星星都出来了，我穿着拖拉板跟着大家走在村里漆黑的小土路上，两边草长得旺盛。语言障碍，大家听故事，我东张西望，看看远处的黑山包，看看近处蹲在某家人门口的狗子。Sergio很会讲故事，众人一会发出大笑，一会齐声惊呼。热心的Juan臭出于人道主义援助凑过来给我翻译，但由于同传是高难度活动，加上英语水平有限，Juancho传递过来的信息量大概是原话的七分之一，且内容十分抽象。某一刻他听了一会精彩故事，为我过滤出了重要信息，扭过来对我说"这里…有个毒液…你可以拿来毒人"。我平静的花花草草观赏模式被打断，脑子里一下子冒出来二百个问题：哪里有毒液？可以让我拿到？人人都可以拿到？虽说这里部落自治，政府不管毒人犯法？刚要问出口，Juancho扭回去听故事下一段了。五分钟后，他再次扭回来：“毒液…可以…在河里游泳…"。这次我抓住他问，毒液是活的？是微生物？这把juancho问懵了，他扭头问Samu，两个人开始了西班牙语的新一轮嘀嘀咕咕，我的问题没得到回答，新的故事又开始了。</p>
+  <p lang="en" class="en">Before dinner, our guide Sergio took us for a walk around the village. Night was falling and the stars were out. In my flip-flops I followed everyone down the pitch-dark dirt paths, the grass growing thick on both sides. Because of the language barrier, while the others listened to stories, I looked around—at the dark hills in the distance, at a dog crouched by someone's door. Sergio was a great storyteller: one moment everyone burst out laughing, the next they gasped in unison. Kind-hearted Juancho came over to translate for me as humanitarian aid. But simultaneous interpreting is hard, and his English was limited, so what reached me was maybe a seventh of the original, and very abstract. At one point, after listening to a gripping part of the story, he filtered out the key information, turned to me, and said, "Here… there is a poison… you can use it to poison people." My peaceful plant-admiring mode was shattered, and two hundred questions popped into my head: Where is this poison? Could I get some? Can anyone get it? Even if the reserve governs itself, isn't poisoning people still illegal? Before I could ask, Juancho had turned back for the next part of the story. Five minutes later he turned to me again: "The poison… can… swim in the river…" This time I caught him and asked: is the poison alive? Some kind of microorganism? That stumped Juancho. He turned to Samu, and the two began a new round of Spanish murmuring. My question never got answered, and a new story began.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-63.jpg' | relative_url }}" alt="River Orinoco, day photo 63" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">注定又是张不开嘴跟不上溜的一天。在此感激Samu和Juancho两个翻译臭皮匠。</p>
+  <p lang="en" class="en">Destined to be another day of not being able to speak up or keep up. Many thanks to my two makeshift interpreters, Samu and Juancho.</p>
+</div>
+<div class="photo-row">
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-64.jpg' | relative_url }}" alt="River Orinoco, day photo 64" loading="lazy"></figure>
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-65.jpg' | relative_url }}" alt="River Orinoco, day photo 65" loading="lazy"></figure>
+</div>
+<div class="pair">
+  <p lang="zh">Mañoco</p>
+  <p lang="en" class="en">Mañoco (toasted cassava flour)</p>
+</div>
+</section>
+
+<section class="journal-day" id="day-7">
+  <header>
+    <span class="day-label">第七天 小狗的快乐假期（寻找Inírida之花）</span>
+    <h2>Day 7 · The dogs' happy holiday (in search of the Inírida flower)</h2>
+    <div class="day-meta"><i class="fa-solid fa-calendar"></i> December 24, 2024 &nbsp;·&nbsp; <i class="fa-solid fa-location-dot"></i> Near Inírida, Guainía</div>
+  </header>
+
+<div class="pair">
+  <p lang="zh">睡到了七点十分，醒来的时候鼻腔里都是水汽。</p>
+  <p lang="en" class="en">I slept until 7:10 and woke up with my nose full of humid air.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-66.jpg' | relative_url }}" alt="River Orinoco, day photo 66" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">天很晴朗，大家都在吊床里摇晃，等早餐开饭</p>
+  <p lang="en" class="en">The sky was clear. Everyone swayed in hammocks, waiting for breakfast.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-67.jpg' | relative_url }}" alt="River Orinoco, day photo 67" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">早餐，汤里有一小块排骨！</p>
+  <p lang="en" class="en">Breakfast: a little piece of rib in the soup!</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-68.jpg' | relative_url }}" alt="River Orinoco, day photo 68" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">Caldo de costilla</p>
+  <p lang="en" class="en">Caldo de costilla (rib soup)</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-69.jpg' | relative_url }}" alt="River Orinoco, day photo 69" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">今天的主角Osito “小黑熊”和他的朋友。Osito 是一只Criollo—河沿岸村子里常见的狗狗品种，体型不算大，但体脂率低，身手矫捷健步如飞，擅长狩猎。这几天在不同的村子里见到的狗狗都自由生活，随地躺平、溜达。</p>
+  <p lang="en" class="en">Today's stars: Osito ("little bear") and his friend. Osito is a criollo, the kind of dog you often see in the riverside villages—not big, but lean, agile, and fast, and a skilled hunter. In every village these past few days, the dogs lived freely, lying down and wandering wherever they pleased.</p>
+</div>
+<div class="pair">
+  <p lang="zh">Osito 是只活泼小狗，有用不完的精力，经常在宿舍走廊快速往返跑、扒着我们要求我们陪他玩。他的尾巴很独特，像一根支愣着的、高高上翘的黑色大羽毛，帮我在众多小黑狗中识别出他。Osito的男主人今天去Inírida 镇子里工作了，我们正要出发去寻找Inírida之花，Osito 和他的朋友小黄从后面默默跟了过来。女主人在院墙后面大声喊Osito的名字，Osito装作听不见，跟出二百米后向导小胖举起胳膊假装要揍他也只管用了十秒，他踌躇敷衍片刻后又跟上来。</p>
+  <p lang="en" class="en">Osito is a lively little dog with endless energy. He often sprints up and down the dorm hallway and paws at us to play. His tail is one of a kind—like a big black feather standing straight up—which helped me pick him out among all the little black dogs. His owner had gone to work in the town of Inírida that day. As we set off to look for the Inírida flower, Osito and his friend, a little yellow dog, quietly followed us. The woman of the house shouted his name from behind the yard wall; Osito pretended not to hear. Two hundred meters later, our guide raised his arm as if to smack him, which worked for all of ten seconds. After a moment of half-hearted hesitation, Osito followed again.</p>
+</div>
+<div class="pair">
+  <p lang="zh">两只小狗决心要跟着我们探险了。</p>
+  <p lang="en" class="en">The two dogs had made up their minds to join our adventure.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-70.jpg' | relative_url }}" alt="River Orinoco, day photo 70" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">今天的向导 Orlando。拿了一把小砍刀，一路上他将向我们介绍当地很多植物的用途。</p>
+  <p lang="en" class="en">Today's guide, Orlando, carried a small machete. Along the way he told us what many local plants are used for.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-71.jpg' | relative_url }}" alt="River Orinoco, day photo 71" loading="lazy"></figure>
+<div class="pair solo"><p class="en">Iguana: said to help with diabetes and high blood pressure.</p></div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-72.jpg' | relative_url }}" alt="River Orinoco, day photo 72" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">白蚁巢 当地人把白蚁烤熟后磨粉涂到伤口上</p>
+  <p lang="en" class="en">A termite nest. Locals roast the termites, grind them into powder, and put it on wounds.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-73.jpg' | relative_url }}" alt="River Orinoco, day photo 73" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">这种植物的根可以治蛇咬伤</p>
+  <p lang="en" class="en">This plant's root is used to treat snakebites.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-74.jpg' | relative_url }}" alt="River Orinoco, day photo 74" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">毛茸茸的植物，可以治蜘蛛咬伤</p>
+  <p lang="en" class="en">A fuzzy plant used to treat spider bites.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-75.jpg' | relative_url }}" alt="River Orinoco, day photo 75" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">橡胶树</p>
+  <p lang="en" class="en">A rubber tree.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-76.jpg' | relative_url }}" alt="River Orinoco, day photo 76" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">叶子用来盖房顶，下面的须用来做手工</p>
+  <p lang="en" class="en">The leaves are used for roofing, and the fibers underneath for handicrafts.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-77.jpg' | relative_url }}" alt="River Orinoco, day photo 77" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">大人沉沉稳稳地走，十米一停，听Orlando讲植物或找阴凉处休息；小狗没心没肺地跑，互相追逐，一会出现在我们前面，一会儿消失，一会儿又出现在我们后面。我们每走一百米，他们要走五百米。Osito喜欢水，遇到小溪就跳下去美美狗刨一会，小黄就站在独木桥上等他。Osito泡完澡跑回来，剧烈抖动身上的水花，给路过的人也洗个澡。他们上一秒还累趴在那，呼呼地吐着舌头，下一秒却又像两只箭一样嗖嗖地窜了出去。</p>
+  <p lang="en" class="en">The adults walked slowly and steadily, stopping every ten meters to hear Orlando talk about plants or to rest in the shade. The dogs ran around without a care, chasing each other—now ahead of us, now gone, now behind us again. For every hundred meters we walked, they ran five hundred. Osito loves water: whenever we reached a stream, he jumped in for a happy doggy paddle while the yellow dog waited on the log bridge. After his bath, Osito ran back and shook himself hard, giving everyone nearby a bath too. One second they were sprawled on the ground, panting with their tongues out; the next, they shot off like two arrows.</p>
+</div>
+<div class="pair">
+  <p lang="zh">我常想，这两只小狗奔跑的身影会留在我的脑海里，在平淡的生活里给我一点美好力量。平常的时候认真看家晒太阳，假期来的时候尽兴奔跑晒太阳，尽情绽放，并不管这个世界很老、经常很悲伤。</p>
+  <p lang="en" class="en">I often think the image of these two dogs running will stay with me and give me a little strength in ordinary days. On ordinary days, guard the house and soak up the sun; when the holiday comes, run to your heart's content and soak up the sun. Bloom fully, never mind that the world is old and often sad.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-78.jpg' | relative_url }}" alt="River Orinoco, day photo 78" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">小狗上泥地啦</p>
+  <p lang="en" class="en">The dogs hit the mud!</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-79.jpg' | relative_url }}" alt="River Orinoco, day photo 79" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">小狗跟我来看鸟巢了</p>
+  <p lang="en" class="en">The dogs came along to see the bird nests.</p>
+</div>
+<div class="pair">
+  <p lang="zh">Mochilero 袋子状的鸟巢</p>
+  <p lang="en" class="en">Mochilero: bag-shaped bird nests.</p>
+</div>
+<div class="photo-row">
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-80.jpg' | relative_url }}" alt="River Orinoco, day photo 80" loading="lazy"></figure>
+  <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-81.jpg' | relative_url }}" alt="River Orinoco, day photo 81" loading="lazy"></figure>
+</div>
+<div class="pair">
+  <p lang="zh">找到了！Inírida 之花！</p>
+  <p lang="en" class="en">Found it! The Inírida flower!</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-82.jpg' | relative_url }}" alt="River Orinoco, day photo 82" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">我们到家的时候，小狗们也到家了。</p>
+  <p lang="en" class="en">When we got home, the dogs got home too.</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-83.jpg' | relative_url }}" alt="River Orinoco, day photo 83" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">午餐</p>
+  <p lang="en" class="en">Lunch</p>
+</div>
+<figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-84.jpg' | relative_url }}" alt="River Orinoco, day photo 84" loading="lazy"></figure>
+<div class="pair">
+  <p lang="zh">和村子说再见啦👋</p>
+  <p lang="en" class="en">Goodbye, village! 👋</p>
+</div>
+</section>
+
+</div>
