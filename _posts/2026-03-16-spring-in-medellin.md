@@ -3,8 +3,7 @@ layout: post
 title: "Spring in Medellín 麦德林的春天"
 date: 2026-03-16
 description: Waking up to light in Rosa's apartment, and a van ride up the mountains near Jericó.
-tags: travel
-categories: travel
+thumbnail: /assets/img/travel/medellin/window-day.jpg
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/travel-journal.css' | relative_url }}">
@@ -38,14 +37,14 @@ categories: travel
     <p lang="en" class="en">Rosa's apartment is not large, but it is clean and beautiful, filled with decorations she has collected from around the world over many years. The walls are covered with family photos. One of them shows Rosa when she was young—wrapped in a towel, covering her chest, her gaze soft and hazy. She was stunning. Every time I see it, I think: how I wish my grandmother had photos like this from her youth. How I wish she had a home filled with little objects collected from traveling the world. How I wish that at eighty, she would carry a swimsuit with her and jump into the water whenever she saw it—rather than being held back by motion sickness and the belief that "staying home is a virtue."</p>
   </div>
 
-  {% include journal-photo.liquid src="assets/img/travel/medellin/rosa-table.jpg" %}
+  {% include journal-photo.liquid src="assets/img/travel/medellin/rosa-table.jpg" half=true %}
 
   <div class="pair">
     <p lang="zh">在这间公寓里醒来的第一个早晨，是被光叫醒的，我迷迷糊糊抬头看，薄纱透出阳光，世界是敞亮的、是春天。我许久没有这种身体和大自然节律协调统一的感觉，浑身充斥着轻松。甘村的公寓里，我似乎每天都在和手机闹钟作斗争，无止境地再睡十分钟，有时刚起床已经疲惫不堪。打开窗子，是麦德林“the city of eternal spring”永恒的春城，终年19-22度。夜晚伴着喧闹的西语歌闪烁着万家灯火的山丘此刻绿油油的、此起彼伏，变得恬适。</p>
     <p lang="en" class="en">The first morning I woke up in this apartment, I was woken by light. Half-asleep, I looked up: sunlight filtered through the thin curtains, and the world felt open, bright—it was spring. It had been a long time since my body felt in sync with the rhythms of nature. I felt completely at ease. Back in Gainesville, it feels like I'm constantly fighting my phone alarm—endlessly hitting "ten more minutes," sometimes waking up already exhausted. But here, when I open the window, Medellín—the "City of Eternal Spring," 19–22°C all year round—spreads out before me. At night the hills glitter with lights and echo with Spanish music; now, in the morning, they are lush green, rolling gently, peaceful.</p>
   </div>
 
-  <div class="photo-row">
+  <div class="photo-row full">
     {% include journal-photo.liquid src="assets/img/travel/medellin/window-day.jpg" %}
     {% include journal-photo.liquid src="assets/img/travel/medellin/window-night.jpg" %}
   </div>

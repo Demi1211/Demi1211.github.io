@@ -3,15 +3,14 @@ layout: post
 title: "Cócora Valley 科科拉山谷"
 date: 2024-12-28
 description: "Wax palms, a barbed-wire palm line, and a coffee farm. Written by two of us: Juan in English, Demi in Chinese."
-tags: travel
-categories: travel
+thumbnail: /assets/img/travel/cocora/cocora-02.jpg
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/travel-journal.css' | relative_url }}">
 
 <div class="journal">
 
-<p class="journal-intro">A co-written entry: <strong>Juan</strong> wrote in English and <strong>Demi</strong> wrote in Chinese (with an English translation alongside).</p>
+<p class="journal-intro">A co-written entry: <strong>Juan</strong> wrote in English and <strong>Demi</strong> wrote in Chinese. Each part appears with a translation alongside.</p>
 
 <section class="journal-day">
   <header>
@@ -20,20 +19,32 @@ categories: travel
     <div class="day-meta"><i class="fa-solid fa-calendar"></i> December 28, 2024 &nbsp;·&nbsp; <i class="fa-solid fa-location-dot"></i> Salento &amp; Cócora Valley, Quindío, Colombia</div>
   </header>
 
-  <div class="pair solo"><p><span class="voice">Juan</span>The day started off with us rushing to Salento to meet up with our tour guide at 9 am sharp. I was excited but also anxious because we traveled 12+ hours to the area for the tour, so I really hoped everything would go well. We were also getting there without eating breakfast or a plan for where to store our bags, since we had already checked out of our hotel for the day. Thankfully the hotel told us about a very nice lady who runs a coffee shop nearby and could hold our stuff at her place. All I had to find her was a piece of paper with the address and phone number, so I tried to find it quickly so that I wouldn't delay our tour further.</p></div>
+  <div class="pair">
+    <p lang="zh"><span class="voice">Juan（中文翻译）</span>这一天从我们赶往萨兰托（Salento）开始，导游约好早上9点整碰头。我既兴奋又紧张，因为我们为了这次行程赶了12个多小时的路，真心希望一切顺利。而且我们没吃早饭，也不知道行李该放哪儿，因为当天已经从酒店退房了。好在酒店告诉我们，附近有位很热心的阿姨开咖啡店，可以帮我们寄存东西。我手里只有一张写着地址和电话的小纸条，于是赶紧去找她，免得耽误行程。</p>
+    <p lang="en" class="en"><span class="voice">Juan</span>The day started off with us rushing to Salento to meet up with our tour guide at 9 am sharp. I was excited but also anxious because we traveled 12+ hours to the area for the tour, so I really hoped everything would go well. We were also getting there without eating breakfast or a plan for where to store our bags, since we had already checked out of our hotel for the day. Thankfully the hotel told us about a very nice lady who runs a coffee shop nearby and could hold our stuff at her place. All I had to find her was a piece of paper with the address and phone number, so I tried to find it quickly so that I wouldn't delay our tour further.</p>
+  </div>
 
   {% include journal-photo.liquid src="assets/img/travel/cocora/cocora-01.jpg" caption="Our bag-keeper, the coffee-shop lady who held our things for the day" %}
 
-  <div class="pair solo"><p><span class="voice">Juan</span>The tour guide was also very nice in adjusting her plans for us by adding a stop for breakfast before the tour of the park.</p></div>
+  <div class="pair">
+    <p lang="zh"><span class="voice">Juan（中文翻译）</span>导游人也很好，为了照顾我们，特意在游览公园之前加了一站吃早饭。</p>
+    <p lang="en" class="en"><span class="voice">Juan</span>The tour guide was also very nice in adjusting her plans for us by adding a stop for breakfast before the tour of the park.</p>
+  </div>
 
   <div class="pair">
     <p lang="zh"><span class="voice">Demi</span>纵深的深绿色山谷，云雾环绕，好像魔戒世界。</p>
     <p lang="en" class="en"><span class="voice">&nbsp;</span>Deep green valleys stretching into the distance, wrapped in mist—like a world out of <em>The Lord of the Rings</em>.</p>
   </div>
 
-  <div class="pair solo"><p><span class="voice">Juan</span>I go in and right away notice their unique palm trees. They are tall and perfectly straight like needles. There is also a thick fog in the sky not too far from the ground.</p></div>
+  <div class="pair">
+    <p lang="zh"><span class="voice">Juan（中文翻译）</span>一进去，我马上注意到这里独特的棕榈树：又高又直，像一根根针。离地面不远的空中还笼着一层浓雾。</p>
+    <p lang="en" class="en"><span class="voice">Juan</span>I go in and right away notice their unique palm trees. They are tall and perfectly straight like needles. There is also a thick fog in the sky not too far from the ground.</p>
+  </div>
 
-  <div class="pair solo"><p><span class="voice">Juan</span>Throughout the tour we take many photos of ourselves and our surroundings. The park was a bit crowded, but thankfully our guide knew a few spots off the trail where we could enjoy the landscape around us.</p></div>
+  <div class="pair">
+    <p lang="zh"><span class="voice">Juan（中文翻译）</span>一路上我们拍了很多自己和风景的照片。公园里人有点多，不过好在导游知道几个步道外的小地方，让我们可以好好欣赏周围的景色。</p>
+    <p lang="en" class="en"><span class="voice">Juan</span>Throughout the tour we take many photos of ourselves and our surroundings. The park was a bit crowded, but thankfully our guide knew a few spots off the trail where we could enjoy the landscape around us.</p>
+  </div>
 
   {% include journal-photo.liquid src="assets/img/travel/cocora/cocora-02.jpg" caption="Wax palms on the hills of Cócora Valley" %}
 
@@ -57,7 +68,10 @@ categories: travel
     {% include journal-photo.liquid src="assets/img/travel/cocora/cocora-04.jpg" %}
   </div>
 
-  <div class="pair solo"><p><span class="voice">Juan</span>Anyways, on our trek back the ground was only slightly slippery, yet I still fell, and in that moment I thought I had broken a bone (which would have totally ruined the tour we spent so much time and money on)! In reality I was able to get back up after 2–3 minutes.</p></div>
+  <div class="pair">
+    <p lang="zh"><span class="voice">Juan（中文翻译）</span>总之，回程的路只是稍微有点滑，我还是摔了一跤，那一刻我以为自己骨折了（那可就把我们花了那么多时间和钱的行程全毁了）！实际上两三分钟后我就站起来了。</p>
+    <p lang="en" class="en"><span class="voice">Juan</span>Anyways, on our trek back the ground was only slightly slippery, yet I still fell, and in that moment I thought I had broken a bone (which would have totally ruined the tour we spent so much time and money on)! In reality I was able to get back up after 2–3 minutes.</p>
+  </div>
 
   <div class="pair">
     <p lang="zh"><span class="voice">Demi</span>黄冈摔倒了，拍拍屁股又站了起来。</p>
@@ -66,14 +80,20 @@ categories: travel
 
   {% include journal-photo.liquid src="assets/img/travel/cocora/cocora-05.jpg" caption="The barbed-wire wound, freshly bandaged" %}
 
-  <div class="pair solo"><p><span class="voice">Juan</span>But then I fell again and instinctively grabbed the first surface I could, which was, very conveniently, a piece of barbed wire. The tour guide came to the rescue with her first-aid kit and put a bandage on my wound. I was actually pretty upset about being the only one who fell and now having to deal with this wound for the rest of the trip, but at that point it is what it is, so I just smiled the pain away and thought about the story I could now tell others about my visit to Colombia.</p></div>
+  <div class="pair">
+    <p lang="zh"><span class="voice">Juan（中文翻译）</span>可接着我又摔了一次，本能地抓住了手边第一个能抓的东西——偏偏是一段带刺的铁丝网。导游拿着急救包赶来，帮我包扎了伤口。说实话我挺郁闷的：只有我一个人摔倒，接下来的旅程还得带着伤。不过事已至此，我只好笑着把疼忍过去，心想这下回去可有故事讲了。</p>
+    <p lang="en" class="en"><span class="voice">Juan</span>But then I fell again and instinctively grabbed the first surface I could, which was, very conveniently, a piece of barbed wire. The tour guide came to the rescue with her first-aid kit and put a bandage on my wound. I was actually pretty upset about being the only one who fell and now having to deal with this wound for the rest of the trip, but at that point it is what it is, so I just smiled the pain away and thought about the story I could now tell others about my visit to Colombia.</p>
+  </div>
 
   <div class="pair">
     <p lang="zh"><span class="voice">Demi</span>黄冈再次摔倒，并眼疾手快扶上了旁边带刺的铁丝网，人工拉出一条财富掌纹。让我们祝他2025发大财。</p>
     <p lang="en" class="en"><span class="voice">&nbsp;</span>Juan fell again, quick-handedly grabbed the barbed wire beside him, and carved himself a man-made wealth line across his palm. Let's wish him a prosperous 2025.</p>
   </div>
 
-  <div class="pair solo"><p><span class="voice">Juan</span>Moving along, we left the park with the tour guide along a muddy, bumpy road that I would never want to drive myself, out of fear of ruining my car or hitting another car on the narrow roads. It was a little fun, but it got too crazy once the car lost control and got stuck on the way up to the coffee plantation. Had we done this tour ourselves with a rented car, we would have been sooooo screwed. But we didn't! So the only thing I had to worry about was not slipping again and taking care of my wound.</p></div>
+  <div class="pair">
+    <p lang="zh"><span class="voice">Juan（中文翻译）</span>接着我们跟着导游离开公园，走上一条泥泞颠簸的山路——换我自己开，我是绝对不敢的，怕把车弄坏，也怕在窄路上撞到别的车。一开始还挺好玩，可在开往咖啡庄园的上坡路上，车子失控卡住了，这就太刺激了。要是我们自己租车来，那可就惨了。还好不是！所以我唯一要操心的，就是别再滑倒、照顾好伤口。</p>
+    <p lang="en" class="en"><span class="voice">Juan</span>Moving along, we left the park with the tour guide along a muddy, bumpy road that I would never want to drive myself, out of fear of ruining my car or hitting another car on the narrow roads. It was a little fun, but it got too crazy once the car lost control and got stuck on the way up to the coffee plantation. Had we done this tour ourselves with a rented car, we would have been sooooo screwed. But we didn't! So the only thing I had to worry about was not slipping again and taking care of my wound.</p>
+  </div>
 
   {% include journal-photo.liquid src="assets/img/travel/cocora/cocora-06.jpg" caption="Stuck on the hill on the way to the coffee farm" %}
 
@@ -84,7 +104,10 @@ categories: travel
 
   <h3 class="subplace"><i class="fa-solid fa-mug-hot"></i> The coffee farm</h3>
 
-  <div class="pair solo"><p><span class="voice">Juan</span>At the plantation we got to try some of their black coffee. Back home, the thought of drinking coffee straight with no sweeteners or sugar would never cross my mind, but this sample was totally enjoyable; in fact, I ended up having Demi's leftover sample. We went on the tour, they showed us how coffee is made, and at the end we each had our very own sample of coffee that we helped prepare.</p></div>
+  <div class="pair">
+    <p lang="zh"><span class="voice">Juan（中文翻译）</span>在庄园里，我们尝了他们的黑咖啡。在家的时候，我从没想过喝不加糖、不加任何东西的纯咖啡，但这杯真的很好喝，我甚至把Demi没喝完的那份也喝了。之后我们参观了咖啡的整个制作过程，最后每人都喝到了一杯自己参与制作的咖啡。</p>
+    <p lang="en" class="en"><span class="voice">Juan</span>At the plantation we got to try some of their black coffee. Back home, the thought of drinking coffee straight with no sweeteners or sugar would never cross my mind, but this sample was totally enjoyable; in fact, I ended up having Demi's leftover sample. We went on the tour, they showed us how coffee is made, and at the end we each had our very own sample of coffee that we helped prepare.</p>
+  </div>
 
   <div class="pair">
     <p lang="zh"><span class="voice">Demi</span>先来一杯苦咖啡！</p>
@@ -117,15 +140,21 @@ categories: travel
 
   {% include journal-photo.liquid src="assets/img/travel/cocora/cocora-16.jpg" caption="Lunch: arepa, patacón, and hogao (a yummy sauce)" %}
 
-  <div class="pair solo"><p><span class="voice">Juan</span><strong>How coffee was discovered.</strong> According to the guide at the coffee farm, it was discovered by someone who grew frustrated trying to make a tasty drink out of the coffee seeds (if I remember correctly, lol). He threw the seeds into the fireplace and discovered the aroma of the roasting seeds, and from there coffee was born!</p></div>
+  <div class="pair">
+    <p lang="zh"><span class="voice">Juan（中文翻译）</span><strong>咖啡是怎么被发现的？</strong>据咖啡庄园的导游说（如果我没记错的话，哈哈），有个人一直想用咖啡种子做出好喝的饮料，却总是失败，一气之下把种子扔进了火堆，结果闻到了烘烤种子的香气——咖啡就这样诞生了！</p>
+    <p lang="en" class="en"><span class="voice">Juan</span><strong>How coffee was discovered.</strong> According to the guide at the coffee farm, it was discovered by someone who grew frustrated trying to make a tasty drink out of the coffee seeds (if I remember correctly, lol). He threw the seeds into the fireplace and discovered the aroma of the roasting seeds, and from there coffee was born!</p>
+  </div>
 
   <h3 class="subplace"><i class="fa-solid fa-location-dot"></i> Bonus: Salento after the tour</h3>
 
-  <div class="pair solo"><p><span class="voice">Juan</span>After the tour we had lunch back in Salento and had over 3 hours to explore the tiny town with all of our belongings on our backs. The first hour was simple: we walked the streets lined with vendors to see what they were selling. Once all the sightseeing was exhausted, we found ourselves curiously looking at what a small Colombian grocery store offers the locals. Demi found a type of yogurt that isn't sold in the US, and I bought rubbing alcohol to clean my wound again. We spent the last few minutes in the town center taking turns enjoying the yogurt, while Xinya and Demi poured alcohol over my hand and fanned it dry (still in the town center, very much in public, but none of us cared). Then we walked to the empty bus station and hopped on the bus to Medellín.</p></div>
+  <div class="pair">
+    <p lang="zh"><span class="voice">Juan（中文翻译）</span>参观结束后，我们回到萨兰托吃午饭，还有三个多小时可以背着全部家当逛这个小镇。第一个小时很简单，就是沿着摆满小摊的街道看看卖些什么。等景点都逛完了，我们开始好奇当地人常去的小超市里卖些什么。Demi发现了一种美国没有的酸奶，我则买了医用酒精，好再清洗一下伤口。最后几分钟，我们在镇中心轮流吃着酸奶，Xinya和Demi帮我往手上倒酒精、扇风让它晾干（就在镇中心，大庭广众之下，不过我们谁也不在乎）。然后我们走到空荡荡的车站，坐上了去麦德林的大巴。</p>
+    <p lang="en" class="en"><span class="voice">Juan</span>After the tour we had lunch back in Salento and had over 3 hours to explore the tiny town with all of our belongings on our backs. The first hour was simple: we walked the streets lined with vendors to see what they were selling. Once all the sightseeing was exhausted, we found ourselves curiously looking at what a small Colombian grocery store offers the locals. Demi found a type of yogurt that isn't sold in the US, and I bought rubbing alcohol to clean my wound again. We spent the last few minutes in the town center taking turns enjoying the yogurt, while Xinya and Demi poured alcohol over my hand and fanned it dry (still in the town center, very much in public, but none of us cared). Then we walked to the empty bus station and hopped on the bus to Medellín.</p>
+  </div>
 
   <div class="pair">
-    <p lang="zh"><span class="voice">Demi</span>车站有两只非常黏人的小狗，争着要抱抱。</p>
-    <p lang="en" class="en"><span class="voice">&nbsp;</span>There were two very clingy dogs at the bus station who fought for hugs.</p>
+    <p lang="zh"><span class="voice">Juan（中文翻译）</span>车站有两只特别黏人的小狗，抢着要抱抱。</p>
+    <p lang="en" class="en"><span class="voice">Juan</span>There were two very clingy dogs at the bus station who fought for hugs.</p>
   </div>
 
 </section>

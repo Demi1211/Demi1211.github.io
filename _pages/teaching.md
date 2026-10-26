@@ -7,9 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-**Links:**  
-[Rate My Professor](https://www.ratemyprofessors.com/professor/2978024) | [Rate My Course](https://www.ratemycourses.io/uf/professor/demizhang)
-
 ### ENC 1102: Argument and Persuasion
 _Instructor of Record, Summer B 2026_  
 A first-year writing course focused on argument, research, evidence, and revision. Students practice building persuasive claims for public and academic audiences.
@@ -40,8 +37,13 @@ A first-year writing course on critical thinking, research, persuasive writing, 
 
 ---
 
-### New Channel International Education Group, Nanjing, Jiangsu
+### New Channel International Education Group, Nanjing, China
 
 ### ACT Science, AP Calculus, AP Physics, and IELTS Reading
-_Teacher, June 2020 - August 2021_  
-Prepared high school and undergraduate students for standardized tests and international curricula, including ACT Science at California Crosspoint Academy's Nanjing branch, AP Calculus and AP Physics at Jinling High School, and IELTS reading lectures at several Nanjing universities. Accumulated 1200+ teaching hours.
+_Full-time teacher, June 2020 - August 2021_
+
+- Taught ACT Science at California Crosspoint Academy, Nanjing Branch.
+- Taught AP Calculus and AP Physics to students in the Sino-American program at Jinling High School.
+- Gave on-campus IELTS reading lectures to undergraduates at several Nanjing universities.
+- Attended weekly teaching-and-research sessions and took part in curriculum design.
+- 1,200+ cumulative teaching hours; 30+ students scored 5 in AP Calculus or AP Physics, and 50+ students scored 7 or higher in IELTS.

@@ -3,8 +3,6 @@ layout: post
 title: "River Orinoco 奥里诺科河"
 date: 2024-12-18
 description: Eight days on the Orinoco River, from Puerto Carreño to Inírida. A bilingual journal.
-tags: travel
-categories: travel
 thumbnail: /assets/img/travel/orinoco/orinoco-04.jpg
 ---
 
@@ -155,8 +153,8 @@ thumbnail: /assets/img/travel/orinoco/orinoco-04.jpg
 </div>
 <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-24.jpg' | relative_url }}" alt="River Orinoco, day photo 24" loading="lazy"></figure>
 <div class="pair">
-  <p lang="zh">早饭后坐了很久的船到了国家公园。我听到大家在笑，麦德林奶奶笑着凑过来跟我说我们在委内瑞拉了，河对面才是哥伦比亚，我现在是非法移民了。我内心一颤。</p>
-  <p lang="en" class="en">After breakfast, a long boat ride took us to a national park. Everyone was laughing; the grandma from Medellín leaned over, grinning, and told me we were now in Venezuela—Colombia was across the river—so I was officially an illegal immigrant. My heart skipped a beat.</p>
+  <p lang="zh">早饭后坐了很久的船到了国家公园。</p>
+  <p lang="en" class="en">After breakfast, a long boat ride took us to a national park.</p>
 </div>
 <figure class="journal-photo"><img src="{{ 'assets/img/travel/orinoco/orinoco-25.jpg' | relative_url }}" alt="River Orinoco, day photo 25" loading="lazy"></figure>
 <div class="pair">
