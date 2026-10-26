@@ -1,777 +1,916 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://demi1211.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://demi1211.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2025-01-09T15:41:11-05:00</updated><id>https://demi1211.github.io/feed.xml</id><title type="html">blank</title><subtitle>Demi Zhang&apos;s personal website. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra</title><link href="https://demi1211.github.io/blog/2024/google-gemini-updates-flash-15-gemma-2-and-project-astra/" rel="alternate" type="text/html" title="Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra"/><published>2024-05-14T00:00:00-04:00</published><updated>2024-05-14T00:00:00-04:00</updated><id>https://demi1211.github.io/blog/2024/google-gemini-updates-flash-15-gemma-2-and-project-astra</id><content type="html" xml:base="https://demi1211.github.io/blog/2024/google-gemini-updates-flash-15-gemma-2-and-project-astra/"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.]]></summary></entry><entry><title type="html">a post with tabs</title><link href="https://demi1211.github.io/blog/2024/tabs/" rel="alternate" type="text/html" title="a post with tabs"/><published>2024-04-30T20:32:13-04:00</published><updated>2024-04-30T20:32:13-04:00</updated><id>https://demi1211.github.io/blog/2024/tabs</id><content type="html" xml:base="https://demi1211.github.io/blog/2024/tabs/"><![CDATA[<p>This is how a post with <a href="https://github.com/Ovski4/jekyll-tabs">tabs</a> looks like. Note that the tabs could be used for different purposes, not only for code.</p> <h2 id="first-tabs">First tabs</h2> <p>To add tabs, use the following syntax:</p> <pre><code class="language-liquid">{% tabs group-name %}
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://demi1211.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://demi1211.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-10-26T03:54:11+00:00</updated><id>https://demi1211.github.io/feed.xml</id><title type="html">Demi Zhang</title><subtitle>Demi Zhang&apos;s personal website.
+</subtitle><entry><title type="html"></title><link href="https://demi1211.github.io/blog/2026/2024-12-28-cocora-valley/" rel="alternate" type="text/html" title="" /><published>2026-10-26T03:54:11+00:00</published><updated>2026-10-26T03:54:11+00:00</updated><id>https://demi1211.github.io/blog/2026/2024-12-28-cocora-valley</id><content type="html" xml:base="https://demi1211.github.io/blog/2026/2024-12-28-cocora-valley/"><![CDATA[<link rel="stylesheet" href="/assets/css/travel-journal.css" />
 
-{% tab group-name tab-name-1 %}
+<div class="journal">
 
-Content 1
+<p class="journal-intro">A co-written entry: <strong>Juan</strong> wrote in English and <strong>Demi</strong> wrote in Chinese (with an English translation alongside).</p>
 
-{% endtab %}
+<section class="journal-day">
+  <header>
+    <span class="day-label">Journal</span>
+    <h2>Cócora Valley day</h2>
+    <div class="day-meta"><i class="fa-solid fa-calendar"></i> December 28, 2024 &nbsp;·&nbsp; <i class="fa-solid fa-location-dot"></i> Salento &amp; Cócora Valley, Quindío, Colombia</div>
+  </header>
 
-{% tab group-name tab-name-2 %}
+  <div class="pair solo"><p><span class="voice">Juan</span>The day started off with us rushing to Salento to meet up with our tour guide at 9 am sharp. I was excited but also anxious because we traveled 12+ hours to the area for the tour, so I really hoped everything would go well. We were also getting there without eating breakfast or a plan for where to store our bags, since we had already checked out of our hotel for the day. Thankfully the hotel told us about a very nice lady who runs a coffee shop nearby and could hold our stuff at her place. All I had to find her was a piece of paper with the address and phone number, so I tried to find it quickly so that I wouldn't delay our tour further.</p></div>
 
-Content 2
+  
 
-{% endtab %}
 
-{% endtabs %}
-</code></pre> <p>With this you can generate visualizations like:</p> <ul id="log" class="tab" data-tab="a1a29e5b-8964-45f7-a970-e42685750f41" data-name="log"> <li class="active" id="log-php"> <a href="#">php </a> </li> <li id="log-js"> <a href="#">js </a> </li> <li id="log-ruby"> <a href="#">ruby </a> </li> </ul> <ul class="tab-content" id="a1a29e5b-8964-45f7-a970-e42685750f41" data-name="log"> <li class="active"> <pre><code class="language-php">var_dump('hello');
-</code></pre> </li> <li> <pre><code class="language-javascript">console.log("hello");
-</code></pre> </li> <li> <pre><code class="language-javascript">pputs 'hello'
-</code></pre> </li> </ul> <h2 id="another-example">Another example</h2> <ul id="data-struct" class="tab" data-tab="2f73ed8a-b6d7-4beb-baca-bcd7b07813a4" data-name="data-struct"> <li class="active" id="data-struct-yaml"> <a href="#">yaml </a> </li> <li id="data-struct-json"> <a href="#">json </a> </li> </ul> <ul class="tab-content" id="2f73ed8a-b6d7-4beb-baca-bcd7b07813a4" data-name="data-struct"> <li class="active"> <pre><code class="language-yaml">hello:
-  - "whatsup"
-  - "hi"
-</code></pre> </li> <li> <pre><code class="language-json">{
-  "hello": ["whatsup", "hi"]
-}
-</code></pre> </li> </ul> <h2 id="tabs-for-something-else">Tabs for something else</h2> <ul id="something-else" class="tab" data-tab="27a7bdfe-801b-4fdd-be96-1cfa9c687a85" data-name="something-else"> <li class="active" id="something-else-text"> <a href="#">text </a> </li> <li id="something-else-quote"> <a href="#">quote </a> </li> <li id="something-else-list"> <a href="#">list </a> </li> </ul> <ul class="tab-content" id="27a7bdfe-801b-4fdd-be96-1cfa9c687a85" data-name="something-else"> <li class="active"> <p>Regular text</p> </li> <li> <blockquote> <p>A quote</p> </blockquote> </li> <li> <p>Hipster list</p> <ul> <li>brunch</li> <li>fixie</li> <li>raybans</li> <li>messenger bag</li> </ul> </li> </ul>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="code"/><summary type="html"><![CDATA[this is what included tabs in a post could look like]]></summary></entry><entry><title type="html">a post with typograms</title><link href="https://demi1211.github.io/blog/2024/typograms/" rel="alternate" type="text/html" title="a post with typograms"/><published>2024-04-29T19:36:10-04:00</published><updated>2024-04-29T19:36:10-04:00</updated><id>https://demi1211.github.io/blog/2024/typograms</id><content type="html" xml:base="https://demi1211.github.io/blog/2024/typograms/"><![CDATA[<p>This is an example post with some <a href="https://github.com/google/typograms/">typograms</a> code.</p> <pre><code class="language-markdown">```typograms
-+----+
-|    |---&gt; My first diagram!
-+----+
-```
-</code></pre> <p>Which generates:</p> <pre><code class="language-typograms">+----+
-|    |---&gt; My first diagram!
-+----+
-</code></pre> <p>Another example:</p> <pre><code class="language-markdown">```typograms
-.------------------------.
-|.----------------------.|
-||"https://example.com" ||
-|'----------------------'|
-| ______________________ |
-||                      ||
-||   Welcome!           ||
-||                      ||
-||                      ||
-||  .----------------.  ||
-||  | username       |  ||
-||  '----------------'  ||
-||  .----------------.  ||
-||  |"*******"       |  ||
-||  '----------------'  ||
-||                      ||
-||  .----------------.  ||
-||  |   "Sign-up"    |  ||
-||  '----------------'  ||
-||                      ||
-|+----------------------+|
-.------------------------.
-```
-</code></pre> <p>which generates:</p> <pre><code class="language-typograms">.------------------------.
-|.----------------------.|
-||"https://example.com" ||
-|'----------------------'|
-| ______________________ |
-||                      ||
-||   Welcome!           ||
-||                      ||
-||                      ||
-||  .----------------.  ||
-||  | username       |  ||
-||  '----------------'  ||
-||  .----------------.  ||
-||  |"*******"       |  ||
-||  '----------------'  ||
-||                      ||
-||  .----------------.  ||
-||  |   "Sign-up"    |  ||
-||  '----------------'  ||
-||                      ||
-|+----------------------+|
-.------------------------.
-</code></pre> <p>For more examples, check out the <a href="https://google.github.io/typograms/#examples">typograms documentation</a>.</p>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="diagrams"/><summary type="html"><![CDATA[this is what included typograms code could look like]]></summary></entry><entry><title type="html">a post that can be cited</title><link href="https://demi1211.github.io/blog/2024/post-citation/" rel="alternate" type="text/html" title="a post that can be cited"/><published>2024-04-28T11:06:00-04:00</published><updated>2024-04-28T11:06:00-04:00</updated><id>https://demi1211.github.io/blog/2024/post-citation</id><content type="html" xml:base="https://demi1211.github.io/blog/2024/post-citation/"><![CDATA[<p>This is an example post that can be cited. The content of the post ends here, while the citation information is automatically provided below. The only thing needed is for you to set the <code>citation</code> key in the front matter to <code>true</code>.</p>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="citation"/><summary type="html"><![CDATA[this is what a post that can be cited looks like]]></summary></entry><entry><title type="html">a post with pseudo code</title><link href="https://demi1211.github.io/blog/2024/pseudocode/" rel="alternate" type="text/html" title="a post with pseudo code"/><published>2024-04-14T20:01:00-04:00</published><updated>2024-04-14T20:01:00-04:00</updated><id>https://demi1211.github.io/blog/2024/pseudocode</id><content type="html" xml:base="https://demi1211.github.io/blog/2024/pseudocode/"><![CDATA[<p>This is an example post with some pseudo code rendered by <a href="https://github.com/SaswatPadhi/pseudocode.js">pseudocode</a>. The example presented here is the same as the one in the <a href="https://saswat.padhi.me/pseudocode.js/">pseudocode.js</a> documentation, with only one simple but important change: everytime you would use <code>$</code>, you should use <code>$$</code> instead. Also, note that the <code>pseudocode</code> key in the front matter is set to <code>true</code> to enable the rendering of pseudo code. As an example, using this code:</p> <pre><code class="language-markdown">```pseudocode
-% This quicksort algorithm is extracted from Chapter 7, Introduction to Algorithms (3rd edition)
-\begin{algorithm}
-\caption{Quicksort}
-\begin{algorithmic}
-\PROCEDURE{Quicksort}{$$A, p, r$$}
-    \IF{$$p &lt; r$$}
-        \STATE $$q = $$ \CALL{Partition}{$$A, p, r$$}
-        \STATE \CALL{Quicksort}{$$A, p, q - 1$$}
-        \STATE \CALL{Quicksort}{$$A, q + 1, r$$}
-    \ENDIF
-\ENDPROCEDURE
-\PROCEDURE{Partition}{$$A, p, r$$}
-    \STATE $$x = A[r]$$
-    \STATE $$i = p - 1$$
-    \FOR{$$j = p$$ \TO $$r - 1$$}
-        \IF{$$A[j] &lt; x$$}
-            \STATE $$i = i + 1$$
-            \STATE exchange
-            $$A[i]$$ with $$A[j]$$
-        \ENDIF
-        \STATE exchange $$A[i]$$ with $$A[r]$$
-    \ENDFOR
-\ENDPROCEDURE
-\end{algorithmic}
-\end{algorithm}
-```
-</code></pre> <p>Generates:</p> <pre><code class="language-pseudocode">% This quicksort algorithm is extracted from Chapter 7, Introduction to Algorithms (3rd edition)
-\begin{algorithm}
-\caption{Quicksort}
-\begin{algorithmic}
-\PROCEDURE{Quicksort}{$$A, p, r$$}
-    \IF{$$p &lt; r$$}
-        \STATE $$q = $$ \CALL{Partition}{$$A, p, r$$}
-        \STATE \CALL{Quicksort}{$$A, p, q - 1$$}
-        \STATE \CALL{Quicksort}{$$A, q + 1, r$$}
-    \ENDIF
-\ENDPROCEDURE
-\PROCEDURE{Partition}{$$A, p, r$$}
-    \STATE $$x = A[r]$$
-    \STATE $$i = p - 1$$
-    \FOR{$$j = p$$ \TO $$r - 1$$}
-        \IF{$$A[j] &lt; x$$}
-            \STATE $$i = i + 1$$
-            \STATE exchange
-            $$A[i]$$ with $$A[j]$$
-        \ENDIF
-        \STATE exchange $$A[i]$$ with $$A[r]$$
-    \ENDFOR
-\ENDPROCEDURE
-\end{algorithmic}
-\end{algorithm}
-</code></pre>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="code"/><summary type="html"><![CDATA[this is what included pseudo code could look like]]></summary></entry><entry><title type="html">a post with code diff</title><link href="https://demi1211.github.io/blog/2024/code-diff/" rel="alternate" type="text/html" title="a post with code diff"/><published>2024-01-27T14:22:00-05:00</published><updated>2024-01-27T14:22:00-05:00</updated><id>https://demi1211.github.io/blog/2024/code-diff</id><content type="html" xml:base="https://demi1211.github.io/blog/2024/code-diff/"><![CDATA[<p>You can display diff code by using the regular markdown syntax:</p> <pre><code class="language-markdown">```diff
-diff --git a/sample.js b/sample.js
-index 0000001..0ddf2ba
---- a/sample.js
-+++ b/sample.js
-@@ -1 +1 @@
--console.log("Hello World!")
-+console.log("Hello from Diff2Html!")
-```
-</code></pre> <p>Which generates:</p> <pre><code class="language-diff">diff --git a/sample.js b/sample.js
-index 0000001..0ddf2ba
---- a/sample.js
-+++ b/sample.js
-@@ -1 +1 @@
--console.log("Hello World!")
-+console.log("Hello from Diff2Html!")
-</code></pre> <p>But this is difficult to read, specially if you have a large diff. You can use <a href="https://diff2html.xyz/">diff2html</a> to display a more readable version of the diff. For this, just use <code>diff2html</code> instead of <code>diff</code> for the code block language:</p> <pre><code class="language-markdown">```diff2html
-diff --git a/sample.js b/sample.js
-index 0000001..0ddf2ba
---- a/sample.js
-+++ b/sample.js
-@@ -1 +1 @@
--console.log("Hello World!")
-+console.log("Hello from Diff2Html!")
-```
-</code></pre> <p>If we use a longer example, for example <a href="https://github.com/rtfpessoa/diff2html/commit/c2c253d3e3f8b8b267f551e659f72b44ca2ac927">this commit from diff2html</a>, it will generate the following output:</p> <pre><code class="language-diff2html">From 2aaae31cc2a37bfff83430c2c914b140bee59b6a Mon Sep 17 00:00:00 2001
-From: Rodrigo Fernandes &lt;rtfrodrigo@gmail.com&gt;
-Date: Sun, 9 Oct 2016 16:41:54 +0100
-Subject: [PATCH 1/2] Initial template override support
 
----
- scripts/hulk.js                    |  4 ++--
- src/diff2html.js                   |  3 +--
- src/file-list-printer.js           | 11 ++++++++---
- src/hoganjs-utils.js               | 29 +++++++++++++++++------------
- src/html-printer.js                |  6 ++++++
- src/line-by-line-printer.js        |  6 +++++-
- src/side-by-side-printer.js        |  6 +++++-
- test/file-list-printer-tests.js    |  2 +-
- test/hogan-cache-tests.js          | 18 +++++++++++++++---
- test/line-by-line-tests.js         |  3 +--
- test/side-by-side-printer-tests.js |  3 +--
- 11 files changed, 62 insertions(+), 29 deletions(-)
+<figure class="journal-photo">
+  <img src="/assets/img/travel/cocora/cocora-01.jpg" alt="Our bag-keeper, the coffee-shop lady who held our things for the day" loading="lazy" />
+  <figcaption>Our bag-keeper, the coffee-shop lady who held our things for the day</figcaption>
+</figure>
 
-diff --git a/scripts/hulk.js b/scripts/hulk.js
-index 5a793c18..a4b1a4d5 100755
---- a/scripts/hulk.js
-+++ b/scripts/hulk.js
-@@ -173,11 +173,11 @@ function namespace(name) {
- // write a template foreach file that matches template extension
- templates = extractFiles(options.argv.remain)
-   .map(function(file) {
--    var openedFile = fs.readFileSync(file, 'utf-8');
-+    var openedFile = fs.readFileSync(file, 'utf-8').trim();
-     var name;
-     if (!openedFile) return;
-     name = namespace(path.basename(file).replace(/\..*$/, ''));
--    openedFile = removeByteOrderMark(openedFile.trim());
-+    openedFile = removeByteOrderMark(openedFile);
-     openedFile = wrap(file, name, openedFile);
-     if (!options.outputdir) return openedFile;
-     fs.writeFileSync(path.join(options.outputdir, name + '.js')
-diff --git a/src/diff2html.js b/src/diff2html.js
-index 21b0119e..64e138f5 100644
---- a/src/diff2html.js
-+++ b/src/diff2html.js
-@@ -7,7 +7,6 @@
 
- (function() {
-   var diffParser = require('./diff-parser.js').DiffParser;
--  var fileLister = require('./file-list-printer.js').FileListPrinter;
-   var htmlPrinter = require('./html-printer.js').HtmlPrinter;
 
-   function Diff2Html() {
-@@ -43,7 +42,7 @@
+  <div class="pair solo"><p><span class="voice">Juan</span>The tour guide was also very nice in adjusting her plans for us by adding a stop for breakfast before the tour of the park.</p></div>
 
-     var fileList = '';
-     if (configOrEmpty.showFiles === true) {
--      fileList = fileLister.generateFileList(diffJson, configOrEmpty);
-+      fileList = htmlPrinter.generateFileListSummary(diffJson, configOrEmpty);
-     }
+  <div class="pair">
+    <p lang="zh"><span class="voice">Demi</span>纵深的深绿色山谷，云雾环绕，好像魔戒世界。</p>
+    <p lang="en" class="en"><span class="voice">&nbsp;</span>Deep green valleys stretching into the distance, wrapped in mist—like a world out of <em>The Lord of the Rings</em>.</p>
+  </div>
 
-     var diffOutput = '';
-diff --git a/src/file-list-printer.js b/src/file-list-printer.js
-index e408d9b2..1e0a2c61 100644
---- a/src/file-list-printer.js
-+++ b/src/file-list-printer.js
-@@ -8,11 +8,16 @@
- (function() {
-   var printerUtils = require('./printer-utils.js').PrinterUtils;
+  <div class="pair solo"><p><span class="voice">Juan</span>I go in and right away notice their unique palm trees. They are tall and perfectly straight like needles. There is also a thick fog in the sky not too far from the ground.</p></div>
 
--  var hoganUtils = require('./hoganjs-utils.js').HoganJsUtils;
-+  var hoganUtils;
-+
-   var baseTemplatesPath = 'file-summary';
-   var iconsBaseTemplatesPath = 'icon';
+  <div class="pair solo"><p><span class="voice">Juan</span>Throughout the tour we take many photos of ourselves and our surroundings. The park was a bit crowded, but thankfully our guide knew a few spots off the trail where we could enjoy the landscape around us.</p></div>
 
--  function FileListPrinter() {
-+  function FileListPrinter(config) {
-+    this.config = config;
-+
-+    var HoganJsUtils = require('./hoganjs-utils.js').HoganJsUtils;
-+    hoganUtils = new HoganJsUtils(config);
-   }
+  
 
-   FileListPrinter.prototype.generateFileList = function(diffFiles) {
-@@ -38,5 +43,5 @@
-     });
-   };
 
--  module.exports.FileListPrinter = new FileListPrinter();
-+  module.exports.FileListPrinter = FileListPrinter;
- })();
-diff --git a/src/hoganjs-utils.js b/src/hoganjs-utils.js
-index 9949e5fa..0dda08d7 100644
---- a/src/hoganjs-utils.js
-+++ b/src/hoganjs-utils.js
-@@ -8,18 +8,19 @@
- (function() {
-   var fs = require('fs');
-   var path = require('path');
--
-   var hogan = require('hogan.js');
 
-   var hoganTemplates = require('./templates/diff2html-templates.js');
+<figure class="journal-photo">
+  <img src="/assets/img/travel/cocora/cocora-02.jpg" alt="Wax palms on the hills of Cócora Valley" loading="lazy" />
+  <figcaption>Wax palms on the hills of Cócora Valley</figcaption>
+</figure>
 
--  var templatesPath = path.resolve(__dirname, 'templates');
-+  var extraTemplates;
 
--  function HoganJsUtils() {
-+  function HoganJsUtils(configuration) {
-+    this.config = configuration || {};
-+    extraTemplates = this.config.templates || {};
-   }
 
--  HoganJsUtils.prototype.render = function(namespace, view, params, configuration) {
--    var template = this.template(namespace, view, configuration);
-+  HoganJsUtils.prototype.render = function(namespace, view, params) {
-+    var template = this.template(namespace, view);
-     if (template) {
-       return template.render(params);
-     }
-@@ -27,17 +28,16 @@
-     return null;
-   };
+  <div class="pair">
+    <p lang="zh"><span class="voice">Demi</span>Cócora valley有毛茸茸的温柔的小山丘，像抹茶雪域蛋糕撒了浓浓的抹茶粉。瘦瘦高高的棕榈树是插在蛋糕上的百奇饼干，上面是大朵的白色cotton candy。草地湿漉漉的，不然好想闭上眼睛躺下，把一切吸进肺里。</p>
+    <p lang="en" class="en"><span class="voice">&nbsp;</span>Cócora Valley has soft, fuzzy little hills, like a matcha snow cake dusted with thick matcha powder. The tall, skinny palms are Pocky sticks stuck into the cake, topped with big white puffs of cotton candy. The grass was wet—otherwise I would have loved to close my eyes, lie down, and breathe it all in.</p>
+  </div>
 
--  HoganJsUtils.prototype.template = function(namespace, view, configuration) {
--    var config = configuration || {};
-+  HoganJsUtils.prototype.template = function(namespace, view) {
-     var templateKey = this._templateKey(namespace, view);
+  <div class="pair">
+    <p lang="zh"><span class="voice">Demi</span>一颗宝宝棕榈树。让我们祝愿她不被马吃掉，茁壮成长80年，变成大树。</p>
+    <p lang="en" class="en"><span class="voice">&nbsp;</span>A baby palm tree. Let's wish that no horse eats her, and that she grows strong for eighty years into a big tree.</p>
+  </div>
 
--    return this._getTemplate(templateKey, config);
-+    return this._getTemplate(templateKey);
-   };
+  <div class="pair">
+    <p lang="zh"><span class="voice">Demi</span>小马驹儿小羊羔收拾得干干净净，吃草吃得香。</p>
+    <p lang="en" class="en"><span class="voice">&nbsp;</span>The foals and lambs were neat and clean, munching happily on the grass.</p>
+  </div>
 
--  HoganJsUtils.prototype._getTemplate = function(templateKey, config) {
-+  HoganJsUtils.prototype._getTemplate = function(templateKey) {
-     var template;
+  <div class="photo-row">
+    
 
--    if (!config.noCache) {
-+    if (!this.config.noCache) {
-       template = this._readFromCache(templateKey);
-     }
 
-@@ -53,6 +53,7 @@
 
-     try {
-       if (fs.readFileSync) {
-+        var templatesPath = path.resolve(__dirname, 'templates');
-         var templatePath = path.join(templatesPath, templateKey);
-         var templateContent = fs.readFileSync(templatePath + '.mustache', 'utf8');
-         template = hogan.compile(templateContent);
-@@ -66,12 +67,16 @@
-   };
+<figure class="journal-photo">
+  <img src="/assets/img/travel/cocora/cocora-03.jpg" alt="Travel photo" loading="lazy" />
+  
+</figure>
 
-   HoganJsUtils.prototype._readFromCache = function(templateKey) {
--    return hoganTemplates[templateKey];
-+    return extraTemplates[templateKey] || hoganTemplates[templateKey];
-   };
 
-   HoganJsUtils.prototype._templateKey = function(namespace, view) {
-     return namespace + '-' + view;
-   };
+    
 
--  module.exports.HoganJsUtils = new HoganJsUtils();
-+  HoganJsUtils.prototype.compile = function(templateStr) {
-+    return hogan.compile(templateStr);
-+  };
-+
-+  module.exports.HoganJsUtils = HoganJsUtils;
- })();
-diff --git a/src/html-printer.js b/src/html-printer.js
-index 585d5b66..13f83047 100644
---- a/src/html-printer.js
-+++ b/src/html-printer.js
-@@ -8,6 +8,7 @@
- (function() {
-   var LineByLinePrinter = require('./line-by-line-printer.js').LineByLinePrinter;
-   var SideBySidePrinter = require('./side-by-side-printer.js').SideBySidePrinter;
-+  var FileListPrinter = require('./file-list-printer.js').FileListPrinter;
 
-   function HtmlPrinter() {
-   }
-@@ -22,5 +23,10 @@
-     return sideBySidePrinter.generateSideBySideJsonHtml(diffFiles);
-   };
 
-+  HtmlPrinter.prototype.generateFileListSummary = function(diffJson, config) {
-+    var fileListPrinter = new FileListPrinter(config);
-+    return fileListPrinter.generateFileList(diffJson);
-+  };
-+
-   module.exports.HtmlPrinter = new HtmlPrinter();
- })();
-diff --git a/src/line-by-line-printer.js b/src/line-by-line-printer.js
-index b07eb53c..d230bedd 100644
---- a/src/line-by-line-printer.js
-+++ b/src/line-by-line-printer.js
-@@ -11,7 +11,8 @@
-   var utils = require('./utils.js').Utils;
-   var Rematch = require('./rematch.js').Rematch;
+<figure class="journal-photo">
+  <img src="/assets/img/travel/cocora/cocora-04.jpg" alt="Travel photo" loading="lazy" />
+  
+</figure>
 
--  var hoganUtils = require('./hoganjs-utils.js').HoganJsUtils;
-+  var hoganUtils;
-+
-   var genericTemplatesPath = 'generic';
-   var baseTemplatesPath = 'line-by-line';
-   var iconsBaseTemplatesPath = 'icon';
-@@ -19,6 +20,9 @@
 
-   function LineByLinePrinter(config) {
-     this.config = config;
-+
-+    var HoganJsUtils = require('./hoganjs-utils.js').HoganJsUtils;
-+    hoganUtils = new HoganJsUtils(config);
-   }
+  </div>
 
-   LineByLinePrinter.prototype.makeFileDiffHtml = function(file, diffs) {
-diff --git a/src/side-by-side-printer.js b/src/side-by-side-printer.js
-index bbf1dc8d..5e3033b3 100644
---- a/src/side-by-side-printer.js
-+++ b/src/side-by-side-printer.js
-@@ -11,7 +11,8 @@
-   var utils = require('./utils.js').Utils;
-   var Rematch = require('./rematch.js').Rematch;
+  <div class="pair solo"><p><span class="voice">Juan</span>Anyways, on our trek back the ground was only slightly slippery, yet I still fell, and in that moment I thought I had broken a bone (which would have totally ruined the tour we spent so much time and money on)! In reality I was able to get back up after 2–3 minutes.</p></div>
 
--  var hoganUtils = require('./hoganjs-utils.js').HoganJsUtils;
-+  var hoganUtils;
-+
-   var genericTemplatesPath = 'generic';
-   var baseTemplatesPath = 'side-by-side';
-   var iconsBaseTemplatesPath = 'icon';
-@@ -26,6 +27,9 @@
+  <div class="pair">
+    <p lang="zh"><span class="voice">Demi</span>黄冈摔倒了，拍拍屁股又站了起来。</p>
+    <p lang="en" class="en"><span class="voice">&nbsp;</span>Juan fell down and stood up super quickly—dusted himself off and carried on.</p>
+  </div>
 
-   function SideBySidePrinter(config) {
-     this.config = config;
-+
-+    var HoganJsUtils = require('./hoganjs-utils.js').HoganJsUtils;
-+    hoganUtils = new HoganJsUtils(config);
-   }
+  
 
-   SideBySidePrinter.prototype.makeDiffHtml = function(file, diffs) {
-diff --git a/test/file-list-printer-tests.js b/test/file-list-printer-tests.js
-index a502a46f..60ea3208 100644
---- a/test/file-list-printer-tests.js
-+++ b/test/file-list-printer-tests.js
-@@ -1,6 +1,6 @@
- var assert = require('assert');
 
--var fileListPrinter = require('../src/file-list-printer.js').FileListPrinter;
-+var fileListPrinter = new (require('../src/file-list-printer.js').FileListPrinter)();
 
- describe('FileListPrinter', function() {
-   describe('generateFileList', function() {
-diff --git a/test/hogan-cache-tests.js b/test/hogan-cache-tests.js
-index 190bf6f8..3bb754ac 100644
---- a/test/hogan-cache-tests.js
-+++ b/test/hogan-cache-tests.js
-@@ -1,6 +1,6 @@
- var assert = require('assert');
+<figure class="journal-photo">
+  <img src="/assets/img/travel/cocora/cocora-05.jpg" alt="The barbed-wire wound, freshly bandaged" loading="lazy" />
+  <figcaption>The barbed-wire wound, freshly bandaged</figcaption>
+</figure>
 
--var HoganJsUtils = require('../src/hoganjs-utils.js').HoganJsUtils;
-+var HoganJsUtils = new (require('../src/hoganjs-utils.js').HoganJsUtils)();
- var diffParser = require('../src/diff-parser.js').DiffParser;
 
- describe('HoganJsUtils', function() {
-@@ -21,16 +21,28 @@ describe('HoganJsUtils', function() {
-       });
-       assert.equal(emptyDiffHtml, result);
-     });
-+
-     it('should render view without cache', function() {
-       var result = HoganJsUtils.render('generic', 'empty-diff', {
-         contentClass: 'd2h-code-line',
-         diffParser: diffParser
-       }, {noCache: true});
--      assert.equal(emptyDiffHtml + '\n', result);
-+      assert.equal(emptyDiffHtml, result);
-     });
-+
-     it('should return null if template is missing', function() {
--      var result = HoganJsUtils.render('generic', 'missing-template', {}, {noCache: true});
-+      var hoganUtils = new (require('../src/hoganjs-utils.js').HoganJsUtils)({noCache: true});
-+      var result = hoganUtils.render('generic', 'missing-template', {});
-       assert.equal(null, result);
-     });
-+
-+    it('should allow templates to be overridden', function() {
-+      var emptyDiffTemplate = HoganJsUtils.compile('&lt;p&gt;&lt;/p&gt;');
-+
-+      var config = {templates: {'generic-empty-diff': emptyDiffTemplate}};
-+      var hoganUtils = new (require('../src/hoganjs-utils.js').HoganJsUtils)(config);
-+      var result = hoganUtils.render('generic', 'empty-diff', {myName: 'Rodrigo Fernandes'});
-+      assert.equal('&lt;p&gt;Rodrigo Fernandes&lt;/p&gt;', result);
-+    });
-   });
- });
-diff --git a/test/line-by-line-tests.js b/test/line-by-line-tests.js
-index 1cd92073..8869b3df 100644
---- a/test/line-by-line-tests.js
-+++ b/test/line-by-line-tests.js
-@@ -14,7 +14,7 @@ describe('LineByLinePrinter', function() {
-         '            File without changes\n' +
-         '        &lt;/div&gt;\n' +
-         '    &lt;/td&gt;\n' +
--        '&lt;/tr&gt;\n';
-+        '&lt;/tr&gt;';
 
-       assert.equal(expected, fileHtml);
-     });
-@@ -422,7 +422,6 @@ describe('LineByLinePrinter', function() {
-         '        &lt;/div&gt;\n' +
-         '    &lt;/td&gt;\n' +
-         '&lt;/tr&gt;\n' +
--        '\n' +
-         '                &lt;/tbody&gt;\n' +
-         '            &lt;/table&gt;\n' +
-         '        &lt;/div&gt;\n' +
-diff --git a/test/side-by-side-printer-tests.js b/test/side-by-side-printer-tests.js
-index 76625f8e..771daaa5 100644
---- a/test/side-by-side-printer-tests.js
-+++ b/test/side-by-side-printer-tests.js
-@@ -14,7 +14,7 @@ describe('SideBySidePrinter', function() {
-         '            File without changes\n' +
-         '        &lt;/div&gt;\n' +
-         '    &lt;/td&gt;\n' +
--        '&lt;/tr&gt;\n';
-+        '&lt;/tr&gt;';
+  <div class="pair solo"><p><span class="voice">Juan</span>But then I fell again and instinctively grabbed the first surface I could, which was, very conveniently, a piece of barbed wire. The tour guide came to the rescue with her first-aid kit and put a bandage on my wound. I was actually pretty upset about being the only one who fell and now having to deal with this wound for the rest of the trip, but at that point it is what it is, so I just smiled the pain away and thought about the story I could now tell others about my visit to Colombia.</p></div>
 
-       assert.equal(expectedRight, fileHtml.right);
-       assert.equal(expectedLeft, fileHtml.left);
-@@ -324,7 +324,6 @@ describe('SideBySidePrinter', function() {
-         '        &lt;/div&gt;\n' +
-         '    &lt;/td&gt;\n' +
-         '&lt;/tr&gt;\n' +
--        '\n' +
-         '                    &lt;/tbody&gt;\n' +
-         '                &lt;/table&gt;\n' +
-         '            &lt;/div&gt;\n' +
+  <div class="pair">
+    <p lang="zh"><span class="voice">Demi</span>黄冈再次摔倒，并眼疾手快扶上了旁边带刺的铁丝网，人工拉出一条财富掌纹。让我们祝他2025发大财。</p>
+    <p lang="en" class="en"><span class="voice">&nbsp;</span>Juan fell again, quick-handedly grabbed the barbed wire beside him, and carved himself a man-made wealth line across his palm. Let's wish him a prosperous 2025.</p>
+  </div>
 
-From f3cadb96677d0eb82fc2752dc3ffbf35ca9b5bdb Mon Sep 17 00:00:00 2001
-From: Rodrigo Fernandes &lt;rtfrodrigo@gmail.com&gt;
-Date: Sat, 15 Oct 2016 13:21:22 +0100
-Subject: [PATCH 2/2] Allow uncompiled templates
+  <div class="pair solo"><p><span class="voice">Juan</span>Moving along, we left the park with the tour guide along a muddy, bumpy road that I would never want to drive myself, out of fear of ruining my car or hitting another car on the narrow roads. It was a little fun, but it got too crazy once the car lost control and got stuck on the way up to the coffee plantation. Had we done this tour ourselves with a rented car, we would have been sooooo screwed. But we didn't! So the only thing I had to worry about was not slipping again and taking care of my wound.</p></div>
 
----
- README.md                 |  3 +++
- src/hoganjs-utils.js      |  7 +++++++
- test/hogan-cache-tests.js | 24 +++++++++++++++++++++++-
- 3 files changed, 33 insertions(+), 1 deletion(-)
+  
 
-diff --git a/README.md b/README.md
-index 132c8a28..46909f25 100644
---- a/README.md
-+++ b/README.md
-@@ -98,6 +98,9 @@ The HTML output accepts a Javascript object with configuration. Possible options
-   - `synchronisedScroll`: scroll both panes in side-by-side mode: `true` or `false`, default is `false`
-   - `matchWordsThreshold`: similarity threshold for word matching, default is 0.25
-   - `matchingMaxComparisons`: perform at most this much comparisons for line matching a block of changes, default is `2500`
-+  - `templates`: object with previously compiled templates to replace parts of the html
-+  - `rawTemplates`: object with raw not compiled templates to replace parts of the html
-+  &gt; For more information regarding the possible templates look into [src/templates](https://github.com/rtfpessoa/diff2html/tree/master/src/templates)
 
- ## Diff2HtmlUI Helper
 
-diff --git a/src/hoganjs-utils.js b/src/hoganjs-utils.js
-index 0dda08d7..b2e9c275 100644
---- a/src/hoganjs-utils.js
-+++ b/src/hoganjs-utils.js
-@@ -17,6 +17,13 @@
-   function HoganJsUtils(configuration) {
-     this.config = configuration || {};
-     extraTemplates = this.config.templates || {};
-+
-+    var rawTemplates = this.config.rawTemplates || {};
-+    for (var templateName in rawTemplates) {
-+      if (rawTemplates.hasOwnProperty(templateName)) {
-+        if (!extraTemplates[templateName]) extraTemplates[templateName] = this.compile(rawTemplates[templateName]);
-+      }
-+    }
-   }
+<figure class="journal-photo">
+  <img src="/assets/img/travel/cocora/cocora-06.jpg" alt="Stuck on the hill on the way to the coffee farm" loading="lazy" />
+  <figcaption>Stuck on the hill on the way to the coffee farm</figcaption>
+</figure>
 
-   HoganJsUtils.prototype.render = function(namespace, view, params) {
-diff --git a/test/hogan-cache-tests.js b/test/hogan-cache-tests.js
-index 3bb754ac..a34839c0 100644
---- a/test/hogan-cache-tests.js
-+++ b/test/hogan-cache-tests.js
-@@ -36,7 +36,7 @@ describe('HoganJsUtils', function() {
-       assert.equal(null, result);
-     });
 
--    it('should allow templates to be overridden', function() {
-+    it('should allow templates to be overridden with compiled templates', function() {
-       var emptyDiffTemplate = HoganJsUtils.compile('&lt;p&gt;&lt;/p&gt;');
 
-       var config = {templates: {'generic-empty-diff': emptyDiffTemplate}};
-@@ -44,5 +44,27 @@ describe('HoganJsUtils', function() {
-       var result = hoganUtils.render('generic', 'empty-diff', {myName: 'Rodrigo Fernandes'});
-       assert.equal('&lt;p&gt;Rodrigo Fernandes&lt;/p&gt;', result);
-     });
-+
-+    it('should allow templates to be overridden with uncompiled templates', function() {
-+      var emptyDiffTemplate = '&lt;p&gt;&lt;/p&gt;';
-+
-+      var config = {rawTemplates: {'generic-empty-diff': emptyDiffTemplate}};
-+      var hoganUtils = new (require('../src/hoganjs-utils.js').HoganJsUtils)(config);
-+      var result = hoganUtils.render('generic', 'empty-diff', {myName: 'Rodrigo Fernandes'});
-+      assert.equal('&lt;p&gt;Rodrigo Fernandes&lt;/p&gt;', result);
-+    });
-+
-+    it('should allow templates to be overridden giving priority to compiled templates', function() {
-+      var emptyDiffTemplate = HoganJsUtils.compile('&lt;p&gt;&lt;/p&gt;');
-+      var emptyDiffTemplateUncompiled = '&lt;p&gt;Not used!&lt;/p&gt;';
-+
-+      var config = {
-+        templates: {'generic-empty-diff': emptyDiffTemplate},
-+        rawTemplates: {'generic-empty-diff': emptyDiffTemplateUncompiled}
-+      };
-+      var hoganUtils = new (require('../src/hoganjs-utils.js').HoganJsUtils)(config);
-+      var result = hoganUtils.render('generic', 'empty-diff', {myName: 'Rodrigo Fernandes'});
-+      assert.equal('&lt;p&gt;Rodrigo Fernandes&lt;/p&gt;', result);
-+    });
-   });
- });
-</code></pre>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="code"/><summary type="html"><![CDATA[this is how you can display code diffs]]></summary></entry><entry><title type="html">a post with advanced image components</title><link href="https://demi1211.github.io/blog/2024/advanced-images/" rel="alternate" type="text/html" title="a post with advanced image components"/><published>2024-01-27T06:46:00-05:00</published><updated>2024-01-27T06:46:00-05:00</updated><id>https://demi1211.github.io/blog/2024/advanced-images</id><content type="html" xml:base="https://demi1211.github.io/blog/2024/advanced-images/"><![CDATA[<p>This is an example post with advanced image components.</p> <h2 id="image-slider">Image Slider</h2> <p>This is a simple image slider. It uses the <a href="https://swiperjs.com/">Swiper</a> library. Check the <a href="https://swiperjs.com/demos">examples page</a> for more information of what you can achieve with it.</p> <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true"> <swiper-slide> <figure> <picture> <img src="/assets/img/9.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </swiper-slide> <swiper-slide> <figure> <picture> <img src="/assets/img/7.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </swiper-slide> <swiper-slide> <figure> <picture> <img src="/assets/img/8.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </swiper-slide> <swiper-slide> <figure> <picture> <img src="/assets/img/10.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </swiper-slide> <swiper-slide> <figure> <picture> <img src="/assets/img/12.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </swiper-slide> </swiper-container> <h2 id="image-comparison-slider">Image Comparison Slider</h2> <p>This is a simple image comparison slider. It uses the <a href="https://img-comparison-slider.sneas.io/">img-comparison-slider</a> library. Check the <a href="https://img-comparison-slider.sneas.io/examples.html">examples page</a> for more information of what you can achieve with it.</p> <img-comparison-slider> <figure slot="first"> <picture> <img src="/assets/img/prof_pic.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> <figure slot="second"> <picture> <img src="/assets/img/prof_pic_color.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </img-comparison-slider>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="images"/><summary type="html"><![CDATA[this is what advanced image components could look like]]></summary></entry><entry><title type="html">a post with vega lite</title><link href="https://demi1211.github.io/blog/2024/vega-lite/" rel="alternate" type="text/html" title="a post with vega lite"/><published>2024-01-26T19:20:00-05:00</published><updated>2024-01-26T19:20:00-05:00</updated><id>https://demi1211.github.io/blog/2024/vega-lite</id><content type="html" xml:base="https://demi1211.github.io/blog/2024/vega-lite/"><![CDATA[<p>This is an example post with some <a href="https://vega.github.io/vega-lite/">vega lite</a> code.</p> <pre><code class="language-markdown">```vega_lite
-{
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "A dot plot showing each movie in the database, and the difference from the average movie rating. The display is sorted by year to visualize everything in sequential order. The graph is for all Movies before 2019.",
-  "data": {
-    "url": "https://raw.githubusercontent.com/vega/vega/main/docs/data/movies.json"
-  },
-  "transform": [
-    {"filter": "datum['IMDB Rating'] != null"},
-    {"filter": {"timeUnit": "year", "field": "Release Date", "range": [null, 2019]}},
-    {
-      "joinaggregate": [{
-        "op": "mean",
-        "field": "IMDB Rating",
-        "as": "AverageRating"
-      }]
-    },
-    {
-      "calculate": "datum['IMDB Rating'] - datum.AverageRating",
-      "as": "RatingDelta"
-    }
-  ],
-  "mark": "point",
-  "encoding": {
-    "x": {
-      "field": "Release Date",
-      "type": "temporal"
-    },
-    "y": {
-      "field": "RatingDelta",
-      "type": "quantitative",
-      "title": "Rating Delta"
-    },
-    "color": {
-      "field": "RatingDelta",
-      "type": "quantitative",
-      "scale": {"domainMid": 0},
-      "title": "Rating Delta"
-    }
-  }
-}
-```
-</code></pre> <p>Which generates:</p> <pre><code class="language-vega_lite">{
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "A dot plot showing each movie in the database, and the difference from the average movie rating. The display is sorted by year to visualize everything in sequential order. The graph is for all Movies before 2019.",
-  "data": {
-    "url": "https://raw.githubusercontent.com/vega/vega/main/docs/data/movies.json"
-  },
-  "transform": [
-    {"filter": "datum['IMDB Rating'] != null"},
-    {"filter": {"timeUnit": "year", "field": "Release Date", "range": [null, 2019]}},
-    {
-      "joinaggregate": [{
-        "op": "mean",
-        "field": "IMDB Rating",
-        "as": "AverageRating"
-      }]
-    },
-    {
-      "calculate": "datum['IMDB Rating'] - datum.AverageRating",
-      "as": "RatingDelta"
-    }
-  ],
-  "mark": "point",
-  "encoding": {
-    "x": {
-      "field": "Release Date",
-      "type": "temporal"
-    },
-    "y": {
-      "field": "RatingDelta",
-      "type": "quantitative",
-      "title": "Rating Delta"
-    },
-    "color": {
-      "field": "RatingDelta",
-      "type": "quantitative",
-      "scale": {"domainMid": 0},
-      "title": "Rating Delta"
-    }
-  }
-}
-</code></pre> <p>This plot supports both light and dark themes.</p>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="charts"/><summary type="html"><![CDATA[this is what included vega lite code could look like]]></summary></entry><entry><title type="html">a post with geojson</title><link href="https://demi1211.github.io/blog/2024/geojson-map/" rel="alternate" type="text/html" title="a post with geojson"/><published>2024-01-26T12:57:00-05:00</published><updated>2024-01-26T12:57:00-05:00</updated><id>https://demi1211.github.io/blog/2024/geojson-map</id><content type="html" xml:base="https://demi1211.github.io/blog/2024/geojson-map/"><![CDATA[<p>This is an example post with some <a href="https://geojson.org/">geojson</a> code. The support is provided thanks to <a href="https://leafletjs.com/">Leaflet</a>. To create your own visualization, go to <a href="https://geojson.io/">geojson.io</a>.</p> <pre><code class="language-markdown">```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -60.11363029935569,
-              -2.904625022183211
-            ],
-            [
-              -60.11363029935569,
-              -3.162613728707967
-            ],
-            [
-              -59.820894493858034,
-              -3.162613728707967
-            ],
-            [
-              -59.820894493858034,
-              -2.904625022183211
-            ],
-            [
-              -60.11363029935569,
-              -2.904625022183211
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      }
-    }
-  ]
-}
-```
-</code></pre> <p>Which generates:</p> <pre><code class="language-geojson">{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -60.11363029935569,
-              -2.904625022183211
-            ],
-            [
-              -60.11363029935569,
-              -3.162613728707967
-            ],
-            [
-              -59.820894493858034,
-              -3.162613728707967
-            ],
-            [
-              -59.820894493858034,
-              -2.904625022183211
-            ],
-            [
-              -60.11363029935569,
-              -2.904625022183211
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      }
-    }
-  ]
-}
-</code></pre>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="charts"/><category term="maps"/><summary type="html"><![CDATA[this is what included geojson code could look like]]></summary></entry><entry><title type="html">a post with echarts</title><link href="https://demi1211.github.io/blog/2024/echarts/" rel="alternate" type="text/html" title="a post with echarts"/><published>2024-01-26T11:03:00-05:00</published><updated>2024-01-26T11:03:00-05:00</updated><id>https://demi1211.github.io/blog/2024/echarts</id><content type="html" xml:base="https://demi1211.github.io/blog/2024/echarts/"><![CDATA[<p>This is an example post with some <a href="https://echarts.apache.org/">echarts</a> code.</p> <pre><code class="language-markdown">```echarts
-{
-  "title": {
-    "text": "ECharts Getting Started Example"
-  },
-  "responsive": true,
-  "tooltip": {},
-  "legend": {
-    "top": "30px",
-    "data": ["sales"]
-  },
-  "xAxis": {
-    "data": ["Shirts", "Cardigans", "Chiffons", "Pants", "Heels", "Socks"]
-  },
-  "yAxis": {},
-  "series": [
-    {
-      "name": "sales",
-      "type": "bar",
-      "data": [5, 20, 36, 10, 10, 20]
-    }
-  ]
-}
-```
-</code></pre> <p>Which generates:</p> <pre><code class="language-echarts">{
-  "title": {
-    "text": "ECharts Getting Started Example"
-  },
-  "responsive": true,
-  "tooltip": {},
-  "legend": {
-    "top": "30px",
-    "data": ["sales"]
-  },
-  "xAxis": {
-    "data": ["Shirts", "Cardigans", "Chiffons", "Pants", "Heels", "Socks"]
-  },
-  "yAxis": {},
-  "series": [
-    {
-      "name": "sales",
-      "type": "bar",
-      "data": [5, 20, 36, 10, 10, 20]
-    }
-  ]
-}
-</code></pre> <p>Note that this library offer support for both light and dark themes. You can switch between them using the theme switcher in the top right corner of the page.</p>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="charts"/><summary type="html"><![CDATA[this is what included echarts code could look like]]></summary></entry></feed>
+  <div class="pair">
+    <p lang="zh"><span class="voice">Demi</span>Coffee tour，小轿车不自量力上大坡，被卡住了。</p>
+    <p lang="en" class="en"><span class="voice">&nbsp;</span>On the way to the coffee tour, our little car overestimated itself on a steep hill and got stuck.</p>
+  </div>
+
+  <h3 class="subplace"><i class="fa-solid fa-mug-hot"></i> The coffee farm</h3>
+
+  <div class="pair solo"><p><span class="voice">Juan</span>At the plantation we got to try some of their black coffee. Back home, the thought of drinking coffee straight with no sweeteners or sugar would never cross my mind, but this sample was totally enjoyable; in fact, I ended up having Demi's leftover sample. We went on the tour, they showed us how coffee is made, and at the end we each had our very own sample of coffee that we helped prepare.</p></div>
+
+  <div class="pair">
+    <p lang="zh"><span class="voice">Demi</span>先来一杯苦咖啡！</p>
+    <p lang="en" class="en"><span class="voice">&nbsp;</span>First, a cup of black coffee!</p>
+  </div>
+
+  
+
+
+
+<figure class="journal-photo">
+  <img src="/assets/img/travel/cocora/cocora-07.jpg" alt="Black coffee for everyone" loading="lazy" />
+  <figcaption>Black coffee for everyone</figcaption>
+</figure>
+
+
+
+  <h4 class="subplace" style="font-size:1rem">Demi's notes from the tour</h4>
+
+  <div class="photo-row">
+    
+
+
+
+<figure class="journal-photo">
+  <img src="/assets/img/travel/cocora/cocora-08.jpg" alt="The skin is called the parchment; inside are the green coffee beans." loading="lazy" />
+  <figcaption>The skin is called the parchment; inside are the green coffee beans.</figcaption>
+</figure>
+
+
+    
+
+
+
+<figure class="journal-photo">
+  <img src="/assets/img/travel/cocora/cocora-09.jpg" alt="“Butterfly” stage: a 2-month-old seedling" loading="lazy" />
+  <figcaption>“Butterfly” stage: a 2-month-old seedling</figcaption>
+</figure>
+
+
+  </div>
+
+  <div class="photo-row">
+    
+
+
+
+<figure class="journal-photo">
+  <img src="/assets/img/travel/cocora/cocora-10.jpg" alt="Little tree: 4 months. Adult at two years, best quality at six, retired at eighteen." loading="lazy" />
+  <figcaption>Little tree: 4 months. Adult at two years, best quality at six, retired at eighteen.</figcaption>
+</figure>
+
+
+    
+
+
+
+<figure class="journal-photo">
+  <img src="/assets/img/travel/cocora/cocora-11.jpg" alt="The cherry pulp becomes natural fertilizer." loading="lazy" />
+  <figcaption>The cherry pulp becomes natural fertilizer.</figcaption>
+</figure>
+
+
+  </div>
+
+  <div class="photo-row">
+    
+
+
+
+<figure class="journal-photo">
+  <img src="/assets/img/travel/cocora/cocora-12.jpg" alt="Left: “honey” process, slime kept for a sweeter taste (4 months). Right: slime removed (2 months)." loading="lazy" />
+  <figcaption>Left: “honey” process, slime kept for a sweeter taste (4 months). Right: slime removed (2 months).</figcaption>
+</figure>
+
+
+    
+
+
+
+<figure class="journal-photo">
+  <img src="/assets/img/travel/cocora/cocora-13.jpg" alt="Natural process: whole cherries dried for 8 months—the sweetest, and the most expensive." loading="lazy" />
+  <figcaption>Natural process: whole cherries dried for 8 months—the sweetest, and the most expensive.</figcaption>
+</figure>
+
+
+  </div>
+
+  <div class="photo-row">
+    
+
+
+
+<figure class="journal-photo">
+  <img src="/assets/img/travel/cocora/cocora-14.jpg" alt="Roasting: the beans get darker and darker. 颜色变化：越来越黑" loading="lazy" />
+  <figcaption>Roasting: the beans get darker and darker. 颜色变化：越来越黑</figcaption>
+</figure>
+
+
+    
+
+
+
+<figure class="journal-photo">
+  <img src="/assets/img/travel/cocora/cocora-15.jpg" alt="Coffee cherries on the tree. Pickers earn 1,000 pesos per kilo." loading="lazy" />
+  <figcaption>Coffee cherries on the tree. Pickers earn 1,000 pesos per kilo.</figcaption>
+</figure>
+
+
+  </div>
+
+  
+
+
+
+<figure class="journal-photo">
+  <img src="/assets/img/travel/cocora/cocora-16.jpg" alt="Lunch: arepa, patacón, and hogao (a yummy sauce)" loading="lazy" />
+  <figcaption>Lunch: arepa, patacón, and hogao (a yummy sauce)</figcaption>
+</figure>
+
+
+
+  <div class="pair solo"><p><span class="voice">Juan</span><strong>How coffee was discovered.</strong> According to the guide at the coffee farm, it was discovered by someone who grew frustrated trying to make a tasty drink out of the coffee seeds (if I remember correctly, lol). He threw the seeds into the fireplace and discovered the aroma of the roasting seeds, and from there coffee was born!</p></div>
+
+  <h3 class="subplace"><i class="fa-solid fa-location-dot"></i> Bonus: Salento after the tour</h3>
+
+  <div class="pair solo"><p><span class="voice">Juan</span>After the tour we had lunch back in Salento and had over 3 hours to explore the tiny town with all of our belongings on our backs. The first hour was simple: we walked the streets lined with vendors to see what they were selling. Once all the sightseeing was exhausted, we found ourselves curiously looking at what a small Colombian grocery store offers the locals. Demi found a type of yogurt that isn't sold in the US, and I bought rubbing alcohol to clean my wound again. We spent the last few minutes in the town center taking turns enjoying the yogurt, while Xinya and Demi poured alcohol over my hand and fanned it dry (still in the town center, very much in public, but none of us cared). Then we walked to the empty bus station and hopped on the bus to Medellín.</p></div>
+
+  <div class="pair">
+    <p lang="zh"><span class="voice">Demi</span>车站有两只非常黏人的小狗，争着要抱抱。</p>
+    <p lang="en" class="en"><span class="voice">&nbsp;</span>There were two very clingy dogs at the bus station who fought for hugs.</p>
+  </div>
+
+</section>
+
+</div>]]></content><author><name></name></author></entry><entry><title type="html">Spring in Medellín 麦德林的春天</title><link href="https://demi1211.github.io/blog/2026/spring-in-medellin/" rel="alternate" type="text/html" title="Spring in Medellín 麦德林的春天" /><published>2026-03-16T00:00:00+00:00</published><updated>2026-03-16T00:00:00+00:00</updated><id>https://demi1211.github.io/blog/2026/spring-in-medellin</id><content type="html" xml:base="https://demi1211.github.io/blog/2026/spring-in-medellin/"><![CDATA[<link rel="stylesheet" href="/assets/css/travel-journal.css" />
+
+<div class="journal">
+
+<section class="journal-day">
+  <header>
+    <span class="day-label">Journal</span>
+    <h2>Woken by light</h2>
+    <div class="day-meta"><i class="fa-solid fa-calendar"></i> March 16, 2026 &nbsp;·&nbsp; <i class="fa-solid fa-location-dot"></i> Medellín, Colombia</div>
+  </header>
+
+  <div class="pair">
+    <p lang="zh">写字的时候是镜像神经元最活跃的时候，我无数次想象别人会怎么读我的文字。那么我就先写给自己吧。我把所有的露怯、虚伪、矫揉造作留给自己。我对自己说，你写吧，没有人审判你，说说你看到了什么，在你充满局限的小世界里。</p>
+    <p lang="en" class="en">When writing, mirror neurons are at their most active. Countless times, I imagine how others would read my words. So I'll write to myself first. I'll leave all my awkwardness, pretension, and affectation here, just for me. I tell myself: go ahead, write. No one is judging you. Say what you've seen, within your small and limited world.</p>
+  </div>
+
+  <div class="pair">
+    <p lang="zh">春天的麦德林很美，Rosa奶奶的公寓每扇窗子都溢满了光。哥伦比亚人的窗帘和德国人是两个极端：德国人的金属窗帘严丝合缝屏蔽了所有的光，让我以为自己定成了凌晨两点的闹钟。哥伦比亚人的窗帘是一层轻飘飘的白纱，让阳光叫你起床。</p>
+    <p lang="en" class="en">Spring in Medellín is beautiful. Every window in Rosa's apartment overflows with light. Colombian curtains and German curtains are complete opposites: German metal shutters seal out all the light so completely that I feel like I've accidentally set my alarm for 2 a.m. Colombian curtains, by contrast, are just a layer of light white gauze, letting sunlight wake you up gently.</p>
+  </div>
+
+  <div class="pair">
+    <p lang="zh">Rosa奶奶七十九岁，平常自己住，多出的一间卧室是她的女儿Ana Maria的，她女儿和我妈妈同岁。Ana Maria平常在巴西工作生活，她的卧室就给我暂住了。</p>
+    <p lang="en" class="en">Rosa is seventy-nine and lives alone. The extra bedroom belongs to her daughter, Ana Maria, who is the same age as my mother. Ana Maria usually lives and works in Brazil, so I'm staying in her room for now.</p>
+  </div>
+
+  <div class="pair">
+    <p lang="zh">Rosa的公寓不大但干净漂亮，充斥着她多年来在世界各地收集的装饰品。墙上挂了许多家人的照片，其中一张是她自己年轻时候的，裹着浴巾捂着胸口眼神朦胧，是个大美女。我每每看到都想，多希望我的姥姥也有过这样的年轻时的艺术照，多希望我的姥姥也有一间周游世界收集的小东西装饰成的屋子，多希望我的姥姥也在八十的时候随身带着泳衣看到水就要去玩一下，而不是被晕车和“老不出门是贵人”绊住了享受世界的脚步。</p>
+    <p lang="en" class="en">Rosa's apartment is not large, but it is clean and beautiful, filled with decorations she has collected from around the world over many years. The walls are covered with family photos. One of them shows Rosa when she was young—wrapped in a towel, covering her chest, her gaze soft and hazy. She was stunning. Every time I see it, I think: how I wish my grandmother had photos like this from her youth. How I wish she had a home filled with little objects collected from traveling the world. How I wish that at eighty, she would carry a swimsuit with her and jump into the water whenever she saw it—rather than being held back by motion sickness and the belief that "staying home is a virtue."</p>
+  </div>
+
+  <div class="pair">
+    <p lang="zh">在这间公寓里醒来的第一个早晨，是被光叫醒的，我迷迷糊糊抬头看，薄纱透出阳光，世界是敞亮的、是春天。我许久没有这种身体和大自然节律协调统一的感觉，浑身充斥着轻松。甘村的公寓里，我似乎每天都在和手机闹钟作斗争，无止境地再睡十分钟，有时刚起床已经疲惫不堪。打开窗子，是麦德林“the city of eternal spring”永恒的春城，终年19-22度。夜晚伴着喧闹的西语歌闪烁着万家灯火的山丘此刻绿油油的、此起彼伏，变得恬适。</p>
+    <p lang="en" class="en">The first morning I woke up in this apartment, I was woken by light. Half-asleep, I looked up: sunlight filtered through the thin curtains, and the world felt open, bright—it was spring. It had been a long time since my body felt in sync with the rhythms of nature. I felt completely at ease. Back in Gainesville, it feels like I'm constantly fighting my phone alarm—endlessly hitting "ten more minutes," sometimes waking up already exhausted. But here, when I open the window, Medellín—the "City of Eternal Spring," 19–22°C all year round—spreads out before me. At night the hills glitter with lights and echo with Spanish music; now, in the morning, they are lush green, rolling gently, peaceful.</p>
+  </div>
+
+  <div class="photo-row">
+    
+
+
+
+
+    
+
+
+
+
+  </div>
+
+  <h3 class="subplace"><i class="fa-solid fa-location-dot"></i> Up the mountains near Jericó, Antioquia</h3>
+
+  <div class="pair">
+    <p lang="zh">造访异域，没有新的风景，有的只是发现风景的眼睛。</p>
+    <p lang="en" class="en">Traveling somewhere foreign doesn't give you new landscapes—only new eyes to discover them.</p>
+  </div>
+
+  <div class="pair">
+    <p lang="zh">今天上山，山在小城Jericó附近。我、Rosa、一对法国夫妇坐上了一辆拥挤的充满历史的面包车上山。途中经常有村民站在路边搭顺风车，有的搭的久一点，和我们聊起来，有的很短暂，就扒在车后面扒了“一站路”。</p>
+    <p lang="en" class="en">Today we went up into the mountains near the small town of Jericó. Rosa, a French couple, and I squeezed into an old, crowded van. Along the way, villagers would stand by the roadside to hitch rides. Some stayed longer and chatted with us; others just clung to the back of the van for a single stop.</p>
+  </div>
+
+  <div class="pair">
+    <p lang="zh">在一个说着陌生语言、有着陌生文化的陌生国度的我是自由的。没带来那些平常日夜陪伴我的枷锁。我变成社交悍匪，背诵起西语课学的自我介绍，学着课上的模版问别人 ¿Cómo estás? 你好吗？¿De dónde eres? 你来自哪里？</p>
+    <p lang="en" class="en">In this unfamiliar country—with its unfamiliar language and culture—I feel free. I didn't bring along the shackles that usually follow me day and night. I turn into a kind of social bandit, reciting the self-introduction I memorized in Spanish class and asking people, just like the template from class: <em>¿Cómo estás?</em> How are you? <em>¿De dónde eres?</em> Where are you from?</p>
+  </div>
+
+  <div class="pair">
+    <p lang="zh">晕车，换座到副驾驶，我问身旁的爷爷 Tengo veintiocho años—¿cuántos años tienes? “您多大年纪”老头满脸褶子很腼腆，一边比划一边说七十五了。我又轮流指着驾驶舱所有我认识的东西轮流用西语讲，帽子，钥匙，鞋，车，衣服，最后指着老头说，abuelo，爷爷。村民们也乐意争着教我，待我像吉祥物。我对旁边阿姨说 Tú eres muy bonita “你真漂亮”，阿姨腼腆一笑。</p>
+    <p lang="en" class="en">Feeling carsick, I moved to the front passenger seat and asked the old man beside me: <em>Tengo veintiocho años—¿cuántos años tienes?</em> ("I'm 28—how old are you?") He was shy, his face full of wrinkles, gesturing as he said he was seventy-five. Then I pointed at everything in the front of the van that I recognized, naming each one in Spanish: hat, keys, shoes, car, clothes. Finally, I pointed at him and said, <em>abuelo</em>—grandpa. The villagers were happy to compete in teaching me words, treating me like a mascot. I told the woman next to me, <em>Tú eres muy bonita</em>—"you're very beautiful." She smiled shyly.</p>
+  </div>
+
+  <div class="pair">
+    <p lang="zh">一路上有个念头充斥着我的脑海：这里的村民和石板岩乡村民并无二致。他们互相之间热情、熟络，每遇到彼此笑着相互问好，他们熟悉山里的每一条路、每一道辙。他们的狗也一样，每天和主人一起外出小跑在山路上，随地补觉随地晒太阳，比城市里的狗自由很多。看着四处闲卧打盹晒太阳、在山路里上蹿下跳的农村小狗，我无数次遗憾不能给Osita这样的生活。</p>
+    <p lang="en" class="en">All along the way, one thought filled my mind: the villagers here are no different from those in Shibanyan back home. They greet each other warmly, smiling whenever they meet. They know every road and every rut in the mountains. Their dogs are the same too—trotting along mountain paths with their owners every day, napping and sunbathing wherever they like, much freer than city dogs. Watching those village dogs lounging, dozing, and darting up and down the hills, I felt again and again a quiet regret that I can't give Osita that kind of life.</p>
+  </div>
+
+  <div class="pair">
+    <p lang="zh">可我只有在这里，才开始像小孩子一样瞪大眼睛四处发现，思考、对比，像海绵一样吸收。这似乎是对人的一种诅咒。我们本可以享受自己卧室里的阳光、向每个陌生人热情问好。</p>
+    <p lang="en" class="en">And yet only here do I begin to look around with wide, childlike eyes—discovering, thinking, comparing, absorbing everything like a sponge. It almost feels like a curse on all of us. We could have enjoyed the sunlight in our own bedrooms. We could have greeted every stranger warmly.</p>
+  </div>
+</section>
+
+</div>]]></content><author><name></name></author><category term="travel" /><category term="travel" /><summary type="html"><![CDATA[Waking up to light in Rosa's apartment, and a van ride up the mountains near Jericó.]]></summary></entry><entry><title type="html">River Orinoco 奥里诺科河</title><link href="https://demi1211.github.io/blog/2024/river-orinoco/" rel="alternate" type="text/html" title="River Orinoco 奥里诺科河" /><published>2024-12-18T00:00:00+00:00</published><updated>2024-12-18T00:00:00+00:00</updated><id>https://demi1211.github.io/blog/2024/river-orinoco</id><content type="html" xml:base="https://demi1211.github.io/blog/2024/river-orinoco/"><![CDATA[<link rel="stylesheet" href="/assets/css/travel-journal.css" />
+
+<div class="journal">
+
+<div class="pair">
+  <p lang="zh">2024年12月，我在奥里诺科河上度过了八天（12月18日–25日）。这是那段旅程的日记。</p>
+  <p lang="en" class="en">In December 2024 I spent eight days on the Orinoco River (December 18–25). This is my journal from that part of the trip.</p>
+</div>
+
+<nav class="day-index"><a href="#day-1">Day 1</a> · <a href="#day-2">Day 2</a> · <a href="#day-3">Day 3</a> · <a href="#day-4">Day 4</a> · <a href="#day-5">Day 5</a> · <a href="#day-6">Day 6</a> · <a href="#day-7">Day 7</a></nav>
+
+
+<section class="journal-day" id="day-1">
+  <header>
+    <span class="day-label">第一天</span>
+    <h2>Day 1</h2>
+    <div class="day-meta"><i class="fa-solid fa-calendar"></i> December 18, 2024 &nbsp;·&nbsp; <i class="fa-solid fa-location-dot"></i> Puerto Carreño, Vichada</div>
+  </header>
+
+<div class="photo-row">
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-01.jpg" alt="River Orinoco, day photo 1" loading="lazy" /></figure>
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-02.jpg" alt="River Orinoco, day photo 2" loading="lazy" /></figure>
+</div>
+<div class="pair">
+  <p lang="zh">Puerto Carreño 有我见过最小的机场。仿佛一个灰狗巴士客运站。一个旅行团七个人。除了我都是哥伦比亚人，其中有一家四口。离开机场，我们坐上了突突车。</p>
+  <p lang="en" class="en">Puerto Carreño has the smallest airport I've ever seen—it felt more like a Greyhound bus station. There were seven of us in the tour group, all Colombian except me, including a family of four. Out of the airport, we piled into tuk-tuks.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-03.jpg" alt="River Orinoco, day photo 3" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">委内瑞拉和哥伦比亚边境草原的树</p>
+  <p lang="en" class="en">Trees on the savanna along the Venezuela–Colombia border</p>
+</div>
+<div class="photo-row">
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-04.jpg" alt="River Orinoco, day photo 4" loading="lazy" /></figure>
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-05.jpg" alt="River Orinoco, day photo 5" loading="lazy" /></figure>
+</div>
+<div class="pair">
+  <p lang="zh">我凝视着那些树，有的像插满蜡烛的巨大烛台，有的像带刺的竹子。树林后面是广袤的草原。我想到他们几百年来一直安静地生活在这里，我不来找他们的话，他们不会来看我。我来到这里看他们的路是个很长的故事，充满巧合。我想到地球上还有几千几万种我没有见过也永远不会见到的可爱的安静的树。但我很开心，巧合和周折把我带到这里，和巨大的地球上的角落里的可爱的他们打个招呼。</p>
+  <p lang="en" class="en">I gazed at the trees. Some looked like giant candelabras crowded with candles; others like thorny bamboo. Behind them stretched a vast savanna. I thought about how they had lived here quietly for hundreds of years—if I hadn't come looking for them, they would never have come to see me. The road that brought me here is a long story, full of coincidences. I thought of the tens of thousands of lovely, quiet trees on this planet that I have never seen and never will. But I was happy that coincidences and detours had brought me here, to say hello to these lovely beings in one corner of this enormous Earth.</p>
+</div>
+<div class="pair">
+  <p lang="zh">我听到他们说，很高兴见到你，中国的女孩。</p>
+  <p lang="en" class="en">I heard them say: nice to meet you, girl from China.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-06.jpg" alt="River Orinoco, day photo 6" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">河滩很高，狂风扑面，泥沙俱下，我闭上眼睛想象自己在飞行。</p>
+  <p lang="en" class="en">The riverbank was high. The wind hit my face, sand and grit flying with it, and I closed my eyes and imagined I was flying.</p>
+</div>
+<div class="photo-row">
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-07.jpg" alt="River Orinoco, day photo 7" loading="lazy" /></figure>
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-08.jpg" alt="River Orinoco, day photo 8" loading="lazy" /></figure>
+</div>
+<div class="pair">
+  <p lang="zh">两个当地小女孩在玩耍，两只旱冰鞋一人用左脚一人用右脚。蹲着，重心放在旱冰鞋那只脚上，一遍遍滑下土坡。我怀念这种把一个动作重复1000遍，依然获得快乐的感觉。</p>
+  <p lang="en" class="en">Two local girls were sharing one pair of roller skates—one wore the left skate, the other the right. Crouching low, weight on the skating foot, they slid down the dirt slope again and again. I miss that feeling: doing the same thing a thousand times and still finding joy in it.</p>
+</div>
+</section>
+
+<section class="journal-day" id="day-2">
+  <header>
+    <span class="day-label">第二天</span>
+    <h2>Day 2</h2>
+    <div class="day-meta"><i class="fa-solid fa-calendar"></i> December 19, 2024 &nbsp;·&nbsp; <i class="fa-solid fa-location-dot"></i> Casuarito, on the Orinoco River</div>
+  </header>
+
+<div class="pair">
+  <p lang="zh">6:30集合，突突车把我们带到奥里诺科河边昨天的码头。天光很亮，大河很宽阔。码头的人把我们的行李绑到船顶，我们轮流钻进窄小的船舱。</p>
+  <p lang="en" class="en">We met at 6:30, and the tuk-tuks took us back to yesterday's dock on the Orinoco. The light was bright and the river was wide. The dock workers tied our luggage to the roof of the boat, and one by one we squeezed into the narrow cabin.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-09.jpg" alt="River Orinoco, day photo 9" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">穿上救生衣，我获得了一个靠窗的座位。敞开的空间，只看到岸上来来往往的腿，我在浓重的汽油味、引擎声中翘首以待开船。</p>
+  <p lang="en" class="en">In my life jacket, I got a window seat. Through the open side I could see only legs coming and going on the shore. In the thick smell of gasoline and the roar of the engine, I waited eagerly for us to set off.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-10.jpg" alt="River Orinoco, day photo 10" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">一个半小时的路程，船开得飞起，两边的浪形成高高的白墙包裹我的窗户，却不溅进来一点。窗户开得很低，睡意袭来，我把包和帽子系好，头和身体靠向里侧，以防我的个人物品或者我自己睡着睡着倒进了大浪里。</p>
+  <p lang="en" class="en">For an hour and a half the boat flew. Waves rose on both sides like tall white walls around my window, yet not a drop splashed in. The window sat very low, so when drowsiness hit, I tied down my bag and hat and leaned my head and body inward, so that neither my things nor I would tip into the waves in my sleep.</p>
+</div>
+<h3 class="subplace"><i class="fa-solid fa-location-dot"></i> Casuarito</h3>
+<div class="pair">
+  <p lang="zh">醒来的时候船停靠了一个村庄，村里的人是哥伦比亚版石板岩乡老农民，黝黑跛皱爱笑。小卖铺是铁皮房搭的。我向早餐店老板家两岁的小黑妞伸出手，她也伸出手，我成功完成了一个西班牙语自我介绍。</p>
+  <p lang="en" class="en">When I woke up, the boat had docked at a village. The villagers were a Colombian version of the old farmers in Shibanyan back home: sun-darkened and wrinkled, some walking with a limp, all quick to laugh. The village shop was a tin shack. I held out my hand to the breakfast-shop owner's two-year-old daughter; she held out hers, and I successfully delivered my Spanish self-introduction.</p>
+</div>
+<div class="photo-row">
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-11.jpg" alt="River Orinoco, day photo 11" loading="lazy" /></figure>
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-12.jpg" alt="River Orinoco, day photo 12" loading="lazy" /></figure>
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-13.jpg" alt="River Orinoco, day photo 13" loading="lazy" /></figure>
+</div>
+<div class="pair">
+  <p lang="zh">点名表扬美味的，花很漂亮的Lulo</p>
+  <p lang="en" class="en">A special shout-out to lulo: delicious, and with beautiful flowers.</p>
+</div>
+<div class="photo-row">
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-14.jpg" alt="River Orinoco, day photo 14" loading="lazy" /></figure>
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-15.jpg" alt="River Orinoco, day photo 15" loading="lazy" /></figure>
+</div>
+<div class="pair">
+  <p lang="zh">沙滩潮湿细腻，我钻进了浑浊的大河。我仰身漂起来，感受着把我朝远方带去的大河和刺眼的阳光。</p>
+  <p lang="en" class="en">The sand was damp and fine. I waded into the muddy river and floated on my back, feeling the great river carry me toward the distance under the glaring sun.</p>
+</div>
+<div class="photo-row">
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-16.jpg" alt="River Orinoco, day photo 16" loading="lazy" /></figure>
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-17.jpg" alt="River Orinoco, day photo 17" loading="lazy" /></figure>
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-18.jpg" alt="River Orinoco, day photo 18" loading="lazy" /></figure>
+</div>
+<div class="pair">
+  <p lang="zh">不知道是不是谷歌翻译的问题，营地并不是帐篷，而是一间一间木板房。每间屋都没顶，每间有一个象征性的锁，像连在一起厕所隔间。不过幸好有蚊帐。</p>
+  <p lang="en" class="en">Maybe Google Translate was to blame, but our "campsite" turned out not to be tents at all—just a row of wooden rooms. None had a ceiling, and each had a purely symbolic lock, like a row of bathroom stalls. Luckily, there were mosquito nets.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-19.jpg" alt="River Orinoco, day photo 19" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">午餐 又是鱼和香蕉片，炸得酥脆挺好吃</p>
+  <p lang="en" class="en">Lunch: fish and plantain chips again, fried crisp and pretty tasty.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-20.jpg" alt="River Orinoco, day photo 20" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">午餐过后，突然发现大家都拿起牙刷在刷牙，还以为马上要断水。麦德林哥Juan嘎说这是哥伦比亚人的习惯，每顿饭后都要刷牙，并自豪地介绍自己前两天刚去了牙科诊所，两年以来第一次去，医生说他的牙很完美。我有点被说动了。</p>
+  <p lang="en" class="en">After lunch, everyone suddenly grabbed a toothbrush, and I assumed the water was about to be cut off. Juan from Medellín explained that Colombians brush their teeth after every meal. He proudly added that he had just been to the dentist—his first visit in two years—and the dentist said his teeth were perfect. I was a little persuaded.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-21.jpg" alt="River Orinoco, day photo 21" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">晚餐。这次是剁碎的鱼和压扁的香蕉。</p>
+  <p lang="en" class="en">Dinner: this time, minced fish and smashed plantains.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-22.jpg" alt="River Orinoco, day photo 22" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">两个手机，中美哥三张卡，一个信号也没有，像被送进了网瘾戒断中心。我带着水杯和kindle 美滋滋钻进蚊帐，跟着Humboldt 把白天路过的景色在书里再看一遍。（感谢樊老师七年前考试要考这本书）</p>
+  <p lang="en" class="en">Two phones, three SIM cards—Chinese, American, and Colombian—and not a single bar of signal. It felt like being sent to internet-addiction rehab. I happily crawled under my mosquito net with my water bottle and my Kindle and followed Humboldt, revisiting in his book the landscapes we had passed that day. (Thanks to Professor Fan, who put this book on an exam seven years ago.)</p>
+</div>
+</section>
+
+<section class="journal-day" id="day-3">
+  <header>
+    <span class="day-label">第三天</span>
+    <h2>Day 3</h2>
+    <div class="day-meta"><i class="fa-solid fa-calendar"></i> December 20, 2024 &nbsp;·&nbsp; <i class="fa-solid fa-location-dot"></i> Casuarito and the Atures Rapids</div>
+  </header>
+
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-23.jpg" alt="River Orinoco, day photo 23" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">闹钟提早了一个小时，到了约定的早饭时间六点，挎着包出门四下无人，只听得周围房间呼噜声，才发现手机又自己跳到了委内瑞拉时区。索性在奥里诺科河边看日出。星星还没褪去，河风、天光温柔。一艘小渔船正在河滩睡觉。</p>
+  <p lang="en" class="en">My alarm went off an hour early. At six, our agreed breakfast time, I walked out with my bag to find no one around—only snoring from the neighboring rooms. Then I realized my phone had switched itself to Venezuelan time again. So I watched the sunrise by the Orinoco instead. The stars hadn't faded yet; the breeze and the light were gentle. A small fishing boat lay asleep on the shore.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-24.jpg" alt="River Orinoco, day photo 24" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">早饭后坐了很久的船到了国家公园。我听到大家在笑，麦德林奶奶笑着凑过来跟我说我们在委内瑞拉了，河对面才是哥伦比亚，我现在是非法移民了。我内心一颤。</p>
+  <p lang="en" class="en">After breakfast, a long boat ride took us to a national park. Everyone was laughing; the grandma from Medellín leaned over, grinning, and told me we were now in Venezuela—Colombia was across the river—so I was officially an illegal immigrant. My heart skipped a beat.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-25.jpg" alt="River Orinoco, day photo 25" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">湍急的河水。Juan臭叔说这是十九世纪德国探险家Alexander von Humboldt认定的八大奇迹之一。我旋即想起这两天正在看的Alain de Botton的The Art of Travel。Alain说羡慕Humboldt，他来南美的时候和我们来南美的时候不是一个心态。Humboldt激动自豪地来替欧洲人探索新世界，二百年后我们要看什么已经被贴心安排好了，比如米其林三星，比如世界八大奇迹。如果你看世界八大奇迹的时候心灵没有感受到颤动，你就是内心麻木不仁。我不想承认自己内心麻木不仁，伸长了脖子瞪大了眼睛看远处那个泉眼，默念上有六龙回日之高标下有冲波逆折之回川，试图将自己强制唤醒。</p>
+  <p lang="en" class="en">Rushing water. Juancho told us that the nineteenth-century German explorer Alexander von Humboldt called this the "eighth wonder of the world." It reminded me of the book I'd been reading, Alain de Botton's <em>The Art of Travel</em>. De Botton envies Humboldt, who came to South America with a completely different mindset from ours. Humboldt arrived thrilled and proud to explore a new world on Europe's behalf; two hundred years later, what we should see has already been thoughtfully arranged for us—three-Michelin-star restaurants, the wonders of the world. If your heart doesn't stir before a wonder of the world, you must be numb inside. Not wanting to admit I was numb, I craned my neck, stared hard at the rapids in the distance, and silently recited Li Bai—"above, a peak so tall the sun's six dragons turn back; below, a river crashing, twisting, and churning back on itself"—trying to force myself awake.</p>
+</div>
+<div class="pair">
+  <p lang="zh">注：昨天我问大家，如果所有人（团里三位男士两个叫Juan）都叫Juan，老师在班里怎么叫学生。大家说会在Juan后面加上姓的前一两个音节变成nickname，比如这个叔叫Juan臭，我也不知道臭咋拼。</p>
+  <p lang="en" class="en">A note: yesterday I asked everyone how a teacher would call on students if every boy in class were named Juan (two of the three men in our group were). They said you add the first syllable or two of the surname to make a nickname—like this uncle, Juancho. (In Chinese I wrote it Juan臭, "stinky Juan," because I didn't know how to spell "cho.")</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-26.jpg" alt="River Orinoco, day photo 26" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">哪个远古小可爱留的壁画</p>
+  <p lang="en" class="en">Rock art left by some adorable ancient soul</p>
+</div>
+<div class="pair">
+  <p lang="zh">麦德林奶奶说这种花的种子会随风飞得很远。</p>
+  <p lang="en" class="en">The grandma from Medellín said this flower's seeds can fly far on the wind.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-27.jpg" alt="River Orinoco, day photo 27" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">午餐后在船上休息，有的人又泡回河里了。Kindle 被麦德林叔Juan臭拿走看了，看的时候无比专注嘴里振振有词，几次三番抬头以为他要跟我讲话。想起来小时候我妈说我看书也喜欢念叨。</p>
+  <p lang="en" class="en">After lunch we rested on the boat; some people went back into the river. Juancho borrowed my Kindle and read with intense focus, muttering to himself; several times he looked up and I thought he was about to say something to me. It reminded me that, when I was little, my mom said I mumbled when I read, too.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-28.jpg" alt="River Orinoco, day photo 28" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">午休时间，躲在座位下面。</p>
+  <p lang="en" class="en">Nap time, hiding under the seat.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-29.jpg" alt="River Orinoco, day photo 29" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">近处的Humboldt “八大奇迹”。 这两天白天气温在35度。一天的炙烤+暴雨大火收汁后我开始怀疑人生，开始质疑为什么Colombia Oculta没有把这条重要信息写在这个行程的介绍里（Orinoco 河两岸终年这个温度），开始反思为什么我从北半球来避寒要避得这么极端。</p>
+  <p lang="en" class="en">Humboldt's "wonder" up close. Daytime temperatures these two days were around 35°C (95°F). After a full day of roasting, finished off by a downpour like a sauce reduced over high heat, I started questioning my life choices: why hadn't Colombia Oculta mentioned this crucial detail in the tour description (it's this hot on the Orinoco all year round)? And why, escaping the northern winter, did I have to go to such an extreme?</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-30.jpg" alt="River Orinoco, day photo 30" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">雨点噼里啪啦落下，却一点也不凉爽，闷热的空气凝固住了，没有一丝风，我徒劳无功地躲在一块不肯给予一丝阴凉大石头下面，感觉自己像东北铁锅上焙的饼子。</p>
+  <p lang="en" class="en">The rain came pattering down but brought no relief. The muggy air stood still, without a breath of wind. I hid uselessly under a big rock that refused to give me any shade, feeling like a cornbread cake baking on the side of a northeastern Chinese iron wok.</p>
+</div>
+<div class="pair">
+  <p lang="zh">玻利瓦尔2D大头。</p>
+  <p lang="en" class="en">Bolívar's big flat head.</p>
+</div>
+<div class="pair">
+  <p lang="zh">下船，导游带我们绕路来到一个神父一八年在这个偏远小岛创办的戒毒所。因为没有足够的资金，戒毒所已经荒废，偌大的操场、教室破败不堪，像时间定格在了上世纪。玻璃窗都不见了，铁门从门框脱离摇摇欲坠。我们登上教学楼的二楼，导游提醒我们不要靠近围栏，因为推一下就可能整片掉下来。只有一家当地人盘踞了一个教室生活了下来。</p>
+  <p lang="en" class="en">We got off the boat, and the guide took us on a detour to a drug rehabilitation center that a priest founded on this remote island in 2018. It ran out of money and has been abandoned. The huge sports field and the classrooms are falling apart, as if time had stopped in the last century. The window glass is gone, and iron doors hang loose from their frames. We climbed to the second floor of the school building, and the guide warned us to stay away from the railings—one push and a whole section might fall. Only one local family has settled into a classroom and lives there.</p>
+</div>
+<div class="photo-row">
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-31.jpg" alt="River Orinoco, day photo 31" loading="lazy" /></figure>
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-32.jpg" alt="River Orinoco, day photo 32" loading="lazy" /></figure>
+</div>
+<div class="pair">
+  <p lang="zh">二楼楼梯入口处有片毛茸茸的东西，等他抬起头原来是只…是只什么呢。他很不满我们打扰了他休息，钻进铁管里继续睡去了。</p>
+  <p lang="en" class="en">At the top of the stairs lay something fuzzy. When it raised its head, it turned out to be a… what, exactly? Annoyed that we had disturbed its rest, it crawled into a metal pipe and went back to sleep.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-33.jpg" alt="River Orinoco, day photo 33" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">学校里有很多果树，没人看管反而生长得旺盛。有超大号脆芒果和腰果树（存疑）。我咬了一口这个红果果，超级多汁但甜中带着苦涩，吃一口要喝一大口水。他们说这个果子有助于清理血管。下面那个不就是腰果吗？</p>
+  <p lang="en" class="en">The school grounds were full of fruit trees that, left untended, had grown all the more lush: huge crunchy mangoes and, I think, cashew trees. I bit into this red fruit—super juicy, sweet but bitter and astringent, so every bite needed a big gulp of water. They said it helps clean your blood vessels. And isn't that a cashew nut hanging underneath?</p>
+</div>
+<div class="pair">
+  <p lang="zh">Marañón</p>
+  <p lang="en" class="en">Marañón (cashew apple)</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-34.jpg" alt="River Orinoco, day photo 34" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">晚餐：Payara</p>
+  <p lang="en" class="en">Dinner: payara</p>
+</div>
+<div class="pair">
+  <p lang="zh">这次是大家分一条超大号的鱼和椒盐香蕉片。鱼被我们充分利用了。我在撕碎的鱼肉上挤上浓浓的青柠汁，配上混着蔬菜碎的米饭。我帮大家嗦掉了鱼头；三天以来最大的美餐。</p>
+  <p lang="en" class="en">This time we all shared one enormous fish, with salt-and-pepper plantain chips, and we made full use of that fish. I squeezed plenty of lime over the shredded meat and ate it with rice mixed with chopped vegetables. I also helped everyone by sucking the fish head clean. The best meal in three days.</p>
+</div>
+<div class="pair">
+  <p lang="zh">我感激每餐都提供的装在大玻璃罐里的新鲜冰果汁（超稀释版），并开始礼貌拒绝哥伦比亚苦咖啡。这种咖啡装在大暖瓶里，24小时不间断冒出，大家只要坐下就来一杯，盛在迷你小陶杯里，经常不加糖不加奶味道类似苦中药（Juanes说他爸不一样，爱好加一大堆糖，咖啡味如糖浆），是我心里的邪恶力量。</p>
+  <p lang="en" class="en">I was grateful for the fresh iced juice (heavily diluted) served in a big glass jar at every meal, and I began politely declining the bitter Colombian coffee. It sits in big thermoses, flowing around the clock; whenever anyone sits down, they pour a cup into a tiny clay mug. Usually without sugar or milk, it tastes like bitter Chinese herbal medicine. (Juanes said his dad is the exception—he adds a mountain of sugar, so his coffee tastes like syrup.) To me, it is a force of evil.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-35.jpg" alt="River Orinoco, day photo 35" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">走过哥伦比亚不同城市的另一个发现：他们每餐经常同时配好几种饮料：橘子汁、苦咖啡、水冲热可可一起上。</p>
+  <p lang="en" class="en">Another discovery from traveling through Colombian cities: a meal often comes with several drinks at once—orange juice, black coffee, and hot cocoa made with water, all served together.</p>
+</div>
+</section>
+
+<section class="journal-day" id="day-4">
+  <header>
+    <span class="day-label">第四天 Resguardo 原住民自治区</span>
+    <h2>Day 4 · An Indigenous reserve (resguardo)</h2>
+    <div class="day-meta"><i class="fa-solid fa-calendar"></i> December 21, 2024 &nbsp;·&nbsp; <i class="fa-solid fa-location-dot"></i> An Indigenous resguardo on the river</div>
+  </header>
+
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-36.jpg" alt="River Orinoco, day photo 36" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">早饭，竟然有排骨！早饭后和Casuarito村说再见，坐回了我们的绿皮小船。</p>
+  <p lang="en" class="en">Breakfast came with pork ribs—what a surprise! Afterward we said goodbye to Casuarito and climbed back into our little green boat.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-37.jpg" alt="River Orinoco, day photo 37" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">也和肥嘟嘟的绿鹦鹉说再见</p>
+  <p lang="en" class="en">And goodbye to the chubby green parrot.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-38.jpg" alt="River Orinoco, day photo 38" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">一段水路过后，Armenia 姐姐的行程提前结束了，我把绿帽子还给了她，祝她返程一路顺风。</p>
+  <p lang="en" class="en">After a stretch on the water, the trip ended early for our friend from Armenia. I gave her back her green hat and wished her a safe journey home.</p>
+</div>
+<div class="pair">
+  <p lang="zh">水路换陆路。大家站在货车后面，扒着摇晃的、铁锁相连的木栏杆，跟着货车剧烈地上下颠簸。视野开阔，大风扑面，植物的气息浓烈，一瞬间仿佛穿越到了非洲大草原。导游说这里的树是神圣的，死去的人就埋在下面。唯一的路是两条车辙印。</p>
+  <p lang="en" class="en">We switched from water to land. Everyone stood in the back of a truck, gripping the swaying wooden rails held together with iron chains, bouncing hard with every bump. The view opened wide, the wind blasted our faces, the smell of plants was thick, and for a moment it felt as if we had been transported to the African savanna. The guide said the trees here are sacred; the dead are buried beneath them. The only road was a pair of tire tracks.</p>
+</div>
+<div class="photo-row">
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-39.jpg" alt="River Orinoco, day photo 39" loading="lazy" /></figure>
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-40.jpg" alt="River Orinoco, day photo 40" loading="lazy" /></figure>
+</div>
+<div class="pair">
+  <p lang="zh">十几分钟后小货车完成了使命，陆路后又换回了水路，这次是蓝色的小船。</p>
+  <p lang="en" class="en">Fifteen minutes or so later the truck had done its job, and we switched back to water—this time a little blue boat.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-41.jpg" alt="River Orinoco, day photo 41" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">我们把河水抹在额头上，以获得大河的接纳和庇佑。</p>
+  <p lang="en" class="en">We dabbed river water on our foreheads, asking the great river to welcome and protect us.</p>
+</div>
+<div class="pair">
+  <p lang="zh">小蓝船航行了两个小时，船长开始减速，我知道有趣的事要开始发生了。</p>
+  <p lang="en" class="en">The little blue boat traveled for two hours. When the captain began to slow down, I knew something interesting was about to happen.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-42.jpg" alt="River Orinoco, day photo 42" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">还没靠岸，远远看到小朋友在自己划船。</p>
+  <p lang="en" class="en">Before we even reached the shore, I could see children in the distance paddling their own boats.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-43.jpg" alt="River Orinoco, day photo 43" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">另一个小朋友站在河岸上迎接我们，好奇地望着新来的一船陌生面孔。</p>
+  <p lang="en" class="en">Another child stood on the bank to greet us, gazing curiously at a boatful of strange new faces.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-44.jpg" alt="River Orinoco, day photo 44" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">大家和部落负责人挨个握手，几个青少年好奇地盯着我的亚洲脸笑着，互相说着什么，大家和他们说我是中国人。</p>
+  <p lang="en" class="en">We shook hands with the community leader one by one. A few teenagers stared at my Asian face, smiling and whispering to each other, and the others told them I was Chinese.</p>
+</div>
+<div class="photo-row">
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-45.jpg" alt="River Orinoco, day photo 45" loading="lazy" /></figure>
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-46.jpg" alt="River Orinoco, day photo 46" loading="lazy" /></figure>
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-47.jpg" alt="River Orinoco, day photo 47" loading="lazy" /></figure>
+</div>
+<div class="pair">
+  <p lang="zh">Guamita 絮状，超甜，里面有大种子</p>
+  <p lang="en" class="en">Guamita: fluffy, very sweet, with big seeds inside.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-48.jpg" alt="River Orinoco, day photo 48" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">Lulo 果肉是黄色的，脆，巨酸，麦德林团伙说他们也是第一次生吃，说平时只用来做饮料喝。</p>
+  <p lang="en" class="en">Lulo: the flesh is yellow, crunchy, and extremely sour. The Medellín crew said it was their first time eating it raw too; usually they only drink it as juice.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-49.jpg" alt="River Orinoco, day photo 49" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">午餐：Bocachico</p>
+  <p lang="en" class="en">Lunch: bocachico</p>
+</div>
+<div class="pair">
+  <p lang="zh">村庄里的小朋友光脚踢球，男孩女孩一起</p>
+  <p lang="en" class="en">The village kids played soccer barefoot, boys and girls together.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-50.jpg" alt="River Orinoco, day photo 50" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">不通电的村庄，摸黑吃鱼：Pavón（发音很像西班牙语的火鸡🦃）</p>
+  <p lang="en" class="en">No electricity in the village, so we ate fish in the dark: pavón (it sounds a lot like <em>pavo</em>, Spanish for turkey 🦃).</p>
+</div>
+<div class="pair">
+  <p lang="zh">晚上大家一起搬了椅子在院子里看满天星星，有流星飞过。</p>
+  <p lang="en" class="en">At night we all carried chairs out to the yard to look at a sky full of stars. A shooting star flew by.</p>
+</div>
+</section>
+
+<section class="journal-day" id="day-5">
+  <header>
+    <span class="day-label">第五天</span>
+    <h2>Day 5</h2>
+    <div class="day-meta"><i class="fa-solid fa-calendar"></i> December 22, 2024 &nbsp;·&nbsp; <i class="fa-solid fa-location-dot"></i> Nine hours upriver</div>
+  </header>
+
+<div class="pair">
+  <p lang="zh">凌晨三点被此起彼伏的大公鸡交响乐吵醒，心理斗争了很久决定起来上厕所，当饿了一晚的蚊子们的第一顿早饭。刚出门一抬头，嚯，树上盘踞了数十只大公鸡正在引吭高歌，心想怪不得听得这么清，就在我窗户口喔喔喔。</p>
+  <p lang="en" class="en">At 3 a.m. I was woken by a symphony of roosters crowing over one another. After a long internal struggle, I got up to use the bathroom—and to serve as breakfast for mosquitoes that had gone hungry all night. As soon as I stepped out and looked up—whoa: dozens of roosters were perched in the tree, crowing at full volume. No wonder it sounded so clear; they were cock-a-doodle-dooing right outside my window.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-51.jpg" alt="River Orinoco, day photo 51" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">图是第四天下午拍的。不知道这里的村民是不是比美国人过得幸福，反正这里的鸡比美国鸡幸福。</p>
+  <p lang="en" class="en">(This photo was taken on the afternoon of day four.) I don't know whether the villagers here are happier than Americans, but the chickens are definitely happier than American chickens.</p>
+</div>
+<div class="pair">
+  <p lang="zh">一只常年窝在厕所角落的安静小母鸡。</p>
+  <p lang="en" class="en">A quiet little hen who lives in a corner of the bathroom year-round.</p>
+</div>
+<div class="photo-row">
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-52.jpg" alt="River Orinoco, day photo 52" loading="lazy" /></figure>
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-53.jpg" alt="River Orinoco, day photo 53" loading="lazy" /></figure>
+</div>
+<div class="pair">
+  <p lang="zh">早餐，热巧克力就抗疟药</p>
+  <p lang="en" class="en">Breakfast: hot chocolate, with antimalarials on the side.</p>
+</div>
+<div class="pair">
+  <p lang="zh">晚餐时间，到岸，大家围桌坐下，端起装着苦咖啡的小瓷杯谈笑风生的时候，我想，为什么没人发疯，为什么疯意渐起的只有我一个。</p>
+  <p lang="en" class="en">At dinnertime we finally landed. As everyone sat around the table, chatting and laughing over tiny cups of bitter coffee, I wondered: why isn't anyone going crazy? Why am I the only one who feels the madness creeping in?</p>
+</div>
+<div class="pair">
+  <p lang="zh">从早上七点到晚上五点，除了午饭靠岸的一个小时，别的九个小时都在船上航行。蓝色的小船窄小拥挤，船头坐一个向导，船尾是开船的人，中间坐着我们六个，两两并排刚好塞下。衣服已经两天没干，晒不干的衣服又已再次上阵，身上一件白色半拉链薄上衣散发出难以名状的浓烈野生动物味道。我们把衣服系在船顶，试图让大风和太阳带走衣服里的水汽。</p>
+  <p lang="en" class="en">From 7 a.m. to 5 p.m., apart from one hour ashore for lunch, we spent nine hours on the boat. The little blue boat was narrow and crowded: a guide in the bow, the driver in the stern, and the six of us in between, two by two, just barely fitting. My clothes hadn't dried in two days, and the still-damp ones went back into service; my thin white half-zip top gave off an indescribably strong wild-animal smell. We tied our clothes to the roof of the boat, hoping the wind and sun would carry the moisture away.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-54.jpg" alt="River Orinoco, day photo 54" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">翻转寻找了二十个姿势试图入睡。船沿很低，齐着长凳，不是给想入睡的人安全感的布局，放在长凳上的包都要在手上绕两圈才可内心宁静。大风在脸上猛烈的拍，阳光灼热，我试图找到一个怪异的姿势把自己身体的每一部分掖进船的这一块或那一块阴影里。我最终选择躺着窝在船舱里，脸躲在前排人的座位下面。我感激救生衣当我的床垫，也感激前排的Juanes和麦德林奶奶对座位下的脑袋见怪不怪。</p>
+  <p lang="en" class="en">I tried twenty different positions to fall asleep. The side of the boat was low, level with the bench—not a layout that gives a would-be sleeper any sense of security. Even my bag on the bench had to be wrapped twice around my hand before I could feel at peace. The wind slapped my face and the sun burned. I tried to twist into some strange position that would tuck every part of my body into one patch of shade or another. In the end I curled up on the floor of the boat, my face hidden under the seat in front of me. I was grateful to my life jacket for serving as a mattress, and to Juanes and the Medellín grandma in the front row for not finding a head under their seats the least bit strange.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-55.jpg" alt="River Orinoco, day photo 55" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">前四分之一的人生如自己憧憬的，坐过很多很长的交通工具：坐两天卧铺去拉萨，多次十余小时的站票，自驾八个小时去迈阿密，汽车倒飞机倒飞机倒高铁倒汽车四天时间从甘村回家…… 但这样长时间暴露在阳光下，和大自然猛烈相拥的长途交通工具，这是第一次。骑行是个例外，22年八月某天从水牛城到罗切斯特十小时骑了90mile。可骑行是不同的，我掌握着自己的身体自己的方向，控制着自己的节奏，清楚地知道目的地和剩余的时间，骄傲地接受周围呼啸而过的汽车的注目礼，感觉自己勇敢而孤独，想象驮着行李独自骑行的自己是马路上最凶猛的动物。</p>
+  <p lang="en" class="en">In the first quarter of my life, just as I'd dreamed, I've taken many long journeys: two days on a sleeper train to Lhasa; more than one standing-room-only ride of over ten hours; an eight-hour drive to Miami; four days of bus, plane, plane, high-speed train, and bus to get home from Gainesville… But a long ride this exposed to the sun, locked in such a fierce embrace with nature—this was a first. Cycling is the exception: one day in August 2022, I rode 90 miles in ten hours from Buffalo to Rochester. But cycling is different. I am in charge of my own body, my direction, my pace; I know exactly where I'm going and how much time is left. I proudly accept the stares of the cars whizzing past, feeling brave and alone, imagining that I—riding solo, loaded with bags—am the fiercest animal on the road.</p>
+</div>
+<div class="pair">
+  <p lang="zh">水路不同，三小时变五小时，五小时变八小时，没有网络没有行程讯息，目的地遥遥无期。两岸美丽的湖光山色开始变得千篇一律。</p>
+  <p lang="en" class="en">The river is different. Three hours become five, five become eight. No internet, no schedule, and the destination always somewhere far off. The beautiful scenery on both banks begins to look all the same.</p>
+</div>
+<div class="pair">
+  <p lang="zh">进入自己木板间的第一件事，是放下行李，第二件事，是脱下长棉袜恣意抓挠小腿，释放自己被亚马逊蚊子诅咒的灵魂。这里的蚊子和家乡的不同，除了鼓包外会在针眼处留下一个血点，且痒感持久厚重，仿佛直达肌组织。数天后蚊子包以红点为中心慢慢缩小，直到变成一个实心小痦子，依然无时不刻提醒着你它的存在。</p>
+  <p lang="en" class="en">The first thing I did on entering my wooden room was put down my bags. The second was to peel off my long cotton socks and scratch my calves with abandon, freeing my soul from the curse of the Amazon mosquitoes. They are different from the ones back home: besides the bump, they leave a dot of blood where they bite, and the itch is deep and lasting, as if it reached right into the muscle. Days later, the bite slowly shrinks around the red dot until it becomes a small, hard bump like a mole—still reminding you of its existence every moment.</p>
+</div>
+<div class="photo-row">
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-56.jpg" alt="River Orinoco, day photo 56" loading="lazy" /></figure>
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-57.jpg" alt="River Orinoco, day photo 57" loading="lazy" /></figure>
+</div>
+<div class="pair">
+  <p lang="zh">走遍秘鲁库斯科和奥利诺科河沿岸村落的厕所，共同点是1.坐便 2.坐便没有马桶圈。我和数个朋友讨论过如何拉屎这个问题，有的用亚洲蹲，但技术不好有一脚踏进去的风险，有的悬空扎马步，有的（Rosa）必须要坐下，所以每次如厕前要仔细清洁马桶表面。我在几次实践后确定的方法是，先在附近地上蹲一会，蹲到感觉要来，然后迅速换至马步，否则腿很快就酸了。</p>
+  <p lang="en" class="en">From Cusco in Peru to the villages along the Orinoco, every toilet I've used has two things in common: (1) it's a sit-down toilet, and (2) it has no seat. I've discussed the logistics with several friends. Some squat Asian-style on the rim, though with poor technique you risk stepping right in; some hover in a horse stance; and some (Rosa) must sit, so they carefully clean the rim every time. After a few trials, my method is to squat on the ground nearby until I feel it coming, then quickly switch to the horse stance—otherwise my legs get tired fast.</p>
+</div>
+<div class="pair">
+  <p lang="zh">关上门，八仙过海各显神通。</p>
+  <p lang="en" class="en">Behind closed doors, like the Eight Immortals crossing the sea, everyone has their own tricks.</p>
+</div>
+</section>
+
+<section class="journal-day" id="day-6">
+  <header>
+    <span class="day-label">第六天</span>
+    <h2>Day 6</h2>
+    <div class="day-meta"><i class="fa-solid fa-calendar"></i> December 23, 2024 &nbsp;·&nbsp; <i class="fa-solid fa-location-dot"></i> Mavicure, Guainía</div>
+  </header>
+
+<div class="pair">
+  <p lang="zh">午休，手表12:10振了起来，闷热中挣扎起床，听得天雷滚滚，风声、树声中传来清脆的钟声。只见得人们纷纷抱了容器朝一个大凉亭走去—棕榈叶的顶，四周低低的木栅栏浅浅围起来。</p>
+  <p lang="en" class="en">Nap time. My watch buzzed at 12:10. As I struggled out of bed in the muggy heat, thunder rolled, and through the wind and the rustling trees came the clear ring of a bell. People were carrying containers toward a big open-air pavilion—a palm-leaf roof, ringed by a low wooden fence.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-58.jpg" alt="River Orinoco, day photo 58" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">见我在外面探头探脑，大家纷纷笑着喊“sega sega”, 一会儿Rosa 来了，跟我说这是叫我过去加入的意思。其中一个年轻人和Rosa 说，村民每周末会在敲钟时候带自家的饭来这里和大家分享。一个小妞妞自己抱了一个铁盆吃的正香，脸颊上沾满米粒儿。我进去坐下，盛了一盘百家饭。</p>
+  <p lang="en" class="en">Seeing me peeking in from outside, everyone laughed and called out, "sega, sega." Soon Rosa came over and told me it meant I should come join them. One of the young men told Rosa that every weekend, when the bell rings, villagers bring food from home to share with everyone. A little girl was hugging a metal bowl all to herself, eating happily, her cheeks covered in rice. I went in, sat down, and filled a plate with food from every household.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-59.jpg" alt="River Orinoco, day photo 59" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">在最近的两个村落里我看到了远方另一种生活的可能性：这里没有WiFi ，信号很弱，十点停电，没有人抱着手机刷短视频。这里路不拾遗，夜不闭户，小孩小鸡小狗满村溜达，每个人认识每个人。他们的世界比我小。</p>
+  <p lang="en" class="en">In these last two villages I saw the possibility of a different kind of life, far away: no Wi-Fi, a weak signal, power off at ten, no one glued to a phone scrolling short videos. No one takes what isn't theirs, and no one locks their door at night. Kids, chickens, and dogs wander all over the village, and everyone knows everyone. Their world is smaller than mine.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-60.jpg" alt="River Orinoco, day photo 60" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">很厚实，单手举不起来的铁条钟</p>
+  <p lang="en" class="en">The bell: a thick iron bar, too heavy to lift with one hand.</p>
+</div>
+<div class="pair">
+  <p lang="zh">下午在红色的河水里游泳</p>
+  <p lang="en" class="en">In the afternoon, we swam in the red river.</p>
+</div>
+<div class="photo-row">
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-61.jpg" alt="River Orinoco, day photo 61" loading="lazy" /></figure>
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-62.jpg" alt="River Orinoco, day photo 62" loading="lazy" /></figure>
+</div>
+<div class="pair">
+  <p lang="zh">晚饭前向导Sergio要带我们去村里溜达一圈，夜色渐深，星星都出来了，我穿着拖拉板跟着大家走在村里漆黑的小土路上，两边草长得旺盛。语言障碍，大家听故事，我东张西望，看看远处的黑山包，看看近处蹲在某家人门口的狗子。Sergio很会讲故事，众人一会发出大笑，一会齐声惊呼。热心的Juan臭出于人道主义援助凑过来给我翻译，但由于同传是高难度活动，加上英语水平有限，Juancho传递过来的信息量大概是原话的七分之一，且内容十分抽象。某一刻他听了一会精彩故事，为我过滤出了重要信息，扭过来对我说"这里…有个毒液…你可以拿来毒人"。我平静的花花草草观赏模式被打断，脑子里一下子冒出来二百个问题：哪里有毒液？可以让我拿到？人人都可以拿到？虽说这里部落自治，政府不管毒人犯法？刚要问出口，Juancho扭回去听故事下一段了。五分钟后，他再次扭回来：“毒液…可以…在河里游泳…"。这次我抓住他问，毒液是活的？是微生物？这把juancho问懵了，他扭头问Samu，两个人开始了西班牙语的新一轮嘀嘀咕咕，我的问题没得到回答，新的故事又开始了。</p>
+  <p lang="en" class="en">Before dinner, our guide Sergio took us for a walk around the village. Night was falling and the stars were out. In my flip-flops I followed everyone down the pitch-dark dirt paths, the grass growing thick on both sides. Because of the language barrier, while the others listened to stories, I looked around—at the dark hills in the distance, at a dog crouched by someone's door. Sergio was a great storyteller: one moment everyone burst out laughing, the next they gasped in unison. Kind-hearted Juancho came over to translate for me as humanitarian aid. But simultaneous interpreting is hard, and his English was limited, so what reached me was maybe a seventh of the original, and very abstract. At one point, after listening to a gripping part of the story, he filtered out the key information, turned to me, and said, "Here… there is a poison… you can use it to poison people." My peaceful plant-admiring mode was shattered, and two hundred questions popped into my head: Where is this poison? Could I get some? Can anyone get it? Even if the reserve governs itself, isn't poisoning people still illegal? Before I could ask, Juancho had turned back for the next part of the story. Five minutes later he turned to me again: "The poison… can… swim in the river…" This time I caught him and asked: is the poison alive? Some kind of microorganism? That stumped Juancho. He turned to Samu, and the two began a new round of Spanish murmuring. My question never got answered, and a new story began.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-63.jpg" alt="River Orinoco, day photo 63" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">注定又是张不开嘴跟不上溜的一天。在此感激Samu和Juancho两个翻译臭皮匠。</p>
+  <p lang="en" class="en">Destined to be another day of not being able to speak up or keep up. Many thanks to my two makeshift interpreters, Samu and Juancho.</p>
+</div>
+<div class="photo-row">
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-64.jpg" alt="River Orinoco, day photo 64" loading="lazy" /></figure>
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-65.jpg" alt="River Orinoco, day photo 65" loading="lazy" /></figure>
+</div>
+<div class="pair">
+  <p lang="zh">Mañoco</p>
+  <p lang="en" class="en">Mañoco (toasted cassava flour)</p>
+</div>
+</section>
+
+<section class="journal-day" id="day-7">
+  <header>
+    <span class="day-label">第七天 小狗的快乐假期（寻找Inírida之花）</span>
+    <h2>Day 7 · The dogs' happy holiday (in search of the Inírida flower)</h2>
+    <div class="day-meta"><i class="fa-solid fa-calendar"></i> December 24, 2024 &nbsp;·&nbsp; <i class="fa-solid fa-location-dot"></i> Near Inírida, Guainía</div>
+  </header>
+
+<div class="pair">
+  <p lang="zh">睡到了七点十分，醒来的时候鼻腔里都是水汽。</p>
+  <p lang="en" class="en">I slept until 7:10 and woke up with my nose full of humid air.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-66.jpg" alt="River Orinoco, day photo 66" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">天很晴朗，大家都在吊床里摇晃，等早餐开饭</p>
+  <p lang="en" class="en">The sky was clear. Everyone swayed in hammocks, waiting for breakfast.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-67.jpg" alt="River Orinoco, day photo 67" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">早餐，汤里有一小块排骨！</p>
+  <p lang="en" class="en">Breakfast: a little piece of rib in the soup!</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-68.jpg" alt="River Orinoco, day photo 68" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">Caldo de costilla</p>
+  <p lang="en" class="en">Caldo de costilla (rib soup)</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-69.jpg" alt="River Orinoco, day photo 69" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">今天的主角Osito “小黑熊”和他的朋友。Osito 是一只Criollo—河沿岸村子里常见的狗狗品种，体型不算大，但体脂率低，身手矫捷健步如飞，擅长狩猎。这几天在不同的村子里见到的狗狗都自由生活，随地躺平、溜达。</p>
+  <p lang="en" class="en">Today's stars: Osito ("little bear") and his friend. Osito is a criollo, the kind of dog you often see in the riverside villages—not big, but lean, agile, and fast, and a skilled hunter. In every village these past few days, the dogs lived freely, lying down and wandering wherever they pleased.</p>
+</div>
+<div class="pair">
+  <p lang="zh">Osito 是只活泼小狗，有用不完的精力，经常在宿舍走廊快速往返跑、扒着我们要求我们陪他玩。他的尾巴很独特，像一根支愣着的、高高上翘的黑色大羽毛，帮我在众多小黑狗中识别出他。Osito的男主人今天去Inírida 镇子里工作了，我们正要出发去寻找Inírida之花，Osito 和他的朋友小黄从后面默默跟了过来。女主人在院墙后面大声喊Osito的名字，Osito装作听不见，跟出二百米后向导小胖举起胳膊假装要揍他也只管用了十秒，他踌躇敷衍片刻后又跟上来。</p>
+  <p lang="en" class="en">Osito is a lively little dog with endless energy. He often sprints up and down the dorm hallway and paws at us to play. His tail is one of a kind—like a big black feather standing straight up—which helped me pick him out among all the little black dogs. His owner had gone to work in the town of Inírida that day. As we set off to look for the Inírida flower, Osito and his friend, a little yellow dog, quietly followed us. The woman of the house shouted his name from behind the yard wall; Osito pretended not to hear. Two hundred meters later, our guide raised his arm as if to smack him, which worked for all of ten seconds. After a moment of half-hearted hesitation, Osito followed again.</p>
+</div>
+<div class="pair">
+  <p lang="zh">两只小狗决心要跟着我们探险了。</p>
+  <p lang="en" class="en">The two dogs had made up their minds to join our adventure.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-70.jpg" alt="River Orinoco, day photo 70" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">今天的向导 Orlando。拿了一把小砍刀，一路上他将向我们介绍当地很多植物的用途。</p>
+  <p lang="en" class="en">Today's guide, Orlando, carried a small machete. Along the way he told us what many local plants are used for.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-71.jpg" alt="River Orinoco, day photo 71" loading="lazy" /></figure>
+<div class="pair solo"><p class="en">Iguana: said to help with diabetes and high blood pressure.</p></div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-72.jpg" alt="River Orinoco, day photo 72" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">白蚁巢 当地人把白蚁烤熟后磨粉涂到伤口上</p>
+  <p lang="en" class="en">A termite nest. Locals roast the termites, grind them into powder, and put it on wounds.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-73.jpg" alt="River Orinoco, day photo 73" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">这种植物的根可以治蛇咬伤</p>
+  <p lang="en" class="en">This plant's root is used to treat snakebites.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-74.jpg" alt="River Orinoco, day photo 74" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">毛茸茸的植物，可以治蜘蛛咬伤</p>
+  <p lang="en" class="en">A fuzzy plant used to treat spider bites.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-75.jpg" alt="River Orinoco, day photo 75" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">橡胶树</p>
+  <p lang="en" class="en">A rubber tree.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-76.jpg" alt="River Orinoco, day photo 76" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">叶子用来盖房顶，下面的须用来做手工</p>
+  <p lang="en" class="en">The leaves are used for roofing, and the fibers underneath for handicrafts.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-77.jpg" alt="River Orinoco, day photo 77" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">大人沉沉稳稳地走，十米一停，听Orlando讲植物或找阴凉处休息；小狗没心没肺地跑，互相追逐，一会出现在我们前面，一会儿消失，一会儿又出现在我们后面。我们每走一百米，他们要走五百米。Osito喜欢水，遇到小溪就跳下去美美狗刨一会，小黄就站在独木桥上等他。Osito泡完澡跑回来，剧烈抖动身上的水花，给路过的人也洗个澡。他们上一秒还累趴在那，呼呼地吐着舌头，下一秒却又像两只箭一样嗖嗖地窜了出去。</p>
+  <p lang="en" class="en">The adults walked slowly and steadily, stopping every ten meters to hear Orlando talk about plants or to rest in the shade. The dogs ran around without a care, chasing each other—now ahead of us, now gone, now behind us again. For every hundred meters we walked, they ran five hundred. Osito loves water: whenever we reached a stream, he jumped in for a happy doggy paddle while the yellow dog waited on the log bridge. After his bath, Osito ran back and shook himself hard, giving everyone nearby a bath too. One second they were sprawled on the ground, panting with their tongues out; the next, they shot off like two arrows.</p>
+</div>
+<div class="pair">
+  <p lang="zh">我常想，这两只小狗奔跑的身影会留在我的脑海里，在平淡的生活里给我一点美好力量。平常的时候认真看家晒太阳，假期来的时候尽兴奔跑晒太阳，尽情绽放，并不管这个世界很老、经常很悲伤。</p>
+  <p lang="en" class="en">I often think the image of these two dogs running will stay with me and give me a little strength in ordinary days. On ordinary days, guard the house and soak up the sun; when the holiday comes, run to your heart's content and soak up the sun. Bloom fully, never mind that the world is old and often sad.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-78.jpg" alt="River Orinoco, day photo 78" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">小狗上泥地啦</p>
+  <p lang="en" class="en">The dogs hit the mud!</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-79.jpg" alt="River Orinoco, day photo 79" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">小狗跟我来看鸟巢了</p>
+  <p lang="en" class="en">The dogs came along to see the bird nests.</p>
+</div>
+<div class="pair">
+  <p lang="zh">Mochilero 袋子状的鸟巢</p>
+  <p lang="en" class="en">Mochilero: bag-shaped bird nests.</p>
+</div>
+<div class="photo-row">
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-80.jpg" alt="River Orinoco, day photo 80" loading="lazy" /></figure>
+  <figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-81.jpg" alt="River Orinoco, day photo 81" loading="lazy" /></figure>
+</div>
+<div class="pair">
+  <p lang="zh">找到了！Inírida 之花！</p>
+  <p lang="en" class="en">Found it! The Inírida flower!</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-82.jpg" alt="River Orinoco, day photo 82" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">我们到家的时候，小狗们也到家了。</p>
+  <p lang="en" class="en">When we got home, the dogs got home too.</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-83.jpg" alt="River Orinoco, day photo 83" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">午餐</p>
+  <p lang="en" class="en">Lunch</p>
+</div>
+<figure class="journal-photo"><img src="/assets/img/travel/orinoco/orinoco-84.jpg" alt="River Orinoco, day photo 84" loading="lazy" /></figure>
+<div class="pair">
+  <p lang="zh">和村子说再见啦👋</p>
+  <p lang="en" class="en">Goodbye, village! 👋</p>
+</div>
+</section>
+
+</div>]]></content><author><name></name></author><category term="travel" /><category term="travel" /><summary type="html"><![CDATA[Eight days on the Orinoco River, from Puerto Carreño to Inírida. A bilingual journal.]]></summary></entry></feed>
