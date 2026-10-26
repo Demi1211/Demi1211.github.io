@@ -4,7 +4,7 @@ title: "Moral and semantic violations in reading"
 description: "Do readers process violations of moral norms like violations of meaning? An ERP study of moral vs. semantic violations in short texts (2023–2026)."
 img: https://mdpi-res.com/brainsci/brainsci-16-00375/article_deploy/html/images/brainsci-16-00375-g002-550.jpg
 importance: 2
-category: past research
+category: completed research
 ---
 
 **2023–2026 · with Jian Meng, Yuling Zhong, Xiaodong Xu, and Dr. Edith Kaan**
@@ -18,7 +18,7 @@ Judging that an action is wrong requires knowledge of the world and of how peopl
 Native English speakers read short texts for comprehension while we recorded EEG. Depending on the preceding context, the same critical word made the text a **moral violation**, a **semantic violation**, or a neutral control, which allowed a direct comparison between the two kinds of violation. We analyzed the P200, N400, and Late Positive Component (LPC) time windows with trial-based models, and also collected moral-acceptability and plausibility ratings for every item.
 
 <figure>
-  <img src="https://mdpi-res.com/brainsci/brainsci-16-00375/article_deploy/html/images/brainsci-16-00375-g001.png" alt="Mean ERP waveforms at the critical word for moral, semantic, and neutral conditions" class="img-fluid rounded z-depth-1" loading="lazy">
+  <img src="https://mdpi-res.com/brainsci/brainsci-16-00375/article_deploy/html/images/brainsci-16-00375-g001.png" alt="Mean ERP waveforms at the critical word for moral, semantic, and neutral conditions" class="img-fluid rounded z-depth-1" loading="lazy" style="display:block;max-width:360px;width:100%;margin:0 auto;">
   <figcaption class="caption">Mean ERPs at the critical word (red: moral violation; blue: semantic violation; black: neutral) over frontal, central, and parietal sites. Figure from Meng et al. (2026), CC BY 4.0.</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ Native English speakers read short texts for comprehension while we recorded EEG
 These results suggest that processing moral deviations engages at least some mechanisms that differ, in nature and timing, from those used for semantic oddities.
 
 <figure>
-  <img src="https://mdpi-res.com/brainsci/brainsci-16-00375/article_deploy/html/images/brainsci-16-00375-g002.png" alt="Scalp topographies of difference waves in three time windows" class="img-fluid rounded z-depth-1" loading="lazy">
+  <img src="https://mdpi-res.com/brainsci/brainsci-16-00375/article_deploy/html/images/brainsci-16-00375-g002.png" alt="Scalp topographies of difference waves in three time windows" class="img-fluid rounded z-depth-1" loading="lazy" style="display:block;max-width:520px;width:100%;margin:0 auto;">
   <figcaption class="caption">Scalp distributions of the moral–neutral, semantic–neutral, and moral–semantic differences in three time windows. Figure from Meng et al. (2026), CC BY 4.0.</figcaption>
 </figure>
 

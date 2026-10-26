@@ -5,7 +5,7 @@ permalink: /projects/
 description: Research, teaching, and outreach projects.
 nav: true
 nav_order: 5
-display_categories: [ongoing research, past research]
+display_categories: [ongoing research, completed research]
 horizontal: false
 ---
 

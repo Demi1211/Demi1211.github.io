@@ -4,7 +4,7 @@ title: "Code-switching and cognitive control"
 description: "Does producing dense code-switches engage domain-general cognitive control? A preregistered cross-task adaptation study with Spanish–English bilinguals (2024–2026)."
 img: assets/img/projects/cs-flanker-rt.jpg
 importance: 1
-category: past research
+category: completed research
 ---
 
 **2024–2026 · with Emiliana Pulido, María Josefina Estrada, Souad Kheder, and Dr. Edith Kaan**
@@ -42,6 +42,8 @@ I led the project from conception to publication: designed the paradigm and stim
 
 #### Publication
 
-Zhang, D., Pulido, E., Estrada, M. J., Kheder, S., & Kaan, E. (2026). Producing code-switches: Adaptation of cognitive control in code-switching. *Bilingualism: Language and Cognition*. [PDF]({{ '/assets/pdf/Zhang_et_al_2026_BLC.pdf' | relative_url }}) · [Open data and materials (OSF)](https://osf.io/8n7eu/)
+Zhang, D., Pulido, E., Estrada, M. J., Kheder, S., & Kaan, E. (in press). Producing code-switches: Adaptation of cognitive control in code-switching. *Bilingualism: Language and Cognition*. [PDF]({{ '/assets/pdf/Zhang_et_al_2026_BLC.pdf' | relative_url }}) · [Open data and materials (OSF)](https://osf.io/8n7eu/)
 
-This work was supported by NSF BCS-2017251.
+#### Funding
+
+NSF BCS-2017251.

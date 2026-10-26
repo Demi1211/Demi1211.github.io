@@ -15,6 +15,10 @@ How well can a listener anticipate what comes next, and does that ability depend
 
 At UF we are collecting data from about 60 L1 English / L2 Spanish listeners. Our collaborators run parallel studies with the same materials: Jonathan Brennan's lab at the University of Michigan with L1 Mandarin / L2 English speakers, and Teresa Bajo's lab at the University of Granada with L1 Spanish / L2 English speakers. Comparing within participants across their two languages, and across groups, lets us ask how language experience (exposure, use, proficiency) shapes prediction.
 
+#### Current status
+
+Data collection at UF is underway.
+
 #### My role
 
 - Designed and troubleshot the E-Prime paradigm for bilingual naturalistic listening during EEG.
@@ -32,6 +36,6 @@ Prediction is only half of comprehension: listeners also have to *retrieve* earl
 
 #### Funding
 
-NSF BCS-2518248, *Collaborative Research: Predictive processing in naturalistic language comprehension through EEG and computational modeling*.
+NSF BCS-2518248.
 
 <p style="font-size:.8rem;color:var(--global-text-color-light)">Illustration: Antoine de Saint-Exupéry, <em>The Little Prince</em>.</p>
