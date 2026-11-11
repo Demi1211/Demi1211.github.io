@@ -1304,3 +1304,8 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+// Explicit Chinese fallbacks so CJK text never renders as empty boxes
+body, h1, h2, h3, h4, h5, h6, .navbar, .btn, .post-title, .card-title {
+  font-family: "Roboto", "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Noto Sans SC", "Noto Sans CJK SC", "Microsoft YaHei", sans-serif;
+}
