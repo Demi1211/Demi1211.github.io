@@ -3,8 +3,8 @@ layout: page
 title: "Predictive processing in naturalistic second-language comprehension"
 description: "EEG and computational modeling of how bilinguals predict and retrieve information while listening to The Little Prince in their first and second language (NSF BCS-2518248)."
 img: assets/img/projects/little-prince.jpg
-importance: 0
-category: ongoing research
+importance: 1
+category: Ongoing Research
 ---
 
 **2026– · with Jude T. W. Singleton, Dr. Edith Kaan, Dr. Jonathan R. Brennan, and Dr. Teresa Bajo**

@@ -2,9 +2,9 @@
 layout: page
 title: "Code-switching and cognitive control"
 description: "Does producing dense code-switches engage domain-general cognitive control? A preregistered cross-task adaptation study with Spanish–English bilinguals (2024–2026)."
-img: assets/img/projects/cs-flanker-rt.jpg
+img: assets/img/projects/cs-switching.jpg
 importance: 1
-category: completed research
+category: Completed Research
 ---
 
 **2024–2026 · with Emiliana Pulido, María Josefina Estrada, Souad Kheder, and Dr. Edith Kaan**
@@ -47,3 +47,5 @@ Zhang, D., Pulido, E., Estrada, M. J., Kheder, S., & Kaan, E. (in press). Produc
 #### Funding
 
 NSF BCS-2017251.
+
+<p style="font-size:.8rem;color:var(--global-text-color-light)">Card illustration: <a href="https://discover.hubpages.com/education/Code-Switching-Definition-Types-and-Examples-of-Code-Switching">HubPages, “Code-Switching: Definition, Types, and Examples”</a>.</p>

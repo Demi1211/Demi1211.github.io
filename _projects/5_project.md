@@ -3,8 +3,8 @@ layout: page
 title: "Verb semantics, animacy, and pronoun processing"
 description: "With Julian Grove (CALM Lab), testing how verb meaning shapes expectations about whether a referent is animate, and how that affects reading he, she, and it."
 img: assets/img/projects/animacy.jpg
-importance: 1
-category: ongoing research
+importance: 2
+category: Ongoing Research
 ---
 
 If you read *The dax sneezed*, you probably imagine the dax as a living thing; if you read *The dax melted*, you probably don't. This project, with Julian Grove in the Computational Approaches to Linguistic Meaning (CALM) Lab, looks at how people infer whether an unfamiliar referent is animate from the verb it appears with—and especially at the *distribution* of those judgments.

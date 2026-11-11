@@ -2,7 +2,7 @@
 layout: post
 title: "River Orinoco 奥里诺科河"
 date: 2024-12-18
-description: Eight days on the Orinoco River, from Puerto Carreño to Inírida. A bilingual journal.
+description: Eight days on the Orinoco River, from Puerto Carreño to Inírida.
 thumbnail: /assets/img/travel/orinoco/orinoco-04.jpg
 ---
 

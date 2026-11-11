@@ -4,7 +4,7 @@ title: "Moral and semantic violations in reading"
 description: "Do readers process violations of moral norms like violations of meaning? An ERP study of moral vs. semantic violations in short texts (2023–2026)."
 img: https://mdpi-res.com/brainsci/brainsci-16-00375/article_deploy/html/images/brainsci-16-00375-g002-550.jpg
 importance: 2
-category: completed research
+category: Completed Research
 ---
 
 **2023–2026 · with Jian Meng, Yuling Zhong, Xiaodong Xu, and Dr. Edith Kaan**
